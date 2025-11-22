@@ -1,0 +1,41 @@
+---
+layout: default
+title: Home
+---
+
+<div class="grid_items">
+  {% for card in site.data.events  %}
+  <div class="col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">{{ card.venue }}</h3>
+      </div>
+      <div class="panel-body">
+        {% if card.name %}
+        <h4>
+          {{ card.name }}
+        </h4>
+        {% endif %}
+        {% if card.type %}
+        <p class="resume-subheading">
+          {{ card.type }}
+        </p>
+        {% endif %}
+        {% if card.start_time %}
+        <p class="resume-duration">
+          {{ card.start_time | date: "%Y-%m-%d %H:%M" }}
+        </p>
+        {% endif %}
+        {% if card.tags %}
+        <p class="resume-location">
+          {{ card.tags | join: ", " }}
+        </p>
+        {% endif %}
+        <!-- <p> -->
+        <!--   {{ card.details }} -->
+        <!-- </p> -->
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
