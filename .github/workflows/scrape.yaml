@@ -1,0 +1,31 @@
+name: Fetch gigs
+
+on:
+  schedule:
+    - cron:  '4 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scraper.rb'
+      - '.github/workflow/scrape.yaml'
+
+env:
+  TZ: "Europe/Oslo"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@8aeb6ff8030dd539317f8e1769a044873b56ea71 # v1.268.0
+        with:
+          bundler-cache: true
+      - run: gem install httparty
+      - run: bundle exec ruby scraper.rb
+      - name: Save gigs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "ci: Retrieved new gigs
+          git push
