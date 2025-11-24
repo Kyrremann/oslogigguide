@@ -11,6 +11,10 @@ urls = [
     'type': ''
   },
   {
+    'url': 'https://www.rockefeller.no/api/eventsEdge',
+    'type': ''
+  },
+  {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=mTP5efb3tQ&recommended=false&hostname=www-brewgata-no.filesusr.com&city=Oslo',
     'type': 'broadcast'
   },
