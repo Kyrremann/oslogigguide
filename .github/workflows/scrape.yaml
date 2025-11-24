@@ -2,7 +2,7 @@ name: Fetch gigs
 
 on:
   schedule:
-    - cron:  '4 * * *'
+    - cron:  '0 4 * * *'
   workflow_dispatch:
   push:
     paths:
