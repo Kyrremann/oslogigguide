@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - 'scraper.rb'
-      - '.github/workflow/scrape.yaml'
+      - '.github/workflows/scrape.yaml'
 
 env:
   TZ: "Europe/Oslo"
