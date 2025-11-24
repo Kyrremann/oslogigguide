@@ -7,6 +7,10 @@ urls = [
     'type': ''
   },
   {
+    'url': 'https://www.blaaoslo.no/api/eventsEdge',
+    'type': ''
+  },
+  {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=mTP5efb3tQ&recommended=false&hostname=www-brewgata-no.filesusr.com&city=Oslo',
     'type': 'broadcast'
   },
@@ -59,7 +63,7 @@ class Event
     Event.new(id, name, tags, start_time, venue)
   end
 
-  def self.from_goldie(payload)
+  def self.from_events_edge(payload)
     id = payload['id']
     name = payload['name']
     tags = payload['tags']
@@ -90,7 +94,7 @@ urls.each do |source|
     end
   else
     payload.each do |event|
-      events << Event.from_goldie(event)
+      events << Event.from_events_edge(event)
     end
   end
 end
