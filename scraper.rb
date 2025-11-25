@@ -1,6 +1,7 @@
 require 'json'
 require 'httparty'
 require 'date'
+require 'icalendar'
 
 urls = [
   {
@@ -30,13 +31,15 @@ urls = [
 ]
 
 class Venue
+  attr_reader :id, :name
+
   def initialize(id, name)
     @id = id
     @name = name
   end
 
   def self.from_broadcast(payload)
-    id = payload['venue']['objectid']
+    id = payload['venue']['objectId']
     name = payload['venue']['name']
 
     Venue.new(id, name)
@@ -48,7 +51,7 @@ class Venue
 end
 
 class Event
-  attr_reader :start_time
+  attr_reader :start_time, :name, :id, :tags, :venue
 
   def initialize(id, name, tags, start_time, venue)
     @id = id
@@ -59,7 +62,7 @@ class Event
   end
 
   def self.from_broadcast(payload)
-    id = payload['objectid']
+    id = payload['objectId']
     name = payload['name']
     tags = payload['tags']
     start_time = payload['start_time']
@@ -80,6 +83,7 @@ class Event
 
   def to_json(_options = {})
     {
+      id: @id,
       name: @name,
       tags: @tags,
       start_time: @start_time,
@@ -109,3 +113,28 @@ events.sort_by!(&:start_time)
 File.open('_data/events.json', 'w') do |file|
   file.puts({ updated_at: DateTime.now, events: events }.to_json)
 end
+
+puts "Scraped #{events.length} events."
+
+events.each do |event|
+  if event.id.nil? || event.start_time.nil?
+    puts "Skipping event with missing ID or start time: #{event.name}"
+    next
+  end
+
+  event_start = DateTime.parse(event.start_time)
+  cal = Icalendar::Calendar.new
+  cal.event do |e|
+    e.dtstart = Icalendar::Values::DateTime.new(event_start)
+    e.dtend = Icalendar::Values::DateTime.new(event_start + Rational(4, 24)) # Default duration 4 hours
+    e.summary = event.name
+    e.description = "Tags: #{event.tags.join(', ')}"
+    e.location = event.venue.name
+  end
+
+  File.open("assets/calendars/#{event.id}.ics", 'w') do |file|
+    file.puts cal.to_ical
+  end
+end
+
+puts "Finished generating ICS files."
