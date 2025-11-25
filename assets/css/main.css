@@ -3,10 +3,10 @@
 
 body {
   background-color: #e3e9ec;
+  padding: 3.75%;
 }
 
 .grid_items {
-  padding: 3.75%;
   display: grid;
   grid-template-columns: 100%;
   grid-column-gap: 0;
