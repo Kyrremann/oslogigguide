@@ -1,5 +1,6 @@
 require 'json'
 require 'httparty'
+require 'date'
 
 urls = [
   {
@@ -105,4 +106,6 @@ end
 
 events.sort_by!(&:start_time)
 
-puts events.to_json
+File.open('_data/events.json', 'w') do |file|
+  file.puts({ updated_at: DateTime.now, events: events }.to_json)
+end

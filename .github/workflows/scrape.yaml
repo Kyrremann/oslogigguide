@@ -22,7 +22,7 @@ jobs:
         with:
           bundler-cache: true
       - run: gem install httparty
-      - run: ruby scraper.rb > _data/events.json
+      - run: ruby scraper.rb
       - name: Save gigs
         run: |
           git config --global user.name "github-actions[bot]"
