@@ -22,8 +22,7 @@ title: Oslo Gig Guide
 email: kyrremann@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A gig guide for Oslo, inspired by Tokyo Gig Guide.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: Kyrremann/oslogigguide
 
 # Build settings
 #theme: minima
