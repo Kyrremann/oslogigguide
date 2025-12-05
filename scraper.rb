@@ -51,14 +51,20 @@ class Venue
 end
 
 class Event
-  attr_reader :start_time, :name, :id, :tags, :venue
+  attr_reader :id, :name, :tags, :start_time, :end_time, :venue, :created_at, :updated_at
+  attr_writer :name
+  attr_accessor :updated
 
-  def initialize(id, name, tags, start_time, venue)
+  def initialize(id, name, tags, start_time, end_time, venue, created_at, updated_at)
     @id = id
     @name = name
     @tags = tags
-    @start_time = start_time
+    @start_time = DateTime.parse(start_time)
+    @end_time = DateTime.parse(end_time || event_start + Rational(4, 24)) # Default duration 4 hours
     @venue = venue
+    @created_at = created_at
+    @updated_at = updated_at
+    @updated = false
   end
 
   def self.from_broadcast(payload)
@@ -66,9 +72,12 @@ class Event
     name = payload['name']
     tags = payload['tags']
     start_time = payload['start_time']
+    end_time = payload['custom_fields']['end_time']
     venue = Venue.from_broadcast(payload)
+    created_at = payload['createdAt']
+    updated_at = payload['updatedAt']
 
-    Event.new(id, name, tags, start_time, venue)
+    Event.new(id, name, tags, start_time, end_time, venue, created_at, updated_at)
   end
 
   def self.from_events_edge(payload)
@@ -76,9 +85,12 @@ class Event
     name = payload['name']
     tags = payload['tags']
     start_time = payload['start_time']
+    end_time = payload['custom_fields']['end_time']
     venue = Venue.new(-1, payload['place']['name'])
+    created_at = payload['createdAt']
+    updated_at = payload['updatedAt']
 
-    Event.new(id, name, tags, start_time, venue)
+    Event.new(id, name, tags, start_time, end_time, venue, created_at, updated_at)
   end
 
   def to_json(_options = {})
@@ -87,10 +99,15 @@ class Event
       name: @name,
       tags: @tags,
       start_time: @start_time,
-      venue: @venue.to_json
+      end_time: @end_time,
+      venue: @venue.to_json,
+      created_at: @created_at,
+      updated_at: @updated_at
     }.to_json
   end
 end
+
+old_events = JSON.parse(File.read('_data/events.json'))['events']
 
 events = []
 
@@ -126,11 +143,13 @@ events.each do |event|
     next
   end
 
-  event_start = DateTime.parse(event.start_time)
   cal = Icalendar::Calendar.new
   cal.event do |e|
-    e.dtstart = Icalendar::Values::DateTime.new(event_start)
-    e.dtend = Icalendar::Values::DateTime.new(event_start + Rational(4, 24)) # Default duration 4 hours
+    e.dtstart = Icalendar::Values::DateTime.new(event.start_time)
+    e.dtend = Icalendar::Values::DateTime.new(event.end_time)
+    e.append_custom_property('X-WR-CALNAME', event.name)
+    e.append_custom_property('X-WR-TIMEZONE', 'Europe/Oslo')
+    e.append_custom_property('X-PUBLISHED-TTL', 'PT24H')
     e.summary = event.name
     e.description = "Tags: #{event.tags.join(', ')}"
     e.location = event.venue.name
