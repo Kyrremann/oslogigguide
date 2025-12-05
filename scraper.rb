@@ -116,6 +116,10 @@ end
 
 puts "Scraped #{events.length} events."
 
+Dir.glob('assets/calendars/*.ics').each do |file|
+  File.delete(file)
+end
+
 events.each do |event|
   if event.id.nil? || event.start_time.nil?
     puts "Skipping event with missing ID or start time: #{event.name}"
