@@ -18,6 +18,10 @@ urls = [
     'type': ''
   },
   {
+    'url': 'https://www.kafe-haerverk.com/api/events',
+    'type': ''
+  },
+  {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=mTP5efb3tQ&recommended=false&hostname=www-brewgata-no.filesusr.com&city=Oslo',
     'type': 'broadcast'
   },
@@ -27,6 +31,10 @@ urls = [
   },
   {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=none&recommended=false&hostname=www.vaterlandoslo.no&city=Oslo&key=zXg-2T9s4NWH_NLD6R5KjsDgtT3aeWL2',
+    'type': 'broadcast'
+  },
+  {
+    'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=APJXjIH1ND&recommended=false&hostname=www-lufthavna-no.filesusr.com&city=Oslo',
     'type': 'broadcast'
   }
 ]
