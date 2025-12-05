@@ -3,13 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251205T041059Z
-UID:a24d5b03-0a57-4565-98a8-9e8bab14a6a2
+DTSTAMP:20251205T214053Z
+UID:3fd9dea9-e20a-4960-b550-23b68aee4283
 DTSTART:20260129T180000
-DTEND:20260129T220000
+DTEND:20260130T000000
 DESCRIPTION:Tags: death metal\, extreme metal
 LOCATION:Goldie Oslo
 SUMMARY:Cryptopsy "All So Vile" tour + special guests: 200 Stab Wounds + In
  feri + Corpse Pile
+X-WR-CALNAME:Cryptopsy "All So Vile" tour + special guests: 200 Stab Wounds
+  + Inferi + Corpse Pile
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
 END:VEVENT
 END:VCALENDAR
