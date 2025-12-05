@@ -9,3 +9,6 @@ end
 
 gem "httparty", "~> 0.23.2"
 gem "icalendar", "~> 2.12"
+gem "rss", "~> 0.3.1"
+
+gem "rubocop", "~> 1.42", group: :development

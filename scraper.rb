@@ -2,6 +2,7 @@ require 'json'
 require 'httparty'
 require 'date'
 require 'icalendar'
+require 'rss'
 
 urls = [
   {
@@ -127,9 +128,9 @@ end
 
 events.sort_by!(&:start_time)
 
-File.open('_data/events.json', 'w') do |file|
-  file.puts({ updated_at: DateTime.now, events: events }.to_json)
-end
+# File.open('_data/events.json', 'w') do |file|
+#   file.puts({ updated_at: DateTime.now, events: events }.to_json)
+# end
 
 puts "Scraped #{events.length} events."
 
@@ -160,4 +161,53 @@ events.each do |event|
   end
 end
 
-puts "Finished generating ICS files."
+puts 'Finished generating ICS files.'
+
+new_events = events.reject do |event|
+  old_events.any? { |old_event| old_event['id'] == event.id }
+end
+
+updated_events = events.select do |event|
+  old_event = old_events.find { |oe| oe['id'] == event.id }
+  next false if old_event.nil?
+  next false if old_event['updated_at'].nil? || event.updated_at.nil?
+
+  DateTime.parse(old_event['updated_at']) < DateTime.parse(event.updated_at)
+end
+
+updated_events.map! do |event|
+  event.updated = true
+  event
+end
+
+new_events.concat(updated_events).sort_by!(&:start_time)
+new_events = events.last(10) if new_events.empty?
+
+rss = RSS::Maker.make('atom') do |maker|
+  maker.channel.author = 'Kyrremann'
+  maker.channel.title = 'Oslo Gig Guide'
+  maker.channel.link = 'https://kyrremann.no/oslogigguide/'
+  maker.channel.about = 'New events scraped from various sources.'
+  maker.channel.updated = Time.now.to_s
+
+  new_events.each do |event|
+    maker.items.new_item do |item|
+      name = event.updated ? "#{event.name} (updated)" : event.name
+      item.title = name + event.start_time.strftime(' (%Y-%m-%d)')
+      item.link = "https://kyrremann.no/oslogigguide/##{event.id}"
+      item.description =
+        "#{event.name} at #{event.venue.name} on the #{event.start_time.strftime('%Y-%m-%d %H:%M')}" \
+        "\n\nTags: #{event.tags.join(', ')}" \
+        "\nICS: https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics"
+      item.updated = Time.now.to_s # DateTime.parse(event.start_time).to_time.to_s
+    end
+  end
+end
+
+puts rss
+
+File.open('feed.xml', 'w') do |file|
+  file.puts rss
+end
+
+puts "Generated RSS feed with #{new_events.length} new events."
