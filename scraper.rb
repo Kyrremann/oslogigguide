@@ -100,6 +100,7 @@ class Event
   end
 
   def has_changed(old_event)
+    return false if old_event['updated_at'].nil? || @updated_at.nil?
     return false if DateTime.parse(old_event['updated_at']) == DateTime.parse(@updated_at)
 
     @name != old_event['name'] ||
