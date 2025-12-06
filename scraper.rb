@@ -136,9 +136,9 @@ end
 
 events.sort_by!(&:start_time)
 
-# File.open('_data/events.json', 'w') do |file|
-#   file.puts({ updated_at: DateTime.now, events: events }.to_json)
-# end
+File.open('_data/events.json', 'w') do |file|
+  file.puts({ updated_at: DateTime.now, events: events }.to_json)
+end
 
 puts "Scraped #{events.length} events."
 
