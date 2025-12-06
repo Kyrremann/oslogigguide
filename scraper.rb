@@ -3,6 +3,7 @@ require 'httparty'
 require 'date'
 require 'icalendar'
 require 'rss'
+require 'date'
 
 urls = [
   {
@@ -60,18 +61,16 @@ class Venue
 end
 
 class Event
-  attr_reader :id, :name, :tags, :start_time, :end_time, :venue, :created_at, :updated_at
-  attr_writer :name
-  attr_accessor :updated
+  attr_reader :id, :tags, :start_time, :end_time, :venue, :updated_at
+  attr_accessor :name, :updated
 
-  def initialize(id, name, tags, start_time, end_time, venue, created_at, updated_at)
+  def initialize(id, name, tags, start_time, end_time, venue, updated_at)
     @id = id
     @name = name
     @tags = tags
     @start_time = DateTime.parse(start_time)
     @end_time = DateTime.parse(end_time || event_start + Rational(4, 24)) # Default duration 4 hours
     @venue = venue
-    @created_at = created_at
     @updated_at = updated_at
     @updated = false
   end
@@ -83,10 +82,9 @@ class Event
     start_time = payload['start_time']
     end_time = payload['custom_fields']['end_time']
     venue = Venue.from_broadcast(payload)
-    created_at = payload['createdAt']
     updated_at = payload['updatedAt']
 
-    Event.new(id, name, tags, start_time, end_time, venue, created_at, updated_at)
+    Event.new(id, name, tags, start_time, end_time, venue, updated_at)
   end
 
   def self.from_events_edge(payload)
@@ -96,10 +94,19 @@ class Event
     start_time = payload['start_time']
     end_time = payload['custom_fields']['end_time']
     venue = Venue.new(-1, payload['place']['name'])
-    created_at = payload['createdAt']
     updated_at = payload['updatedAt']
 
-    Event.new(id, name, tags, start_time, end_time, venue, created_at, updated_at)
+    Event.new(id, name, tags, start_time, end_time, venue, updated_at)
+  end
+
+  def has_changed(old_event)
+    return false if DateTime.parse(old_event['updated_at']) == DateTime.parse(@updated_at)
+
+    @name != old_event['name'] ||
+      @tags.sort != old_event['tags'].sort ||
+      @start_time != DateTime.parse(old_event['start_time']) ||
+      @end_time != DateTime.parse(old_event['end_time']) ||
+      @venue.name != old_event['venue']['name']
   end
 
   def to_json(_options = {})
@@ -110,7 +117,6 @@ class Event
       start_time: @start_time,
       end_time: @end_time,
       venue: @venue.to_json,
-      created_at: @created_at,
       updated_at: @updated_at
     }.to_json
   end
@@ -120,6 +126,7 @@ old_events = JSON.parse(File.read('_data/events.json'))['events']
 
 events = []
 
+# Scrape events from all sources
 urls.each do |source|
   response = HTTParty.get(source[:url])
   payload = JSON.parse(response.body)
@@ -142,6 +149,7 @@ end
 
 puts "Scraped #{events.length} events."
 
+# Generate ICS files
 Dir.glob('assets/calendars/*.ics').each do |file|
   File.delete(file)
 end
@@ -171,17 +179,21 @@ end
 
 puts 'Finished generating ICS files.'
 
+# Compare with old events to find new or updated ones
 new_events = events.reject do |event|
   old_events.any? { |old_event| old_event['id'] == event.id }
 end
 
+p "Found #{new_events.length} new events."
+
 updated_events = events.select do |event|
   old_event = old_events.find { |oe| oe['id'] == event.id }
   next false if old_event.nil?
-  next false if old_event['updated_at'].nil? || event.updated_at.nil?
 
-  DateTime.parse(old_event['updated_at']) < DateTime.parse(event.updated_at)
+  event.has_changed(old_event)
 end
+
+p "Found #{updated_events.length} updated events."
 
 updated_events.map! do |event|
   event.updated = true
@@ -189,7 +201,11 @@ updated_events.map! do |event|
 end
 
 new_events.concat(updated_events).sort_by!(&:start_time)
-new_events = events.last(10) if new_events.empty?
+
+if new_events.empty?
+  p 'No new events, using the last 10 events for the feed.'
+  new_events = events.last(10)
+end
 
 rss = RSS::Maker.make('atom') do |maker|
   maker.channel.author = 'Kyrremann'
@@ -211,8 +227,6 @@ rss = RSS::Maker.make('atom') do |maker|
     end
   end
 end
-
-puts rss
 
 File.open('feed.xml', 'w') do |file|
   file.puts rss
