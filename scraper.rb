@@ -219,8 +219,14 @@ rss = RSS::Maker.make('atom') do |maker|
   maker.channel.title = 'Oslo Gig Guide'
   link = maker.channel.links.new_link
   link.href = 'https://kyrremann.no/oslogigguide/'
+  link.rel = 'alternate'
+  link.type = 'text/html'
+  link = maker.channel.links.new_link
+  link.href = 'https://kyrremann.no/oslogigguide/feed.xml'
+  link.type = 'application/atom+xml'
   link.rel = 'self'
   maker.channel.about = 'https://kyrremann.no/plog/feed.xml'
+  maker.channel.subtitle = 'Latest gigs and events in Oslo, Norway'
   maker.channel.updated = Time.now.to_s
 
   new_events.each do |event|
@@ -234,14 +240,16 @@ rss = RSS::Maker.make('atom') do |maker|
       item.content.content = <<~DESC
         <p>
         Venue: #{event.venue.name}<br/>
-        Start: #{event.start_time.strftime('%Y-%m-%d %H:%M')}
+        Start: #{event.start_time.strftime('%Y-%m-%d %H:%M')}<br/>
+        Tags: #{event.tags.join(', ')}
         </p>
+        <br/>
         <p>
         #{event.description}
         </p>
+        <br/>
         <p>
-        Tags: #{event.tags.join(', ')}<br/>
-        Ticket: <a href=\"#{event.ticket_url}\">#{URI.parse(event.ticket_url).host}</a><br/>
+        Tickets: <a href=\"#{event.ticket_url}\">#{URI.parse(event.ticket_url).host}</a><br/>
         <a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>
         </p>
       DESC
