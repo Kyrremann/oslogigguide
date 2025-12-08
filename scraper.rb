@@ -215,15 +215,18 @@ if new_events.empty?
 end
 
 rss = RSS::Maker.make('atom') do |maker|
-  maker.channel.author = 'Kyrremann'
+  maker.channel.author = 'Kyrre Havik'
   maker.channel.title = 'Oslo Gig Guide'
-  maker.channel.link = 'https://kyrremann.no/oslogigguide/'
-  maker.channel.about = 'New events scraped from various sources.'
+  link = maker.channel.links.new_link
+  link.href = 'https://kyrremann.no/oslogigguide/'
+  link.rel = 'self'
+  maker.channel.about = 'https://kyrremann.no/plog/feed.xml'
   maker.channel.updated = Time.now.to_s
 
   new_events.each do |event|
     maker.items.new_item do |item|
       name = event.updated ? "#{event.name} (updated)" : event.name
+      item.id = event.id
       item.title = name + event.start_time.strftime(' (%Y-%m-%d)')
       item.link = "https://kyrremann.no/oslogigguide/##{event.id}"
       item.summary = "#{name} at #{event.venue.name} on #{event.start_time.strftime('%Y-%m-%d %H:%M')}"
@@ -242,7 +245,7 @@ rss = RSS::Maker.make('atom') do |maker|
         <a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>
         </p>
       DESC
-      item.updated = Time.now.to_s # DateTime.parse(event.start_time).to_time.to_s
+      item.updated = event.updated_at
     end
   end
 end
