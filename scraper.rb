@@ -3,6 +3,7 @@ require 'httparty'
 require 'date'
 require 'icalendar'
 require 'rss'
+require 'uri'
 require 'date'
 
 urls = [
@@ -225,14 +226,16 @@ rss = RSS::Maker.make('atom') do |maker|
       name = event.updated ? "#{event.name} (updated)" : event.name
       item.title = name + event.start_time.strftime(' (%Y-%m-%d)')
       item.link = "https://kyrremann.no/oslogigguide/##{event.id}"
-      item.description =
-        "Venue: #{event.venue.name}" \
-        "\nStart: #{event.start_time.strftime('%Y-%m-%d %H:%M')}" \
-        "\n" \
-        "\n#{event.description}" \
-        "\n\nTags: #{event.tags.join(', ')}" \
-        "\nTicket: <a href=\"#{event.ticket_url}\">#{event.ticket_url}</a>" \
-        "\n<a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>"
+      item.description = <<-DESC
+                       Venue: #{event.venue.name}
+                       Start: #{event.start_time.strftime('%Y-%m-%d %H:%M')}
+
+                       #{event.description}
+
+                       Tags: #{event.tags.join(', ')}
+                       Ticket: <a href=\"#{event.ticket_url}\">#{URI.parse(event.ticket_url).host}</a>
+                       <a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>
+      DESC
       item.updated = Time.now.to_s # DateTime.parse(event.start_time).to_time.to_s
     end
   end
