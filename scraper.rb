@@ -226,7 +226,8 @@ rss = RSS::Maker.make('atom') do |maker|
       name = event.updated ? "#{event.name} (updated)" : event.name
       item.title = name + event.start_time.strftime(' (%Y-%m-%d)')
       item.link = "https://kyrremann.no/oslogigguide/##{event.id}"
-      item.description = <<-DESC
+      item.summary = "#{name} at #{event.venue.name} on #{event.start_time.strftime('%Y-%m-%d %H:%M')}"
+      item.content = <<-DESC
                        <p>
                        Venue: #{event.venue.name}<br/>
                        Start: #{event.start_time.strftime('%Y-%m-%d %H:%M')}
