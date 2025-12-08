@@ -227,19 +227,20 @@ rss = RSS::Maker.make('atom') do |maker|
       item.title = name + event.start_time.strftime(' (%Y-%m-%d)')
       item.link = "https://kyrremann.no/oslogigguide/##{event.id}"
       item.summary = "#{name} at #{event.venue.name} on #{event.start_time.strftime('%Y-%m-%d %H:%M')}"
-      item.content = <<-DESC
-                       <p>
-                       Venue: #{event.venue.name}<br/>
-                       Start: #{event.start_time.strftime('%Y-%m-%d %H:%M')}
-                       </p>
-                       <p>
-                       #{event.description}
-                       </p>
-                       <p>
-                       Tags: #{event.tags.join(', ')}<br/>
-                       Ticket: <a href=\"#{event.ticket_url}\">#{URI.parse(event.ticket_url).host}</a><br/>
-                       <a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>
-                       </p>
+      item.content.type = 'html'
+      item.content.content = <<~DESC
+        <p>
+        Venue: #{event.venue.name}<br/>
+        Start: #{event.start_time.strftime('%Y-%m-%d %H:%M')}
+        </p>
+        <p>
+        #{event.description}
+        </p>
+        <p>
+        Tags: #{event.tags.join(', ')}<br/>
+        Ticket: <a href=\"#{event.ticket_url}\">#{URI.parse(event.ticket_url).host}</a><br/>
+        <a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>
+        </p>
       DESC
       item.updated = Time.now.to_s # DateTime.parse(event.start_time).to_time.to_s
     end
