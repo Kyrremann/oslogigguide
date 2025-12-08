@@ -2,12 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom"
   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <author>
-    <name>Kyrremann</name>
+    <name>Kyrre Havik</name>
   </author>
-  <id>New events scraped from various sources.</id>
-  <link href="https://kyrremann.no/oslogigguide/"/>
+  <id>https://kyrremann.no/plog/feed.xml</id>
+  <link href="https://kyrremann.no/oslogigguide/"
+    rel="self"/>
   <title>Oslo Gig Guide</title>
-  <updated>2025-12-08T21:15:47+01:00</updated>
+  <updated>2025-12-08T21:40:45+01:00</updated>
   <entry>
     <content type="html">&lt;p&gt;
 Venue: Sentrum Scene&lt;br/&gt;
@@ -54,12 +55,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1202326151?brand=sent
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/iMoFKD9E9I.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#iMoFKD9E9I</id>
+    <id>iMoFKD9E9I</id>
     <link href="https://kyrremann.no/oslogigguide/#iMoFKD9E9I"/>
     <summary>Europe at Sentrum Scene on 2026-10-26 18:00</summary>
     <title>Europe (2026-10-26)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-12-02T13:34:30.304Z</updated>
+    <dc:date>2025-12-02T13:34:30.304Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -89,12 +90,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1541653382?brand=sent
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/BSLdpb8e2o.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#BSLdpb8e2o</id>
+    <id>BSLdpb8e2o</id>
     <link href="https://kyrremann.no/oslogigguide/#BSLdpb8e2o"/>
     <summary>Warren Zeiders at Sentrum Scene on 2026-11-02 18:00</summary>
     <title>Warren Zeiders (2026-11-02)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-11-13T11:35:52.129Z</updated>
+    <dc:date>2025-11-13T11:35:52.129Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -124,12 +125,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1612773534?brand=sent
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/fOAG234mhl.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#fOAG234mhl</id>
+    <id>fOAG234mhl</id>
     <link href="https://kyrremann.no/oslogigguide/#fOAG234mhl"/>
     <summary>Beth Hart at Sentrum Scene on 2026-11-09 18:00</summary>
     <title>Beth Hart (2026-11-09)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-09-11T08:35:55.547Z</updated>
+    <dc:date>2025-09-11T08:35:55.547Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -188,12 +189,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/268818983?brand=rocke
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/M56lR0E0SH.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#M56lR0E0SH</id>
+    <id>M56lR0E0SH</id>
     <link href="https://kyrremann.no/oslogigguide/#M56lR0E0SH"/>
     <summary>Salmer på pøbb at Rockefeller on 2026-11-10 18:00</summary>
     <title>Salmer på pøbb (2026-11-10)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-11-12T10:02:02.733Z</updated>
+    <dc:date>2025-11-12T10:02:02.733Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -220,12 +221,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1909151456?brand=rock
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/dNJnp6NI1G.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#dNJnp6NI1G</id>
+    <id>dNJnp6NI1G</id>
     <link href="https://kyrremann.no/oslogigguide/#dNJnp6NI1G"/>
     <summary>Dirty Oppland at Rockefeller on 2026-11-20 18:00</summary>
     <title>Dirty Oppland (2026-11-20)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-11-21T08:57:01.217Z</updated>
+    <dc:date>2025-11-21T08:57:01.217Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -255,12 +256,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1554626555?brand=john
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/neA2uFAqyX.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#neA2uFAqyX</id>
+    <id>neA2uFAqyX</id>
     <link href="https://kyrremann.no/oslogigguide/#neA2uFAqyX"/>
     <summary>The Sheepdogs at John Dee on 2026-11-26 18:00</summary>
     <title>The Sheepdogs (2026-11-26)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-11-17T10:01:53.803Z</updated>
+    <dc:date>2025-11-17T10:01:53.803Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -288,12 +289,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1845206123?brand=rock
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/sutHuarSF5.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#sutHuarSF5</id>
+    <id>sutHuarSF5</id>
     <link href="https://kyrremann.no/oslogigguide/#sutHuarSF5"/>
     <summary>Bjørn Hellfuck at Rockefeller on 2026-11-28 18:00</summary>
     <title>Bjørn Hellfuck (2026-11-28)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-12-04T14:34:31.673Z</updated>
+    <dc:date>2025-12-04T14:34:31.673Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -321,12 +322,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1143930002?brand=john
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/aVGBRTMV32.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#aVGBRTMV32</id>
+    <id>aVGBRTMV32</id>
     <link href="https://kyrremann.no/oslogigguide/#aVGBRTMV32"/>
     <summary>Blow – for Tom Waits at John Dee on 2026-12-07 18:00</summary>
     <title>Blow – for Tom Waits (2026-12-07)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-12-05T12:50:14.419Z</updated>
+    <dc:date>2025-12-05T12:50:14.419Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -356,12 +357,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/2041655938?brand=sent
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/Mr41MHDRzv.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#Mr41MHDRzv</id>
+    <id>Mr41MHDRzv</id>
     <link href="https://kyrremann.no/oslogigguide/#Mr41MHDRzv"/>
     <summary>Brad Williams at Sentrum Scene on 2026-12-13 18:00</summary>
     <title>Brad Williams (2026-12-13)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-11-18T08:58:37.006Z</updated>
+    <dc:date>2025-11-18T08:58:37.006Z</dc:date>
   </entry>
   <entry>
     <content type="html">&lt;p&gt;
@@ -394,12 +395,12 @@ Ticket: &lt;a href=&quot;https://www.ticketmaster.no/event/1836966895?brand=rock
 &lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/1OvWQ5UcGR.ics&quot;&gt;Calender event&lt;/a&gt;
 &lt;/p&gt;
 </content>
-    <id>https://kyrremann.no/oslogigguide/#1OvWQ5UcGR</id>
+    <id>1OvWQ5UcGR</id>
     <link href="https://kyrremann.no/oslogigguide/#1OvWQ5UcGR"/>
     <summary>Hannah Storm at Rockefeller on 2027-01-15 18:00</summary>
     <title>Hannah Storm (2027-01-15)</title>
-    <updated>2025-12-08T21:15:47+01:00</updated>
-    <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+    <updated>2025-12-08T10:26:35.413Z</updated>
+    <dc:date>2025-12-08T10:26:35.413Z</dc:date>
   </entry>
-  <dc:date>2025-12-08T21:15:47+01:00</dc:date>
+  <dc:date>2025-12-08T21:40:45+01:00</dc:date>
 </feed>
