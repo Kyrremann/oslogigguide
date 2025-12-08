@@ -61,16 +61,18 @@ class Venue
 end
 
 class Event
-  attr_reader :id, :tags, :start_time, :end_time, :venue, :updated_at
+  attr_reader :id, :description, :tags, :start_time, :end_time, :venue, :ticket_url, :updated_at
   attr_accessor :name, :updated
 
-  def initialize(id, name, tags, start_time, end_time, venue, updated_at)
+  def initialize(id, name, description, tags, start_time, end_time, venue, ticket_url, updated_at)
     @id = id
     @name = name
+    @description = description
     @tags = tags
     @start_time = DateTime.parse(start_time)
     @end_time = DateTime.parse(end_time || event_start + Rational(4, 24)) # Default duration 4 hours
     @venue = venue
+    @ticket_url = ticket_url
     @updated_at = updated_at
     @updated = false
   end
@@ -78,25 +80,29 @@ class Event
   def self.from_broadcast(payload)
     id = payload['objectId']
     name = payload['name']
+    description = payload['details']
     tags = payload['tags']
     start_time = payload['start_time']
     end_time = payload['custom_fields']['end_time']
     venue = Venue.from_broadcast(payload)
+    ticket_url = payload['custom_fields']['ticketUrl']
     updated_at = payload['updatedAt']
 
-    Event.new(id, name, tags, start_time, end_time, venue, updated_at)
+    Event.new(id, name, description, tags, start_time, end_time, venue, ticket_url, updated_at)
   end
 
   def self.from_events_edge(payload)
     id = payload['id']
     name = payload['name']
+    description = payload['details']
     tags = payload['tags']
     start_time = payload['start_time']
     end_time = payload['custom_fields']['end_time']
     venue = Venue.new(-1, payload['place']['name'])
+    ticket_url = payload['custom_fields']['ticketUrl']
     updated_at = payload['updatedAt']
 
-    Event.new(id, name, tags, start_time, end_time, venue, updated_at)
+    Event.new(id, name, description, tags, start_time, end_time, venue, ticket_url, updated_at)
   end
 
   def has_changed(old_event)
@@ -220,9 +226,13 @@ rss = RSS::Maker.make('atom') do |maker|
       item.title = name + event.start_time.strftime(' (%Y-%m-%d)')
       item.link = "https://kyrremann.no/oslogigguide/##{event.id}"
       item.description =
-        "#{event.name} at #{event.venue.name} on the #{event.start_time.strftime('%Y-%m-%d %H:%M')}" \
+        "Venue: #{event.venue.name}" \
+        "\nStart: #{event.start_time.strftime('%Y-%m-%d %H:%M')}" \
+        "\n" \
+        "\n#{event.description}" \
         "\n\nTags: #{event.tags.join(', ')}" \
-        "\nICS: https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics"
+        "\nTicket: <a href=\"#{event.ticket_url}\">#{event.ticket_url}</a>" \
+        "\n<a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>"
       item.updated = Time.now.to_s # DateTime.parse(event.start_time).to_time.to_s
     end
   end
