@@ -50,6 +50,7 @@ GEM
     ffi (1.17.2-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
+    github-markup (5.0.1)
     github-pages (232)
       github-pages-health-check (= 1.18.2)
       jekyll (= 3.10.0)
@@ -316,6 +317,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  github-markup (~> 5.0)
   github-pages
   httparty (~> 0.23.2)
   icalendar (~> 2.12)
@@ -324,4 +326,4 @@ DEPENDENCIES
   rubocop (~> 1.42)
 
 BUNDLED WITH
-   2.7.2
+  4.0.1

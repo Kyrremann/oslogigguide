@@ -12,3 +12,5 @@ gem "icalendar", "~> 2.12"
 gem "rss", "~> 0.3.1"
 
 gem "rubocop", "~> 1.42", group: :development
+
+gem "github-markup", "~> 5.0"

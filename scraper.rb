@@ -1,4 +1,5 @@
 require 'json'
+require 'github/markup'
 require 'httparty'
 require 'date'
 require 'icalendar'
@@ -245,7 +246,7 @@ rss = RSS::Maker.make('atom') do |maker|
         </p>
         <br/>
         <p>
-        #{event.description}
+        #{GitHub::Markup.render('README.markdown', event.description)}
         </p>
         <br/>
         <p>
