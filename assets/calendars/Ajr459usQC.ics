@@ -3,14 +3,16 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251216T041535Z
-UID:9ebe7bb7-eada-45b4-8add-144ce659df27
+DTSTAMP:20251217T041313Z
+UID:89979858-f89a-45e8-be14-430aaf42d17f
 DTSTART:20260124T163000
 DTEND:20260124T220000
 DESCRIPTION:Tags: grindcore\, gore\, blast beats
 LOCATION:Goldie Oslo
-SUMMARY:Melodi Grind Prix 2026 | Gutalax (CZ) + Gadget (SE) +++
-X-WR-CALNAME:Melodi Grind Prix 2026 | Gutalax (CZ) + Gadget (SE) +++
+SUMMARY:Melodi Grind Prix 2026 | Få billetter! | Gutalax (CZ) + Gadget (SE
+ ) +++
+X-WR-CALNAME:Melodi Grind Prix 2026 | Få billetter! | Gutalax (CZ) + Gadge
+ t (SE) +++
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
