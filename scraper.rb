@@ -48,7 +48,7 @@ urls = [
 
 old_events = JSON.parse(File.read('_data/events.json'))['events']
 
-items = []
+events = []
 
 # Scrape events from all sources
 urls.each do |source|
@@ -73,7 +73,7 @@ end
 
 puts "Scraped #{events.length} events."
 
-items.each do |event|
+events.each do |event|
   File.open("_data/events/#{event.id}.json", 'w') do |file|
     file.puts event.to_json
   end
