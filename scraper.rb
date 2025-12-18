@@ -73,10 +73,13 @@ end
 
 puts "Scraped #{events.length} events."
 
+items.each do |event|
+  File.open("_data/events/#{event.id}.json", 'w') do |file|
+    file.puts event.to_json
   end
 end
 
-puts 'Finished generating ICS files.'
+puts 'Finished saving events to files.'
 
 # Compare with old events to find new or updated ones
 new_events = events.reject do |event|
