@@ -2,7 +2,6 @@ require 'json'
 require 'github/markup'
 require 'httparty'
 require 'date'
-require 'icalendar'
 require 'rss'
 require 'uri'
 require 'date'
@@ -157,31 +156,6 @@ end
 
 puts "Scraped #{events.length} events."
 
-# Generate ICS files
-Dir.glob('assets/calendars/*.ics').each do |file|
-  File.delete(file)
-end
-
-events.each do |event|
-  if event.id.nil? || event.start_time.nil?
-    puts "Skipping event with missing ID or start time: #{event.name}"
-    next
-  end
-
-  cal = Icalendar::Calendar.new
-  cal.event do |e|
-    e.dtstart = Icalendar::Values::DateTime.new(event.start_time)
-    e.dtend = Icalendar::Values::DateTime.new(event.end_time)
-    e.append_custom_property('X-WR-CALNAME', event.name)
-    e.append_custom_property('X-WR-TIMEZONE', 'Europe/Oslo')
-    e.append_custom_property('X-PUBLISHED-TTL', 'PT24H')
-    e.summary = event.name
-    e.description = "Tags: #{event.tags.join(', ')}"
-    e.location = event.venue.name
-  end
-
-  File.open("assets/calendars/#{event.id}.ics", 'w') do |file|
-    file.puts cal.to_ical
   end
 end
 
