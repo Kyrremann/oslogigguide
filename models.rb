@@ -75,15 +75,20 @@ class Event
       @venue.name != old_event['venue']['name']
   end
 
-  def to_json(_options = {})
-    {
-      id: @id,
-      name: @name,
-      tags: @tags,
-      start_time: @start_time,
-      end_time: @end_time,
-      venue: @venue.to_json,
-      updated_at: @updated_at
-    }.to_json
+  def to_json(*args)
+    JSON.pretty_generate(
+      {
+        id: @id,
+        name: @name,
+        tags: @tags,
+        start_time: @start_time,
+        end_time: @end_time,
+        venue: @venue.to_json,
+        description: @description,
+        updated_at: @updated_at,
+        ticket_url: @ticket_url
+      },
+      *args
+    )
   end
 end
