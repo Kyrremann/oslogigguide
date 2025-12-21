@@ -4,12 +4,11 @@
 require_relative './models'
 
 require 'json'
+require 'date'
 require 'github/markup'
 require 'httparty'
-require 'date'
 require 'rss'
 require 'uri'
-require 'date'
 
 urls = [
   {
@@ -46,8 +45,7 @@ urls = [
   }
 ]
 
-old_events = JSON.parse(File.read('_data/events.json'))['events']
-
+old_events = Dir.entries('_data/events').select { |f| File.file?("_data/events/#{f}") }.map { |f| f.sub('.json', '') }
 events = []
 
 # Scrape events from all sources
@@ -67,47 +65,35 @@ end
 
 events.sort_by!(&:start_time)
 
-File.open('_data/events.json', 'w') do |file|
-  file.puts({ updated_at: DateTime.now, events: events }.to_json)
+File.open('_data/metadata.json', 'w') do |file|
+  file.puts({ updated_at: DateTime.now }.to_json)
 end
 
 puts "Scraped #{events.length} events."
 
-events.each do |event|
-  File.open("_data/events/#{event.id}.json", 'w') do |file|
-    file.puts event.to_json
-  end
-end
-
-puts 'Finished saving events to files.'
-
 # Compare with old events to find new or updated ones
-new_events = events.reject do |event|
-  old_events.any? { |old_event| old_event['id'] == event.id }
-end
+new_events = events.reject { |event| old_events.include?(event.id) }
 
 p "Found #{new_events.length} new events."
 
 updated_events = events.select do |event|
-  old_event = old_events.find { |oe| oe['id'] == event.id }
-  next false if old_event.nil?
+  old_event_id = old_events.find { |oe| oe['id'] == event.id }
+  next false if old_event_id.nil?
 
+  old_event = Event.new(JSON.parse(File.read("_data/events/#{old_event_id}.json")))
   event.has_changed(old_event)
 end
 
 p "Found #{updated_events.length} updated events."
 
-updated_events.map! do |event|
-  event.updated = true
-  event
+new_events.concat(updated_events)
+
+if new_events.length < 10
+  p "Less than 10 new/updated events, adding #{10 - new_events.length} older events to feed."
+  events.last(10 - new_events.length).concat(new_events)
 end
 
-new_events.concat(updated_events).sort_by!(&:start_time)
-
-if new_events.empty?
-  p 'No new events, using the last 10 events for the feed.'
-  new_events = events.last(10)
-end
+new_events.sort_by!(&:start_time)
 
 rss = RSS::Maker.make('atom') do |maker|
   maker.channel.author = 'Kyrre Havik'
@@ -125,6 +111,12 @@ rss = RSS::Maker.make('atom') do |maker|
   maker.channel.updated = Time.now.to_s
 
   new_events.each do |event|
+    change = ''
+
+    if event.updated
+      change = "<p>#{event.change[0]} changed from "#{event.change[1]}" to "#{event.send(event.change[0])}".</p>"
+    end
+
     maker.items.new_item do |item|
       name = event.updated ? "#{event.name} (updated)" : event.name
       item.id = event.id
@@ -133,6 +125,7 @@ rss = RSS::Maker.make('atom') do |maker|
       item.summary = "#{name} at #{event.venue.name} on #{event.start_time.strftime('%Y-%m-%d %H:%M')}"
       item.content.type = 'html'
       item.content.content = <<~DESC
+        #{change}
         <p>
         Venue: #{event.venue.name}<br/>
         Start: #{event.start_time.strftime('%Y-%m-%d %H:%M')}<br/>
@@ -158,3 +151,13 @@ File.open('feed.xml', 'w') do |file|
 end
 
 puts "Generated RSS feed with #{new_events.length} new events."
+
+puts 'Done generating feed. Saving events to files...'
+
+events.each do |event|
+  File.open("_data/events/#{event.id}.json", 'w') do |file|
+    file.puts event.to_json
+  end
+end
+
+puts 'Finished saving events to files.'

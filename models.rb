@@ -22,7 +22,7 @@ end
 
 class Event
   attr_reader :id, :description, :tags, :start_time, :end_time, :venue, :ticket_url, :updated_at
-  attr_accessor :name, :updated
+  attr_accessor :name, :updated, :change
 
   def initialize(id, name, description, tags, start_time, end_time, venue, ticket_url, updated_at)
     @id = id
@@ -35,6 +35,7 @@ class Event
     @ticket_url = ticket_url
     @updated_at = updated_at
     @updated = false
+    @change = []
   end
 
   def self.from_broadcast(payload)
@@ -68,11 +69,19 @@ class Event
   def has_changed(old_event)
     return false if DateTime.parse(old_event['updated_at']) == DateTime.parse(@updated_at)
 
-    @name != old_event['name'] ||
-      @tags.sort != old_event['tags'].sort ||
-      @start_time != DateTime.parse(old_event['start_time']) ||
-      @end_time != DateTime.parse(old_event['end_time']) ||
-      @venue.name != old_event['venue']['name']
+    if @name != old_event['name']
+      @change = ['name', old_event['name']]
+    elsif @start_time != DateTime.parse(old_event['start_time'])
+      @change = ['start_time', old_event['start_time']]
+    elsif @end_time != DateTime.parse(old_event['end_time'])
+      @change = ['end_time', old_event['end_time']]
+    elsif @venue.name != old_event['venue']
+      @change = ['venue', old_event['venue']]
+    elsif @ticket_url != old_event.ticket_url
+      @change = ['ticket_url', old_event['ticket_url']]
+    end
+
+    @changed = @change.any?
   end
 
   def to_json(*args)
