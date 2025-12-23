@@ -7,7 +7,6 @@ require 'date'
 require 'icalendar'
 require 'json'
 require 'ostruct'
-require 'yaml'
 
 def get_event(id)
   file_path = "_data/events/#{id}.json"
@@ -16,7 +15,7 @@ def get_event(id)
   JSON.parse(File.read(file_path), object_class: OpenStruct)
 end
 
-calendars = YAML.load_file('_data/calendars.yaml')
+calendars = JSON.load_file('_data/calendars.json')
 
 calendars.keys.each do |user|
   items = calendars[user]
