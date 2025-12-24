@@ -160,4 +160,9 @@ events.each do |event|
   end
 end
 
+sorted_id = events.map(&:id)
+File.open('_data/sorted_events.json', 'w') do |file|
+  file.puts sorted_id.to_json
+end
+
 puts 'Finished saving events to files.'

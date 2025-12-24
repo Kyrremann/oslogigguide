@@ -4,8 +4,8 @@ title: Oslo Gig Guide
 ---
 
 <div class="grid_items">
-  {% for card in site.data.events  %}
-  {% assign event = card[1] %}
+  {% for id in site.data.sorted_events %}
+  {% assign event = site.data.events[id] %}
   <div class="col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
