@@ -83,3 +83,9 @@ body {
   box-shadow: none;
   border: 1px solid #eee;
 }
+
+.starred {
+	background-image: url("../images/icons8-star-96.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+}

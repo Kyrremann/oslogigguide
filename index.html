@@ -9,14 +9,10 @@ title: Oslo Gig Guide
   <div class="col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title" id="{{ event.id }}">{{ event.venue }}</h3>
+        <h3 class="panel-title" onclick="subscribe(event)" id="{{ event.id }}" data-name="{{ event.name }}">{{ event.venue }}</h3>
       </div>
       <div class="panel-body">
-        {% if event.name %}
-        <h4>
-          {{ event.name }}
-        </h4>
-        {% endif %}
+        <h4>{{ event.name }}</h4>
         {% if event.type %}
         <p class="resume-subheading">
           {{ event.type }}
@@ -40,3 +36,8 @@ title: Oslo Gig Guide
   </div>
   {% endfor %}
 </div>
+<input id="user" name="user" type="text" placeholder="Username" value="">
+<input id="token" name="token" type="password" placeholder="Token" value="">
+<input type="button" onclick="load()" value="Load">
+
+<script src="assets/js/subscription.js" defer></script>

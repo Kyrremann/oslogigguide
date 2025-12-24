@@ -1,6 +1,5 @@
 # Oslo Gig Guide
 
-Etter å ha blitt inspiret av [TokyoGigGuide](https://www.tokyogigguide.com/), så har jeg begynt på min egen for Oslo. Lei av å bruke Facebook, og Broadcast er ikke mye bedre.
+Etter å ha blitt inspiret av [TokyoGigGuide](https://www.tokyogigguide.com/), så har jeg begynt på min egen greie for Oslo. Lei av å bruke Facebook, og Broadcast er ikke mye bedre.
 
-Målet er å lage noe som scraper konsertlokaler i Oslo som jeg bryr meg om en gang om dagen.
-Håper å få lagd en rss-feed også.
+[Star](https://icons8.com/icon/qdlIi5HkblsU/star-filled) icon by [Icons8](https://icons8.com).
