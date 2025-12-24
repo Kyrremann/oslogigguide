@@ -13,7 +13,7 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2025-12-23T05:17:46+01:00</updated>
+  <updated>2025-12-24T05:16:09+01:00</updated>
   <entry>
     <content type="html">
 &lt;p&gt;
@@ -53,6 +53,53 @@ Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/367102016&quot;&gt;w
     <title>R@B /BLÅ (2025-12-27)</title>
     <updated>2025-12-20T18:09:22.668Z</updated>
     <dc:date>2025-12-20T18:09:22.668Z</dc:date>
+  </entry>
+  <entry>
+    <content type="html">
+&lt;p&gt;
+Venue: BLÅ&lt;br/&gt;
+Start: 2025-12-29 19:00&lt;br/&gt;
+Tags: Shoso-Propo, reggae, rock
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;
+&lt;p&gt;Floating on Recycled Silence&lt;/p&gt;
+&lt;p&gt;25 years ago AWIND suffered a severe case of Retrograd Amnesia, that occurred on a travel in China, late December, 2000. In the process of re-entering life and societies music became highly important for him, in many ways.&lt;/p&gt;
+&lt;p&gt;After a whole lot of years of work, fun, bliss, joy, suffering, agony, healing, thrill and a few more life related aspects, the 25 core tracks of &amp;quot;Floating on Recycled Silence 52/25&amp;quot; will now start to see public light, and with (a bit of) luck also hopefully grow, prosper and thrive in it . They are meant to be bases for collaborations with musicians from around the world.&lt;/p&gt;
+&lt;p&gt;This evening&#39;s event is a dedication to music, sound and movement as art, and a tribute to collaboration, as numerous musical artists meet, have fun, collaborate and play together for the first time!&lt;/p&gt;
+&lt;p&gt;The Concept Release includes the story that has lead to all this, it includes as well the public release of the title single &amp;quot;Floating on Recycled Silence, and it includes the launch of the concept websites &lt;a href=&quot;http://www.awindwind.com&quot;&gt;www.awindwind.com&lt;/a&gt; &amp;amp; awindmind.com.
+EVERYONE is WELCOME.&lt;/p&gt;
+&lt;p&gt;Lineup:&lt;/p&gt;
+&lt;p&gt;AWIND - Floating on Recycled Silence:
+Genre surpassing short intense songs with meaningful personal lyrics. Skaper ny sjanger, “shoso-propo”. Brukt musikken som verktøy til å jobbe seg ut av traumene og utfordringene etter et kraftig hukommelsestap 25 år siden. Lanserer Floating on Recycled Silence 52/25, et prosjekt med nyskapning og samarbeid som grunnpilarer.&lt;/p&gt;
+&lt;p&gt;Inah&lt;/p&gt;
+&lt;p&gt;Tjuvbanden:&lt;/p&gt;
+&lt;p&gt;New Sin Atras (Newsinatras):
+Tradpop og humor med stemning, Komponist, dirigent, arrangør og pianist Øystein Bolstad tar i samarbeid med artisten AWIND publikum med på en reise gjennom tradpop og jazz historien, Sinatra sier hei, og brasilianske bossanova strofer og internasjonale julerytmer krydrer fremføringen.&lt;/p&gt;
+&lt;p&gt;SKELA
+Jazza eksperimentell gitarmusikk med tradisjonelle undertoner&lt;/p&gt;
+&lt;p&gt;Gäddan
+Groovy bass stuft som får deg til å måpe&lt;/p&gt;
+&lt;p&gt;SeaSick Cowboys
+En gjeng ustødige lokale herremenn som synger stødig&lt;/p&gt;
+&lt;p&gt;Kim Castle
+Kool DJ med live House sets.&lt;/p&gt;
+&lt;p&gt;Butterpop Colective
+Selvmekka D &amp;amp; B og trancetenderende rytmer&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;
+Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/72282482&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://kyrremann.no/oslogigguide/assets/calendars/NhOJV5AkvT.ics&quot;&gt;Calender event&lt;/a&gt;
+&lt;/p&gt;
+</content>
+    <id>NhOJV5AkvT</id>
+    <link href="https://kyrremann.no/oslogigguide/#NhOJV5AkvT"/>
+    <summary>A NIGHT of AWIND &amp; friends at BLÅ on 2025-12-29 19:00</summary>
+    <title>A NIGHT of AWIND &amp; friends (2025-12-29)</title>
+    <updated>2025-12-23T12:51:11.95Z</updated>
+    <dc:date>2025-12-23T12:51:11.95Z</dc:date>
   </entry>
   <entry>
     <content type="html">
@@ -370,5 +417,5 @@ Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/225144653?brand=john
     <updated>2025-12-19T09:56:14.687Z</updated>
     <dc:date>2025-12-19T09:56:14.687Z</dc:date>
   </entry>
-  <dc:date>2025-12-23T05:17:46+01:00</dc:date>
+  <dc:date>2025-12-24T05:16:09+01:00</dc:date>
 </feed>
