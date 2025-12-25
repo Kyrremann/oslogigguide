@@ -32,7 +32,7 @@ class Event
     @start_time = DateTime.parse(start_time)
     @end_time = DateTime.parse(end_time || event_start + Rational(4, 24)) # Default duration 4 hours
     @venue = venue
-    @ticket_url = ticket_url
+    @ticket_url = ticket_url.gsub(/[[:space:]]/, '')
     @updated_at = updated_at
     @updated = false
     @change = []
