@@ -11,7 +11,6 @@ require 'rss'
 require 'uri'
 
 urls = [
-  # TODO: Parkteatret and Subscene
   {
     'url': 'https://www.goldie.no/api/eventsEdge',
     'type': '',
@@ -36,6 +35,16 @@ urls = [
     'url': 'https://www.broadcast.events/api/domain/events?venueId=LT4bwNdGbn',
     'type': '',
     'name': 'Vulkan Arena'
+  },
+  {
+    'url': 'https://www.broadcast.events/api/domain/events?venueId=HuvlhSJTaz',
+    'type': '',
+    'name': 'Parkteatret'
+  },
+  {
+    'url': 'https://www.broadcast.events/api/domain/events?venueId=wrSVGQ5bAi',
+    'type': '',
+    'name': 'SubScene'
   },
   {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=mTP5efb3tQ&recommended=false&hostname=www-brewgata-no.filesusr.com&city=Oslo',
