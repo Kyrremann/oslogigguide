@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:22a38f50-4630-405b-802e-e06d79222e89
+DTSTAMP:20251225T160719Z
+UID:130178cc-4d84-4f8f-a4e4-423649f00b47
 DTSTART:20261025T180000
 DTEND:20261025T220000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:ad32e91f-3174-4766-aa0f-751cbf128fe1
+DTSTAMP:20251225T160719Z
+UID:7cf789d7-5730-4cf6-9e15-5c023ee8e883
 DTSTART:20260327T180000
 DTEND:20260327T220000
 DESCRIPTION:Venue: John Dee\nTags: blackmetal\, hardcore\, postrock\n\nMed 
@@ -92,8 +92,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:4d296384-cf5e-4d0a-8473-de44f23b8a63
+DTSTAMP:20251225T160719Z
+UID:6d9e46ed-51fa-4ecf-91f3-df3d2acf59d9
 DTSTART:20260328T180000
 DTEND:20260328T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: psychedelicrock\, progfolk\n\nTil v
@@ -123,8 +123,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:e09e2c6b-a9d4-4e3e-93f4-93d25bc096b5
+DTSTAMP:20251225T160719Z
+UID:7772d208-8d00-498c-9d27-6f2270df0eae
 DTSTART:20260307T190000
 DTEND:20260307T220000
 DESCRIPTION:Venue: Vaterland\nTags: metall\, folk\, extreme\n\nVANVIDD\, gr
@@ -159,8 +159,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:3b684fc6-514a-48aa-bab1-612c4656b6a6
+DTSTAMP:20251225T160719Z
+UID:49652d7c-1ec4-45ed-9b4f-8efd33db7223
 DTSTART:20260308T180000
 DTEND:20260308T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: r&b\, soul\, hiphop\n\nDen Grammy-v
@@ -196,8 +196,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:fc21cd44-f27c-4a10-8944-9b6eb83ef1ff
+DTSTAMP:20251225T160719Z
+UID:1b6dabb3-5eab-4442-b7f2-b716b8796799
 DTSTART:20260305T190000
 DTEND:20260305T220000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, dark-wave\, new-wave\n\n\nA 
@@ -233,8 +233,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:073598c5-338b-493f-bdb4-1eab1eff603f
+DTSTAMP:20251225T160719Z
+UID:56216548-b99c-47ae-921f-6d4f8bf1c928
 DTSTART:20260520T170000
 DTEND:20260520T210000
 DESCRIPTION:Venue: John Dee\nTags: stonerrock\, doom\n\nAcid King kommer ti
@@ -258,8 +258,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:eda38b78-8348-44e5-b882-9d4450504e20
+DTSTAMP:20251225T160719Z
+UID:6c68fff6-ad67-48ce-9597-e682780cd48d
 DTSTART:20260213T180000
 DTEND:20260213T220000
 DESCRIPTION:Venue: Vulkan Arena\nTags: electronic/dance\, elektronisk\, tec
@@ -286,8 +286,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T152909Z
-UID:a6ba420c-bc42-48a9-bf9b-4f34f53fe3f6
+DTSTAMP:20251225T160719Z
+UID:6fbd97fa-6589-44ea-bb8c-d2f5c1a607ad
 DTSTART:20260311T180000
 DTEND:20260311T220000
 DESCRIPTION:Venue: Rockefeller\nTags: indiepop\n\nI 2026 er det 30 år side
@@ -317,6 +317,35 @@ DESCRIPTION:Venue: Rockefeller\nTags: indiepop\n\nI 2026 er det 30 år side
  bli kø.\n\nTickets: https://www.ticketmaster.no/event/1939365743\n
 LOCATION:Belle and Sebastian
 SUMMARY:Belle and Sebastian
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251225T160719Z
+UID:52bc6781-5202-4b03-a74c-4831631c991b
+DTSTART:20260311T190000
+DTEND:20260311T220000
+DESCRIPTION:Venue: Vaterland\nTags: klassisk\, avantgarde\n\nDen anerkjente
+  komponisten og cellisten Jo Quail kommer til Vaterland onsdag 11. mars 20
+ 26!\nCello-konsert(!?!) på en den lokale pizza & metall-bula tenker du ka
+ nskje\, Såklart! Det er tross alt Jo Quail vi snakker om her.\n\nMed bakg
+ runn fra samtidsmusikk\, klassisk\, metal og avantgarde appellerer musikke
+ n hennes til et bredt publikum\, og Jo Quail må sies å ha blitt en favor
+ itt blant svartkledde verden over med hyppige opptredener på en rekke ren
+ ommerte metall & omegn festivaler som f.eks Roadburn Festival i Tilburg de
+ r hun i 2022 fremførte bestillingsverket The Cartographer.\n\nHun har opp
+ trådt på alt fra Hellfest og Melbourne Recital Centre til Royal Festival
+  Hall\, og samarbeidet med artister som Caspian\, Emma Ruth Rundle\, Ensla
+ ved\, MONO\, Myrkur\, Wardruna og Heilung.\n\nKjent for sin nyskapende bru
+ k av looping-teknikker og fortryllende liveopptredener verden over. Enten 
+ hun spiller solo eller \nsammen med band\, kor eller orkestre\, kombinerer
+  hun organisk flyt med intrikate lydlandskap – majestetisk\, sensuelt og
+  dypt gripende.\n\nPå tide å bli trollbundet - sees på pizzasjappa onsd
+ ag 11. mars 2026!\n\nTickets: https://www.ticketmaster.no/event/jo-quail-b
+ illetter/1817766175\n
+LOCATION:Jo Quail
+SUMMARY:Jo Quail
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
