@@ -13,7 +13,7 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2025-12-24T16:43:25+01:00</updated>
+  <updated>2025-12-25T05:17:58+01:00</updated>
   <entry>
     <content type="html">
 &lt;p&gt;
@@ -417,5 +417,5 @@ Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/225144653?brand=john
     <updated>2025-12-19T09:56:14.687Z</updated>
     <dc:date>2025-12-19T09:56:14.687Z</dc:date>
   </entry>
-  <dc:date>2025-12-24T16:43:25+01:00</dc:date>
+  <dc:date>2025-12-25T05:17:58+01:00</dc:date>
 </feed>
