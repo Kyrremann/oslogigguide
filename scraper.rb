@@ -161,7 +161,6 @@ rss = RSS::Maker.make('atom') do |maker|
         <br/>
         <p>
         Tickets: <a href=\"#{event.ticket_url}\">#{URI.parse(event.ticket_url).host}</a><br/>
-        <a href=\"https://kyrremann.no/oslogigguide/assets/calendars/#{event.id}.ics\">Calender event</a>
         </p>
       DESC
       item.updated = event.updated_at
