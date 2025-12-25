@@ -5,7 +5,7 @@ on:
   push:
     paths:
       - 'calendar.rb'
-      - '_data/calendars.yaml'
+      - '_data/calendars.json'
       - '_data/events/*'
       - '.github/workflows/calendar.yaml'
 
