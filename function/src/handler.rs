@@ -1,6 +1,9 @@
 mod git;
 
-use axum::{extract::Json, http::StatusCode, response::IntoResponse};
+use axum::body::Body;
+use axum::http::{self, HeaderValue};
+use axum::response::IntoResponse;
+use axum::{extract::Json, http::StatusCode};
 use log::{error, info};
 use serde::Deserialize;
 use std::fs;
@@ -15,7 +18,74 @@ pub struct PostRequest {
     name: String,
 }
 
-pub async fn handle(Json(payload): Json<PostRequest>) -> impl IntoResponse {
+pub fn with_permissive_cors(origin: String) -> http::HeaderMap {
+    let mut headers = http::HeaderMap::new();
+    headers.insert(
+        "Access-Control-Allow-Headers",
+        HeaderValue::from_static("content-type, x-auth-token, authorization, origin, accept"),
+    );
+    headers.insert(
+        "Access-Control-Allow-Methods",
+        HeaderValue::from_static("OPTIONS, POST"),
+    );
+
+    if origin == "http://localhost:4000" || origin == "https://kyrremann.no" {
+        // return response.header("Access-Control-Allow-Origin", origin);
+        headers.insert(
+            "Access-Control-Allow-Origin",
+            HeaderValue::from_str(&origin).unwrap(),
+        );
+    }
+
+    headers
+}
+
+pub async fn handle(
+    request: axum::extract::Request<Body>,
+) -> Result<impl IntoResponse, (StatusCode, String)> {
+    // ) -> Result<Json<serde_json::Value>, (StatusCode, String)> {
+    // Response<Body> {
+    // Json(payload): Json<PostRequest>) -> impl IntoResponse {
+
+    if let Err(e) = env_logger::try_init() {
+        error!("Failed to initialize logger: {}", e);
+    }
+
+    let origin = match request
+        .headers()
+        .get("origin")
+        .and_then(|v| v.to_str().ok())
+    {
+        Some(value) => value.to_string(),
+        None => {
+            error!("Origin header missing or invalid");
+            return Err((
+                StatusCode::BAD_REQUEST,
+                "Origin header missing or invalid".to_string(),
+            ));
+        }
+    };
+
+    info!("Request from origin: {}", origin);
+    let headers = with_permissive_cors(origin.clone());
+
+    // Check if this is an OPTIONS request
+    if request.method() == http::Method::OPTIONS {
+        return Ok((
+            StatusCode::OK,
+            headers,
+            Json(serde_json::json!({
+                "message": "CORS preflight successful"
+            })),
+        ));
+    }
+
+    let body_bytes = axum::body::to_bytes(request.into_body(), usize::MAX)
+        .await
+        .unwrap();
+
+    let payload: PostRequest = serde_json::from_slice(&body_bytes).unwrap();
+
     // Access the fields
     let user = payload.user;
     let token = payload.token;
@@ -81,10 +151,14 @@ pub async fn handle(Json(payload): Json<PostRequest>) -> impl IntoResponse {
             )
         })?;
 
-    let response = serde_json::json!({
-        message: "Subscription added successfully".to_string(),
-    });
-    Ok((StatusCode::OK, Json(response)))
+    Ok((
+        StatusCode::OK,
+        headers,
+        Json(serde_json::json!({
+            "status": "success",
+            "message": message
+        })),
+    ))
 }
 
 fn unsubscribe(

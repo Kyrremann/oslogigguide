@@ -1,13 +1,13 @@
 use axum::{Router, routing::post};
 
 use log::info;
-use oslogigguide::handler;
+use oslogigguide::handle;
 
 #[tokio::main]
 async fn main() {
     env_logger::init();
 
-    let app = Router::new().route("/", post(handler));
+    let app = Router::new().route("/", post(handle));
 
     let addr = "0.0.0.0:8080";
     info!("Starting server on {}...", addr);
