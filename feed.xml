@@ -13,7 +13,7 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2025-12-25T15:25:55+01:00</updated>
+  <updated>2025-12-25T15:31:22+01:00</updated>
   <entry>
     <content type="html">
 &lt;p&gt;
@@ -2688,5 +2688,5 @@ Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/1039135188&quot;&gt;
     <updated>2025-10-13T14:26:32.568Z</updated>
     <dc:date>2025-10-13T14:26:32.568Z</dc:date>
   </entry>
-  <dc:date>2025-12-25T15:25:55+01:00</dc:date>
+  <dc:date>2025-12-25T15:31:22+01:00</dc:date>
 </feed>
