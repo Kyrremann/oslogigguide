@@ -11,37 +11,51 @@ require 'rss'
 require 'uri'
 
 urls = [
+  # TODO: Parkteatret and Subscene
   {
     'url': 'https://www.goldie.no/api/eventsEdge',
-    'type': ''
+    'type': '',
+    'name': 'Goldie'
   },
   {
     'url': 'https://www.blaaoslo.no/api/eventsEdge',
-    'type': ''
+    'type': '',
+    'name': 'Blå'
   },
   {
     'url': 'https://www.rockefeller.no/api/eventsEdge',
-    'type': ''
+    'type': '',
+    'name': 'Rockefeller'
   },
   {
     'url': 'https://www.kafe-haerverk.com/api/events',
-    'type': ''
+    'type': '',
+    'name': 'Kafe Hærverk'
+  },
+  {
+    'url': 'https://www.broadcast.events/api/domain/events?venueId=LT4bwNdGbn',
+    'type': '',
+    'name': 'Vulkan Arena'
   },
   {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=mTP5efb3tQ&recommended=false&hostname=www-brewgata-no.filesusr.com&city=Oslo',
-    'type': 'broadcast'
+    'type': 'broadcast',
+    'name': 'Brewgata'
   },
   {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=EBIs19AJFr&recommended=false&hostname=www-revolveroslo-no.filesusr.com&city=Oslo',
-    'type': 'broadcast'
+    'type': 'broadcast',
+    'name': 'Revolver'
   },
   {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=none&recommended=false&hostname=www.vaterlandoslo.no&city=Oslo&key=zXg-2T9s4NWH_NLD6R5KjsDgtT3aeWL2',
-    'type': 'broadcast'
+    'type': 'broadcast',
+    'name': 'Vaterland'
   },
   {
     'url': 'https://demo.broadcastapp.no/api/layoutWidgetCors?limit=99&venue=APJXjIH1ND&recommended=false&hostname=www-lufthavna-no.filesusr.com&city=Oslo',
-    'type': 'broadcast'
+    'type': 'broadcast',
+    'name': 'MIR'
   }
 ]
 
