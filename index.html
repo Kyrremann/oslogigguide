@@ -6,9 +6,6 @@ title: Oslo Gig Guide
 <div class="grid_items">
   {% for id in site.data.sorted_events %}
   {% assign event = site.data.events[id] %}
-  {% unless event %}
-  {% continue %}
-  {% endunless %}
   <div class="col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
