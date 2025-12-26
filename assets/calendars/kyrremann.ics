@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:130178cc-4d84-4f8f-a4e4-423649f00b47
+DTSTAMP:20251226T093941Z
+UID:c31f1e0b-64b2-40db-b963-ff9da084f075
 DTSTART:20261025T180000
 DTEND:20261025T220000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:7cf789d7-5730-4cf6-9e15-5c023ee8e883
+DTSTAMP:20251226T093941Z
+UID:02ae1f99-969c-43ad-bf61-fe4163a6015e
 DTSTART:20260327T180000
 DTEND:20260327T220000
 DESCRIPTION:Venue: John Dee\nTags: blackmetal\, hardcore\, postrock\n\nMed 
@@ -92,8 +92,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:6d9e46ed-51fa-4ecf-91f3-df3d2acf59d9
+DTSTAMP:20251226T093941Z
+UID:872d96da-fb42-4a18-b0a1-2a6b31ef6add
 DTSTART:20260328T180000
 DTEND:20260328T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: psychedelicrock\, progfolk\n\nTil v
@@ -123,8 +123,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:7772d208-8d00-498c-9d27-6f2270df0eae
+DTSTAMP:20251226T093941Z
+UID:cc9adbc0-da09-4f3d-8fcf-fc6fc85579be
 DTSTART:20260307T190000
 DTEND:20260307T220000
 DESCRIPTION:Venue: Vaterland\nTags: metall\, folk\, extreme\n\nVANVIDD\, gr
@@ -159,8 +159,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:49652d7c-1ec4-45ed-9b4f-8efd33db7223
+DTSTAMP:20251226T093941Z
+UID:a0fede82-8cf4-4326-8f22-1a0887cce4e8
 DTSTART:20260308T180000
 DTEND:20260308T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: r&b\, soul\, hiphop\n\nDen Grammy-v
@@ -196,8 +196,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:1b6dabb3-5eab-4442-b7f2-b716b8796799
+DTSTAMP:20251226T093941Z
+UID:2e0fc911-ce3d-4754-994c-8717dce410f2
 DTSTART:20260305T190000
 DTEND:20260305T220000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, dark-wave\, new-wave\n\n\nA 
@@ -233,8 +233,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:56216548-b99c-47ae-921f-6d4f8bf1c928
+DTSTAMP:20251226T093941Z
+UID:e4a5fe35-0ad3-400d-abe1-377e8e269631
 DTSTART:20260520T170000
 DTEND:20260520T210000
 DESCRIPTION:Venue: John Dee\nTags: stonerrock\, doom\n\nAcid King kommer ti
@@ -258,8 +258,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:6c68fff6-ad67-48ce-9597-e682780cd48d
+DTSTAMP:20251226T093941Z
+UID:d988df29-b1ab-4a10-a8ed-2444a023e217
 DTSTART:20260213T180000
 DTEND:20260213T220000
 DESCRIPTION:Venue: Vulkan Arena\nTags: electronic/dance\, elektronisk\, tec
@@ -286,8 +286,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:6fbd97fa-6589-44ea-bb8c-d2f5c1a607ad
+DTSTAMP:20251226T093941Z
+UID:b40a4dce-b5b2-43ad-aefd-71005cf93171
 DTSTART:20260311T180000
 DTEND:20260311T220000
 DESCRIPTION:Venue: Rockefeller\nTags: indiepop\n\nI 2026 er det 30 år side
@@ -322,8 +322,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T160719Z
-UID:52bc6781-5202-4b03-a74c-4831631c991b
+DTSTAMP:20251226T093941Z
+UID:52e05a0c-cbf3-4eda-a95f-1e553f3ad058
 DTSTART:20260311T190000
 DTEND:20260311T220000
 DESCRIPTION:Venue: Vaterland\nTags: klassisk\, avantgarde\n\nDen anerkjente
@@ -346,6 +346,29 @@ DESCRIPTION:Venue: Vaterland\nTags: klassisk\, avantgarde\n\nDen anerkjente
  illetter/1817766175\n
 LOCATION:Jo Quail
 SUMMARY:Jo Quail
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251226T093941Z
+UID:984e5854-76f8-48c7-ad67-49ff01cc5a3e
+DTSTART:20260129T190000
+DTEND:20260129T220000
+DESCRIPTION:Venue: Revolver\nTags: rock\, punk\n\nUNNSKYLD\n\nInspirert av 
+ norsk punk fra 80-tallet og lange\, rørete kvelder\, er Unnskyld selv en 
+ røre av fester og fyllesyker.\n\nDeres mål når de griper til gitarene o
+ g knepper opp skjorta\, er å denge sansene med knyttnever av euforiske st
+ renge-vibrasjoner\, mens vokalist Marcus Vangen leverer strofer av tragiko
+ misk lyrikk.\n\nMed sin særegne kombinasjon av galgenhumor og rå realism
+ e klarer de å treffe lytteren midt i brystet\, men det de ønsker mest av
+  alt er å\, sammen med lytteren - la seg rive helt med.\n\n\n\nVRAK:\n\n
+ «En voldelig lidenskap for absolutt ingenting» \n\n«Litt kaotisk\, men 
+ bare litt»\n\n«Et støvete elektrisk gjerde»\n\n«Nytt Album!»\n\n«P
+ å samme nivå som andre bra band»\n\nTickets: https://revolveroslo.ticke
+ tco.events/no/nb/e/vrak__unnskyld__revolver\n
+LOCATION:Vrak // Unnskyld
+SUMMARY:Vrak // Unnskyld
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
