@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:b9baecb5-e10e-409f-8022-fa1995ef296c
+DTSTAMP:20260108T125645Z
+UID:f22d71db-d02b-4842-b775-155aa4467bed
 DTSTART:20261025T180000
 DTEND:20261025T220000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:6810c710-3bbf-4928-b21c-fa2af312cb72
+DTSTAMP:20260108T125645Z
+UID:800ba075-625c-4414-be07-267fcca154e0
 DTSTART:20260327T180000
 DTEND:20260327T220000
 DESCRIPTION:Venue: John Dee\nTags: blackmetal\, hardcore\, postrock\n\nMed 
@@ -92,8 +92,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:0770a7d6-d2b7-4d2e-9802-d271cd3f0a7c
+DTSTAMP:20260108T125645Z
+UID:eff76042-d753-4394-8556-265bed59d6dd
 DTSTART:20260328T180000
 DTEND:20260328T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: psychedelicrock\, progfolk\n\nTil v
@@ -123,8 +123,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:1b3a4c9a-c895-4278-be4b-1083a6c3d5f7
+DTSTAMP:20260108T125645Z
+UID:98577325-5508-42e0-9761-951c9332188b
 DTSTART:20260307T190000
 DTEND:20260307T220000
 DESCRIPTION:Venue: Vaterland\nTags: metall\, folk\, extreme\n\nVANVIDD\, gr
@@ -159,8 +159,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:5447e38c-d95f-4931-8f6e-f00ff45b9329
+DTSTAMP:20260108T125645Z
+UID:5f7e933d-8822-4430-a354-b76835c1ce59
 DTSTART:20260308T180000
 DTEND:20260308T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: r&b\, soul\, hiphop\n\nDen Grammy-v
@@ -196,8 +196,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:2a4b145e-c772-4e96-a5e0-c9672f1038dc
+DTSTAMP:20260108T125645Z
+UID:1f24a2c0-ac89-4c48-abbc-3cbcc749d9ba
 DTSTART:20260305T190000
 DTEND:20260305T220000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, dark-wave\, new-wave\n\n\nA 
@@ -233,8 +233,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:19dfcdbe-7fe5-41d9-b856-88e349faacfd
+DTSTAMP:20260108T125645Z
+UID:e3a8def6-3a57-4b49-aab7-3b58464dbd15
 DTSTART:20260520T170000
 DTEND:20260520T210000
 DESCRIPTION:Venue: John Dee\nTags: stonerrock\, doom\n\nAcid King kommer ti
@@ -258,8 +258,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:f339b714-688c-4048-add9-4a66300b2de8
+DTSTAMP:20260108T125645Z
+UID:d8450467-1f97-4fec-a87c-4b30f3e0e654
 DTSTART:20260213T180000
 DTEND:20260213T220000
 DESCRIPTION:Venue: Vulkan Arena\nTags: electronic/dance\, elektronisk\, tec
@@ -286,8 +286,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:36bb8c66-a1b7-4b14-9560-059b588eaab3
+DTSTAMP:20260108T125645Z
+UID:45154a3a-e6ff-4521-902f-4b4a19fb7d3b
 DTSTART:20260311T180000
 DTEND:20260311T220000
 DESCRIPTION:Venue: Rockefeller\nTags: indiepop\n\nI 2026 er det 30 år side
@@ -322,8 +322,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:fc3f022b-65b8-4fc4-9400-b8f1b0dcb465
+DTSTAMP:20260108T125645Z
+UID:bf49a6a4-e827-4b92-8558-45b343b5666c
 DTSTART:20260311T190000
 DTEND:20260311T220000
 DESCRIPTION:Venue: Vaterland\nTags: klassisk\, avantgarde\n\nDen anerkjente
@@ -351,8 +351,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:293b0991-0444-475d-8a43-272611587596
+DTSTAMP:20260108T125645Z
+UID:785b65b8-9346-4d3a-baaf-28071d4f290a
 DTSTART:20260129T190000
 DTEND:20260129T220000
 DESCRIPTION:Venue: Revolver\nTags: rock\, punk\n\nUNNSKYLD\n\nInspirert av 
@@ -374,8 +374,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T125440Z
-UID:349059fb-4564-4083-98d2-8a8d5f4f5e1c
+DTSTAMP:20260108T125645Z
+UID:fe0a92c8-5a11-4e88-9680-0c4764d1f1ba
 DTSTART:20260130T183000
 DTEND:20260130T220000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: gig\, film\, live\n\nNO ESCAPE inv
@@ -432,6 +432,45 @@ LOCATION:MoE (NO) | Ditte Krøyer (DK) | Grrrls 666 (NO) | "We were prisone
  rs of the Polish state" | "XENOS" 
 SUMMARY:MoE (NO) | Ditte Krøyer (DK) | Grrrls 666 (NO) | "We were prisoner
  s of the Polish state" | "XENOS" 
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T125645Z
+UID:d38acdd5-704d-4bb7-9cef-87d09d79a0d9
+DTSTART:20260220T190000
+DTEND:20260220T220000
+DESCRIPTION:Venue: Revolver\nTags: goth\n\nBatplanet er stolte av å presen
+ tere en helaften med både mystikk og magi. Vi har den store gleden av å 
+ få invitere våre skandinaviske goth-medsammensvorne til det som er den f
+ ørste konserten i vår regi. Feler og synther møtes i en clash av folket
+ oner blandet med klassisk industriell goth. Det blir en hedensk samling me
+ d musikk inspirert av blant annet Current 93\, Coil\, Swans og Psychic TV.
+  Vi gleder oss til å se deg der!\n\n\n\nRUUSURIIMU er en Helsinki-basert 
+ eksperimentell musikkgruppe som kombinerer folketoner med apokalyptisk\, i
+ ndustriell elektronika. På hjemmebane har de allerede rukket å bli et hu
+ dholdningsnavn i det gotiske alternativmiljøet. De er kjent for sine hypn
+ otiske\, stemningsfulle forestillinger med et lydlandskap som sender lytte
+ ren inn i nye virkeligheter. \n\nOUTO SISAR er en audiovisuell duo basert 
+ i Helsinki. Duoen henter inspirasjon fra utemmede og uforutsigbare naturkr
+ efter\, støy og voldsom kaos. De strekker seg langt forbi grensene for hv
+ a som er konvensjonelt og trygt. Outo Sisar maner frem gjenferdene fra bå
+ de fortid\, nåtid og fremtid med musikken sin\, alt i et kakafonisk klust
+ er som sender lytteren inn i en transe. \n\nTRÄET-MUND-SPILLI fra Stockho
+ lm er et dypt personlig\, spirituelt prosjekt som søker å utforske broen
+  mellom mytologi\, apokalypse\, hedenskap og død. Med tradisjonelle instr
+ umenter henter bandet inn inspirasjon fra naturmystikk og en glemt fortid 
+ og kombinerer det med en moderne\, mørk klang. \n\nRUUSURIIMU: https://ru
+ usuriimu.bandcamp.com\nhttps://www.instagram.com/ruusuriimu/\n\nOUTO SISAR
+ :https://www.instagram.com/outosisar/\n\nTRÄET-MUND-SPILLIhttps://tret-mu
+ nd-spilli.bandcamp.com/album/tr-et-mund-spilli\nhttps://www.instagram.com/
+ traet_mund_spilli/\n\n\nTickets: https://revolveroslo.ticketco.events/no/n
+ b/e/batplanet_pres_ruusuriimu_fi_outosisar_fi_tretmundspilli_se_og_vzhu\n
+LOCATION:BATPLANET PRES: Ruusuriimu (FI)\, Outosisar (FI)\, Träet-Mund-Spi
+ lli (SE) og VÌZ(HU)
+SUMMARY:BATPLANET PRES: Ruusuriimu (FI)\, Outosisar (FI)\, Träet-Mund-Spil
+ li (SE) og VÌZ(HU)
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
