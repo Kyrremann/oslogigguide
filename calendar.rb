@@ -46,7 +46,7 @@ calendars.keys.each do |user|
 
         Tickets: #{event.ticket_url.split('?')[0]}
       DESC
-      e.location = event.name
+      e.location = event.venue
     end
   end
 
