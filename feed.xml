@@ -13,30 +13,6 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2026-02-22T05:37:15+01:00</updated>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Mir&lt;br/&gt;
-Start: 2026-03-30 17:00&lt;br/&gt;
-Tags: Folk, Jam, Dans
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;Info TBA!&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>QpRqrBXobk</id>
-    <link href="https://kyrremann.no/oslogigguide/#QpRqrBXobk"/>
-    <summary>What The Folk !!? # Gjester: TBA!  at Mir on 2026-03-30 17:00</summary>
-    <title>What The Folk !!? # Gjester: TBA!  (2026-03-30)</title>
-    <updated>2026-02-21T14:29:35.586Z</updated>
-    <dc:date>2026-02-21T14:29:35.586Z</dc:date>
-  </entry>
-  <dc:date>2026-02-22T05:37:15+01:00</dc:date>
+  <updated>2026-02-23T05:43:16+01:00</updated>
+  <dc:date>2026-02-23T05:43:16+01:00</dc:date>
 </feed>
