@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/oslogigguide" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: Kyrremann/oslogigguide
+timezone: Europe/Oslo
 
 # Build settings
 #theme: minima
