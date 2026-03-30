@@ -32,8 +32,8 @@ calendars.keys.each do |user|
     p event
 
     cal.event do |e|
-      e.dtstart = DateTime.parse(event.start_time)
-      e.dtend = DateTime.parse(event.end_time)
+      e.dtstart = to_oslo_time(event.start_time)
+      e.dtend = to_oslo_time(event.end_time)
       e.append_custom_property('X-WR-CALNAME', 'oslogigguide')
       e.append_custom_property('X-WR-TIMEZONE', 'Europe/Oslo')
       e.append_custom_property('X-PUBLISHED-TTL', 'PT24H')

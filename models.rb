@@ -1,5 +1,13 @@
 # frozen_string_literal: true
 
+require 'tzinfo'
+
+OSLO_TZ = TZInfo::Timezone.get('Europe/Oslo')
+
+def to_oslo_time(time_str)
+  OSLO_TZ.utc_to_local(DateTime.parse(time_str.to_s))
+end
+
 class Venue
   attr_reader :id, :name
 
@@ -29,8 +37,8 @@ class Event
     @name = name
     @description = description
     @tags = tags
-    @start_time = DateTime.parse(start_time)
-    @end_time = DateTime.parse(end_time || event_start + Rational(4, 24)) # Default duration 4 hours
+    @start_time = to_oslo_time(start_time)
+    @end_time = end_time ? to_oslo_time(end_time) : @start_time + Rational(4, 24) # Default duration 4 hours
     @venue = venue
     @ticket_url = ticket_url.gsub(/[[:space:]]/, '')
     @updated_at = updated_at
@@ -71,9 +79,9 @@ class Event
 
     if @name != old_event['name']
       @change = ['name', old_event['name']]
-    elsif @start_time != DateTime.parse(old_event['start_time'])
+    elsif @start_time != to_oslo_time(old_event['start_time'])
       @change = ['start_time', old_event['start_time']]
-    elsif @end_time != DateTime.parse(old_event['end_time'])
+    elsif @end_time != to_oslo_time(old_event['end_time'])
       @change = ['end_time', old_event['end_time']]
     elsif @venue.name != old_event['venue']
       @change = ['venue', old_event['venue']]

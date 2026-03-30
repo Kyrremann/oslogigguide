@@ -324,6 +324,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   rss (~> 0.3.1)
   rubocop (~> 1.42)
+  tzinfo (~> 2.0)
 
 BUNDLED WITH
-  4.0.1
+   2.6.9
