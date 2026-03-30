@@ -3,38 +3,72 @@ layout: default
 title: Oslo Gig Guide
 ---
 
-<div class="grid_items">
+<div class="filter-bar">
+  <input type="search" id="search-input" placeholder="Søk etter artist, venue eller sjanger…" autocomplete="off">
+</div>
+
+<div class="venue-filters" id="venue-filters">
+  {% assign venues = "" | split: "" %}
   {% for id in site.data.sorted_events %}
-  {% assign event = site.data.events[id] %}
-  <div class="col-sm-4">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h3 class="panel-title" onclick="subscribe(event)" id="{{ id }}" data-name="{{ event.name }}">{{ event.venue }}</h3>
-      </div>
-      <div class="panel-body">
-        <h4>{{ event.name }}</h4>
-        {% if event.type %}
-        <p class="resume-subheading">
-          {{ event.type }}
-        </p>
-        {% endif %}
-        {% if event.start_time %}
-        <p class="resume-duration">
-          {{ event.start_time | date: "%Y-%m-%d %H:%M" }}
-        </p>
-        {% endif %}
-        {% if event.tags %}
-        <p class="resume-location">
-          {{ event.tags | join: ", " }}
-        </p>
-        {% endif %}
-        <!-- <p> -->
-        <!--   {{ event.details }} -->
-        <!-- </p> -->
-      </div>
-    </div>
-  </div>
+    {% assign event = site.data.events[id] %}
+    {% unless venues contains event.venue %}
+      {% assign venues = venues | push: event.venue %}
+    {% endunless %}
+  {% endfor %}
+  <button class="venue-btn active" data-venue="all">Alle</button>
+  {% for venue in venues %}
+  <button class="venue-btn" data-venue="{{ venue | downcase }}">{{ venue }}</button>
   {% endfor %}
 </div>
 
+{% assign prev_date = "" %}
+{% assign months = "januar,februar,mars,april,mai,juni,juli,august,september,oktober,november,desember" | split: "," %}
+{% assign day_names = "søndag,mandag,tirsdag,onsdag,torsdag,fredag,lørdag" | split: "," %}
+
+{% for id in site.data.sorted_events %}
+{% assign event = site.data.events[id] %}
+{% assign curr_date = event.start_time | date: "%Y-%m-%d" %}
+
+{% if curr_date != prev_date %}
+  {% unless prev_date == "" %}
+    </div>
+  </div>
+  {% endunless %}
+  {% assign month_idx = event.start_time | date: "%-m" | plus: -1 %}
+  {% assign day_idx = event.start_time | date: "%w" | plus: 0 %}
+  {% assign month_name = months[month_idx] %}
+  {% assign day_name = day_names[day_idx] %}
+  <div class="date-section" data-date="{{ curr_date }}">
+    <h2 class="date-headline">{{ day_name | capitalize }} {{ event.start_time | date: "%-d" }}. {{ month_name }} {{ event.start_time | date: "%Y" }}</h2>
+    <div class="grid_items">
+  {% assign prev_date = curr_date %}
+{% endif %}
+
+<div class="event-card"
+     data-venue="{{ event.venue | downcase }}"
+     data-name="{{ event.name | downcase }}"
+     data-tags="{{ event.tags | join: ' ' | downcase }}">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title" onclick="subscribe(event)" id="{{ id }}" data-name="{{ event.name }}">{{ event.venue }}</h3>
+    </div>
+    <div class="panel-body">
+      <p class="event-name">{{ event.name }}</p>
+      {% if event.start_time %}
+      <p class="event-time">{{ event.start_time | date: "%H:%M" }}</p>
+      {% endif %}
+      {% if event.tags %}
+      <p class="event-tags">{{ event.tags | join: ", " }}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% endfor %}
+{% unless prev_date == "" %}
+    </div>
+  </div>
+{% endunless %}
+
 <script src="assets/js/subscription.js" defer></script>
+<script src="assets/js/filter.js" defer></script>
