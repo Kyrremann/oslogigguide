@@ -2,8 +2,27 @@
 ---
 
 body {
-  background-color: #e3e9ec;
+  background-color: #e6e2d6;
   padding: 3.75%;
+}
+
+/* ── Site header ── */
+
+.site-header {
+  background-color: #6b7c45;
+  border-radius: 4px;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+}
+
+.site-title,
+.site-title a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85em;
+  margin: 0;
 }
 
 /* ── Filter bar ── */
@@ -15,7 +34,7 @@ body {
 #search-input {
   width: 100%;
   padding: 9px 14px;
-  border: 1px solid #c5d0d5;
+  border: 1px solid #c4bfa8;
   border-radius: 20px;
   font-size: 0.95em;
   background: #fff;
@@ -24,8 +43,8 @@ body {
 }
 
 #search-input:focus {
-  border-color: #8fa8b4;
-  box-shadow: 0 0 0 2px rgba(143,168,180,0.25);
+  border-color: #6b7c45;
+  box-shadow: 0 0 0 2px rgba(107,124,69,0.2);
 }
 
 /* ── Venue buttons ── */
@@ -39,7 +58,7 @@ body {
 
 .venue-btn {
   padding: 5px 12px;
-  border: 1px solid #c5d0d5;
+  border: 1px solid #c4bfa8;
   background: #fff;
   border-radius: 20px;
   cursor: pointer;
@@ -51,13 +70,13 @@ body {
 }
 
 .venue-btn:hover {
-  background: #edf1f3;
+  background: #eae7da;
 }
 
 .venue-btn.active {
-  background: #d4dde1;
-  border-color: #a0b4bc;
-  color: #333;
+  background: #6b7c45;
+  border-color: #4d5c2e;
+  color: #fff;
   font-weight: 600;
 }
 
@@ -71,10 +90,10 @@ body {
   font-size: 1.05em;
   font-weight: 600;
   text-transform: capitalize;
-  color: #555;
+  color: #3d4a25;
   margin: 0 0 12px;
   padding-bottom: 6px;
-  border-bottom: 2px solid #c5d0d5;
+  border-bottom: 2px solid #b8b49c;
   letter-spacing: 0.3px;
 }
 
@@ -105,14 +124,14 @@ body {
 /* ── Panel / card ── */
 
 .panel {
-  background-color: #fff;
+  background-color: #faf9f4;
   border-radius: 4px;
-  border: 1px solid #e0e6e9;
+  border: 1px solid #ccc8b8;
   box-shadow: none;
 }
 
 .panel-default > .panel-heading {
-  background-color: #d4dde1;
+  background-color: #6b7c45;
   border: none;
   border-top-right-radius: 3px;
   border-top-left-radius: 3px;
@@ -133,6 +152,7 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
   cursor: pointer;
+  color: #fff;
 }
 
 .panel-body {
