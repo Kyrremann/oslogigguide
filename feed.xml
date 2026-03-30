@@ -13,32 +13,65 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2026-03-29T06:52:04+02:00</updated>
+  <updated>2026-03-30T06:59:11+02:00</updated>
   <entry>
     <content type="html">
 &lt;p&gt;
-Venue: Mir&lt;br/&gt;
-Start: 2026-03-31 17:00&lt;br/&gt;
-Tags: Darkvawe, Synthpop, Shoegazer
+Venue: KAFÉ HÆRVERK&lt;br/&gt;
+Start: 2026-04-18 18:00&lt;br/&gt;
+Tags: folk, arabisk
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;
-&lt;p&gt;DJ Tom Kalstad sin ønskekonsert for de med samme musikksmak.&lt;/p&gt;
-&lt;p&gt;Velkommen!!!&lt;/p&gt;
-&lt;p&gt;🎶🎶🎶&lt;/p&gt;
+&lt;p&gt;Arabiske og norsk folketoner møtes på underfullt vis når Khaled Habeeb og Astrid Garmo spiller i lag. Khaled Habeeb (oud) opprinnelig fra Syria, kjent for sitt album Spor fra Nord med låter preget av arabisk og norsk folkemusikk. Astrid Garmo (hardingfele, fele) fra Lom i Gudbrandsdalen og er kjent for mange fra bandet Pumpegris og sin soloplate Sjugurd.&lt;/p&gt;
+&lt;p&gt;Nawara Alnaddaf (oud, vokal) og Inger Hannisdal (fiolin) spiller ny musikk, og kjente sanger fra det arabiske repertoaret.&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Konsertstart 20:30
+ID: 20
+CC: 250,- + avg&lt;/p&gt;
 
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;
-Tickets: &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br/&gt;
+Tickets: &lt;a href=&quot;https://tikkio.com/events/63287&quot;&gt;tikkio.com&lt;/a&gt;&lt;br/&gt;
 &lt;/p&gt;
 </content>
-    <id>q1J4HDzAIQ</id>
-    <link href="https://kyrremann.no/oslogigguide/#q1J4HDzAIQ"/>
-    <summary>Resonant Noir (DJ) at Mir on 2026-03-31 17:00</summary>
-    <title>Resonant Noir (DJ) (2026-03-31)</title>
-    <updated>2026-03-28T18:14:05.224Z</updated>
-    <dc:date>2026-03-28T18:14:05.224Z</dc:date>
+    <id>Gw4N4S1OT1</id>
+    <link href="https://kyrremann.no/oslogigguide/#Gw4N4S1OT1"/>
+    <summary>Khaled Habeeb &amp; Astrid Garmo / Nawara Alnaddaf &amp; Inger Hannisdal at KAFÉ HÆRVERK on 2026-04-18 18:00</summary>
+    <title>Khaled Habeeb &amp; Astrid Garmo / Nawara Alnaddaf &amp; Inger Hannisdal (2026-04-18)</title>
+    <updated>2026-03-29T21:16:05.723Z</updated>
+    <dc:date>2026-03-29T21:16:05.723Z</dc:date>
   </entry>
-  <dc:date>2026-03-29T06:52:04+02:00</dc:date>
+  <entry>
+    <content type="html">
+&lt;p&gt;
+Venue: Vulkan Arena&lt;br/&gt;
+Start: 2026-05-17 20:00&lt;br/&gt;
+Tags: Amapiano, Afrobeats
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;
+&lt;p&gt;AMAPIANO OSLO – 3 EDITION
+Amapiano oslo er tilbake! De to første var utsolgt. Ren energi. Ustoppelig stemning!
+Denne gangen skrur vi alt opp enda et nivå.
+Vi slipper en ekstra headliner + flere overraskelser fortløpende. Oslos beste DJs. Afrobeats og amapiano hele natten🔥&lt;/p&gt;
+&lt;p&gt;Dette er en kveld du ikke vil gå glipp av, så husk å sikre billetten din tidlig.&lt;/p&gt;
+&lt;p&gt;JELEEL! is the groundbreaking Nigerian-American artist fueling a new sound where Afrobeats meets alt-rap with REAL RAW energy.,JELEEL! fuses his West African heritage into a genre-bending mix of Afrobeats, punk, hyperpop, and rap crafting a raw and global sound that’s impossible to ignore!&lt;/p&gt;
+&lt;p&gt;From the viral madness of “DIVE IN!” to landing backflips mid-set, JELEEL! has built a fanbase that thrives off energy, heat, and unpredictability. After taking off with “DIVE IN!”, the Nigerian-American disruptor went global, linking up with UK Afro-fusion star Darkoo for their standout collab “Rhude Gyal” The track fuses his Lagos-born rhythm with Darkoo’s London edge, pushing JELEEL! even deeper into his genre-bending lane and “the glitch” in the algorithm with Lagos roots, LA energy, and London on speed dial.&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;
+Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/1331397051&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
+&lt;/p&gt;
+</content>
+    <id>TqIa7MiayQ</id>
+    <link href="https://kyrremann.no/oslogigguide/#TqIa7MiayQ"/>
+    <summary>AMAPIANO OSLO – 3 EDITION at Vulkan Arena on 2026-05-17 20:00</summary>
+    <title>AMAPIANO OSLO – 3 EDITION (2026-05-17)</title>
+    <updated>2026-03-29T14:32:12.139Z</updated>
+    <dc:date>2026-03-29T14:32:12.139Z</dc:date>
+  </entry>
+  <dc:date>2026-03-30T06:59:11+02:00</dc:date>
 </feed>
