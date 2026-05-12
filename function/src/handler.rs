@@ -4,6 +4,7 @@ use axum::body::Body;
 use axum::http::{self, HeaderValue};
 use axum::response::IntoResponse;
 use axum::{extract::Json, http::StatusCode};
+use chrono::{DateTime, Duration, Utc};
 use log::{error, info};
 use serde::Deserialize;
 use std::fs;
@@ -161,6 +162,45 @@ pub async fn handle(
     ))
 }
 
+fn prune_old_events(repository: &git2::Repository, data: &mut serde_json::Value) {
+    let cutoff = Utc::now() - Duration::days(30);
+    let events_dir = repository
+        .path()
+        .parent()
+        .unwrap()
+        .join("_data/events");
+
+    for user_subs in data.as_object_mut().unwrap().values_mut() {
+        let subs = user_subs.as_array_mut().unwrap();
+        subs.retain(|entry| {
+            let id = entry["id"].as_str().unwrap_or("");
+            let event_path = events_dir.join(format!("{}.json", id));
+            if !event_path.exists() {
+                info!("Pruning missing event: {}", id);
+                return false;
+            }
+            let content = fs::read_to_string(&event_path).unwrap_or_default();
+            let event: serde_json::Value =
+                serde_json::from_str(&content).unwrap_or_default();
+            if let Some(start) = event["start_time"].as_str() {
+                if let Ok(dt) = start.parse::<DateTime<chrono::FixedOffset>>() {
+                    let keep = dt.with_timezone(&Utc) > cutoff;
+                    if !keep {
+                        info!("Pruning old event: {} ({})", id, start);
+                    }
+                    return keep;
+                }
+            }
+            true // keep if date can't be parsed
+        });
+    }
+
+    // Remove users whose subscription list is now empty
+    data.as_object_mut()
+        .unwrap()
+        .retain(|_, v| v.as_array().map(|a| !a.is_empty()).unwrap_or(false));
+}
+
 fn unsubscribe(
     _repository: &git2::Repository,
     _file_path: &str,
@@ -184,6 +224,8 @@ fn unsubscribe(
             data.as_object_mut().unwrap().remove(_user);
         }
     }
+
+    prune_old_events(_repository, &mut data);
 
     // Write back to the file
     let updated_content = serde_json::to_string_pretty(&data)?;
@@ -225,6 +267,8 @@ fn subscribe(
             "name": name
         }));
     }
+
+    prune_old_events(repository, &mut data);
 
     // Write back to the file
     let updated_content = serde_json::to_string_pretty(&data)?;
