@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:beff812f-3be0-4195-bb23-e7b5962a69e9
-DTSTART:20261025T200000
-DTEND:20261026T000000
+DTSTAMP:20260512T071944Z
+UID:d4837949-6441-425c-9fb7-017acdf66e69
+DTSTART;TZID=Europe/Oslo:20261025T190000
+DTEND;TZID=Europe/Oslo:20261025T230000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
  ke duoen She Past Away tar med seg sin mørke og hypnotiske postpunk til J
  ohn Dee i oktober 2026 – en sjelden sjanse til å oppleve bandet som har
@@ -44,10 +44,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:0135e364-d78f-4d6c-824b-43c18e79cb67
-DTSTART:20260327T190000
-DTEND:20260327T230000
+DTSTAMP:20260512T071944Z
+UID:11930afb-27da-4104-933e-037b5eb02d94
+DTSTART;TZID=Europe/Oslo:20260327T180000
+DTEND;TZID=Europe/Oslo:20260327T220000
 DESCRIPTION:Venue: John Dee\nTags: blackmetal\, hardcore\, postrock\n\nMed 
  intense liveopptredener blander ROSA FAENSKAP svartmetallens mørke med ha
  rdcorens rabiate energi\, så vel som post-rockens drømmende lydlandskap.
@@ -92,10 +92,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:9894c189-f969-4ef2-83e5-57462904a450
-DTSTART:20260328T190000
-DTEND:20260328T230000
+DTSTAMP:20260512T071944Z
+UID:348b45d6-fa0b-44db-9617-5babc3da5986
+DTSTART;TZID=Europe/Oslo:20260328T180000
+DTEND;TZID=Europe/Oslo:20260328T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: psychedelicrock\, progfolk\n\nAltı
  n Gün er aktuelle med sitt sjette studioalbum\, *Garip*\, som markerer ba
  ndets neste kapittel i deres stadig utviklende musikalske reise ut i det y
@@ -124,10 +124,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:f01b70d6-a13a-4398-bf79-538544eada86
-DTSTART:20260307T200000
-DTEND:20260307T230000
+DTSTAMP:20260512T071944Z
+UID:46d0beba-0940-42c5-bffe-43aebb491cb7
+DTSTART;TZID=Europe/Oslo:20260307T190000
+DTEND;TZID=Europe/Oslo:20260307T220000
 DESCRIPTION:Venue: Vaterland\nTags: metall\, folk\, extreme\n\nVANVIDD\, gr
  unnlagt i 2013\, kombinerer ekstrem metal med folkemusikk\, der folketoner
   møter kalde og mørke riff. Musikken er preget av brutale vokaler som fo
@@ -160,10 +160,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:351561b9-f37a-4458-8493-c3778a331cef
-DTSTART:20260305T200000
-DTEND:20260305T230000
+DTSTAMP:20260512T071944Z
+UID:451a23c5-24f1-47a2-bc46-cddb60d13dac
+DTSTART;TZID=Europe/Oslo:20260305T190000
+DTEND;TZID=Europe/Oslo:20260305T220000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, dark-wave\, new-wave\n\n\nA 
  GIRL CALLED JOHNNYer et Oslo-basert postpunk-band som henter næring fra m
  ange kilder\, men de viktigste går tilbake til den kalde krigens 1980-tal
@@ -197,10 +197,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:ed376f50-76a3-4807-8bfa-c9fe64c7506f
-DTSTART:20260520T210000
-DTEND:20260521T010000
+DTSTAMP:20260512T071944Z
+UID:61da1b07-6c85-48a1-8e42-4ad35644ee20
+DTSTART;TZID=Europe/Oslo:20260520T190000
+DTEND;TZID=Europe/Oslo:20260520T230000
 DESCRIPTION:Venue: John Dee\nTags: stonerrock\, doom\n\nAcid King kommer ti
  l John Dee onsdag 20. mai for å fremføre kultklassikeren *Busse Woods* (
  1999) i sin helhet! De har holdt det gående siden 1993\, og er en bauta i
@@ -222,10 +222,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:dc091c8e-e1f6-4bd7-a552-505ff364a8b6
-DTSTART:20260213T190000
-DTEND:20260213T230000
+DTSTAMP:20260512T071944Z
+UID:274b6ccc-8748-42b8-858c-4254e0e68424
+DTSTART;TZID=Europe/Oslo:20260213T180000
+DTEND;TZID=Europe/Oslo:20260213T220000
 DESCRIPTION:Venue: Vulkan Arena\nTags: electronic/dance\, elektronisk\, tec
  hno\n\nDen elektroniske duoen TWO LANES\, bestående av brødrene Leo og R
  afa\, tar intensiteten opp et hakk når de besøker Vulkan Arena i Oslo de
@@ -250,10 +250,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:fa68a1d1-e0fc-4d0d-ac11-b6f8f2976c8d
-DTSTART:20260311T190000
-DTEND:20260311T230000
+DTSTAMP:20260512T071944Z
+UID:822a551a-aa82-41a7-85b6-21585739b7da
+DTSTART;TZID=Europe/Oslo:20260311T180000
+DTEND;TZID=Europe/Oslo:20260311T220000
 DESCRIPTION:Venue: Rockefeller\nTags: indiepop\n\n**+ support: Selma French
  **\n\nI 2026 er det 30 år siden det legendariske skotske indiebandet Bell
  e and Sebastian ble dannet og slapp sine to første album\, og dette skal 
@@ -287,10 +287,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:be33492f-2ede-475c-b04f-4ad6315bc18e
-DTSTART:20260311T200000
-DTEND:20260311T230000
+DTSTAMP:20260512T071944Z
+UID:bd3f9fe0-29d2-4e1d-9606-153c11a3770d
+DTSTART;TZID=Europe/Oslo:20260311T190000
+DTEND;TZID=Europe/Oslo:20260311T220000
 DESCRIPTION:Venue: Vaterland\nTags: klassisk\, avantgarde\n\nDen anerkjente
   komponisten og cellisten Jo Quail kommer til Vaterland onsdag 11. mars 20
  26!\nCello-konsert(!?!) på en den lokale pizza & metall-bula tenker du ka
@@ -316,10 +316,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:9d026c06-d005-4ac8-a5bc-8f15f0aedb09
-DTSTART:20260129T200000
-DTEND:20260129T230000
+DTSTAMP:20260512T071944Z
+UID:4dd6cffb-8b74-4556-8feb-96a612d38179
+DTSTART;TZID=Europe/Oslo:20260129T190000
+DTEND;TZID=Europe/Oslo:20260129T220000
 DESCRIPTION:Venue: Revolver\nTags: rock\, punk\n\nUNNSKYLD\n\nInspirert av 
  norsk punk fra 80-tallet og lange\, rørete kvelder\, er Unnskyld selv en 
  røre av fester og fyllesyker.\n\nDeres mål når de griper til gitarene o
@@ -339,10 +339,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:4ccd0a69-34dc-4038-876a-2252a31cb857
-DTSTART:20260130T193000
-DTEND:20260130T230000
+DTSTAMP:20260512T071944Z
+UID:265dec83-665e-416a-a235-03977c500407
+DTSTART;TZID=Europe/Oslo:20260130T183000
+DTEND;TZID=Europe/Oslo:20260130T220000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: gig\, film\, live\n\nNO ESCAPE inv
  ites you to the rad evening!\nGet ready for the punk\, noise\, satan and e
  lectronica.\nDoors open --> 19:30\n20:00\nVidios:\n"We Were Prisoners of t
@@ -401,10 +401,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:a14e8692-dcbb-4cea-9d22-cc852733127a
-DTSTART:20260220T200000
-DTEND:20260220T230000
+DTSTAMP:20260512T071944Z
+UID:6da6435d-016d-4085-a996-0fb1da8bad2a
+DTSTART;TZID=Europe/Oslo:20260220T190000
+DTEND;TZID=Europe/Oslo:20260220T220000
 DESCRIPTION:Venue: Revolver\nTags: goth\n\nBatplanet er stolte av å presen
  tere en helaften med både mystikk og magi. Vi har den store gleden av å 
  få invitere våre skandinaviske goth-medsammensvorne til det som er den f
@@ -444,10 +444,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:12de694a-8ee7-45d8-b116-38ac5cd4c0aa
-DTSTART:20260206T190000
-DTEND:20260206T230000
+DTSTAMP:20260512T071944Z
+UID:4c98a7ab-eca7-44a5-95ee-eaa24445cd7a
+DTSTART;TZID=Europe/Oslo:20260206T180000
+DTEND;TZID=Europe/Oslo:20260206T220000
 DESCRIPTION:Venue: BLÅ\nTags: elektronika\, krautrock\, synth\n\nTangerine
   Dream\nFredag 6. Februar | 19:00 | Id: 20 |\nelektronika / krautrock / sy
  nth\n\nI vinter vender Tangerine Dream tilbake til BLÅ\, etter fjorårets
@@ -478,10 +478,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:de57cabb-1417-476f-9772-484a398f0928
-DTSTART:20260306T200000
-DTEND:20260306T230000
+DTSTAMP:20260512T071944Z
+UID:5a517f1f-3c60-4b94-acb7-e3b70d526827
+DTSTART;TZID=Europe/Oslo:20260306T190000
+DTEND;TZID=Europe/Oslo:20260306T220000
 DESCRIPTION:Venue: Revolver\nTags: noise\, rock\, støyrock\n\nTakomaha ga 
  ut sin ferskeste utgivelse "American Basements" mot slutten av 2025\, ette
  rfulgt av supportkonserter for Blood Command i Oslo og Tyskland.   Nå e
@@ -508,10 +508,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:19d32f03-6f24-4801-af3c-20227eb3f410
-DTSTART:20260322T190000
-DTEND:20260322T230000
+DTSTAMP:20260512T071944Z
+UID:acaf7145-8254-467d-bd34-0a90e3c52755
+DTSTART;TZID=Europe/Oslo:20260322T180000
+DTEND;TZID=Europe/Oslo:20260322T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: electronica\, house\, techno\n\nDen
   banebrytende britiske elektronika-gruppen Leftfield kommer til Sentrum Sc
  ene søndag 22. mars! Leftfield ble startet i London i 1989 av Neil Barnes
@@ -543,10 +543,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:22fdc111-dc5f-498c-b63b-cff2b102653f
-DTSTART:20260226T190000
-DTEND:20260226T230000
+DTSTAMP:20260512T071944Z
+UID:681b42f5-d269-404c-af2b-b5395d5bfaf5
+DTSTART;TZID=Europe/Oslo:20260226T180000
+DTEND;TZID=Europe/Oslo:20260226T220000
 DESCRIPTION:Venue: Mir\nTags: Elektroakustisk\, Ambient\, Eksperimentelt\n\
  n\n‿︵‿︵‿︵   Field recordings and sonic travels\; wild explorat
  ions of saxophone with electronics and deep beats: F/eks invites you to op
@@ -601,10 +601,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:8eb364a4-c58d-40cd-8c0a-77b5d9ee0117
-DTSTART:20260221T190000
-DTEND:20260221T230000
+DTSTAMP:20260512T071944Z
+UID:be2cb663-6ad5-4db2-a352-94d288f4e57e
+DTSTART;TZID=Europe/Oslo:20260221T180000
+DTEND;TZID=Europe/Oslo:20260221T220000
 DESCRIPTION:Venue: Goldie Oslo\nTags: eksperimentell rock\, post-rock\n\nGR
  AILS – den eksperimentelle rockeinstitusjonen som i et kvart århundre h
  ar dyrket fram et uttrykk basert på kulturelle kuriositeter og uvanlige m
@@ -640,10 +640,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:ae315baa-7528-45ff-a80e-02db155f9e6e
-DTSTART:20260213T190000
-DTEND:20260213T230000
+DTSTAMP:20260512T071944Z
+UID:390a5514-0445-42d9-b738-2a1038b053bb
+DTSTART;TZID=Europe/Oslo:20260213T180000
+DTEND;TZID=Europe/Oslo:20260213T220000
 DESCRIPTION:Venue: Rockefeller\nTags: progrock\, heavymetal\, psychedelia\n
  \nHällas slapp sitt etterlengtede fjerde album *Panorama* 30. januar\, og
   fredag 13. februar inntar det svenske progrock-bandet Rockefeller! \n\nDe
@@ -675,10 +675,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:f11ee6df-81eb-47b8-8627-7a9825e99745
-DTSTART:20260529T220000
-DTEND:20260530T050000
+DTSTAMP:20260512T071944Z
+UID:fec4bd75-034b-4915-8973-a437ddae9c49
+DTSTART;TZID=Europe/Oslo:20260529T200000
+DTEND;TZID=Europe/Oslo:20260530T000000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Postrock\, rock\n\nBilly Mahonie r
  eturn to Oslo after a thousand years (ok 26 or so).\nThey loved it the fir
  st time so much that one member actually now lives here and has become Nor
@@ -737,10 +737,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:52b3b10b-08d6-408f-b2dd-c231f2bdfb3b
-DTSTART:20260220T190000
-DTEND:20260220T220000
+DTSTAMP:20260512T071944Z
+UID:8151a8c8-3d2d-4ca9-b3a6-cd39470d4fe1
+DTSTART;TZID=Europe/Oslo:20260220T180000
+DTEND;TZID=Europe/Oslo:20260220T210000
 DESCRIPTION:Venue: Goldie Oslo\nTags: dark wave\, goth\, electro\n\nULTRA S
  UNN er ditt nye favorittband innen EBM\, Coldwave og New Beat\, født ut a
  v den pulserende\, underjordiske scenen i Brussel\, Belgia. Bandet ble dan
@@ -766,10 +766,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:57700800-01c5-4199-9783-b3a57bc3c4c1
-DTSTART:20260505T210000
-DTEND:20260506T010000
+DTSTAMP:20260512T071944Z
+UID:5498ed56-2c14-44e9-b871-a4043667c063
+DTSTART;TZID=Europe/Oslo:20260505T190000
+DTEND;TZID=Europe/Oslo:20260505T230000
 DESCRIPTION:Venue: Goldie Oslo\nTags: post-rock\, eksperimentell\n\nMed kom
  promissløs virtuositet og tydelig kunstnerisk overbevisning har BRUIT ≤
   på bare få år etablert seg som en sentral kraft i den franske postrock
@@ -797,10 +797,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:b8ec7dba-f1e3-47f6-8d69-3da73609eb9d
-DTSTART:20260512T210000
-DTEND:20260513T010000
+DTSTAMP:20260512T071944Z
+UID:fe4cfbab-32ab-4b1d-8f90-0722ce412ca7
+DTSTART;TZID=Europe/Oslo:20260512T190000
+DTEND;TZID=Europe/Oslo:20260512T230000
 DESCRIPTION:Venue: Goldie Oslo\nTags: shoegaze\, heavy\, drømmepop\n\nSlow
   Crush er et band som lever gjennom konstant utvikling. Etter deres kritik
  erroste debut Aurora (2018)\, omtalt av Stereogum som “fenomenal” og 
@@ -836,10 +836,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:b5b729c3-18e0-46a9-a8d1-51451848c14e
-DTSTART:20260827T210000
-DTEND:20260828T010000
+DTSTAMP:20260512T071944Z
+UID:d3804873-76f0-49d9-b738-7cc1c1cf210d
+DTSTART;TZID=Europe/Oslo:20260827T190000
+DTEND;TZID=Europe/Oslo:20260827T230000
 DESCRIPTION:Venue: Rockefeller\nTags: blackmetal\, shoegaze\, postrock\n\nD
  eafheaven kommer tilbake til Oslo og Rockefeller 27. august! Bandet er kje
  nt for å mikse black metal\, shoegaze og post-rock\, til noe populært ka
@@ -869,10 +869,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:6270cee8-6717-4b96-ab6a-a590e70e90b3
-DTSTART:20260521T220000
-DTEND:20260522T010000
+DTSTAMP:20260512T071944Z
+UID:b90e1217-9e77-4a87-a0da-9e38612381dd
+DTSTART;TZID=Europe/Oslo:20260521T200000
+DTEND;TZID=Europe/Oslo:20260521T230000
 DESCRIPTION:Venue: Revolver\nTags: dreampop\, shoegaze\, post-punk\n\nSince
   forming in Gothenburg in 2008\, Makthaverskan have carved out a distinct 
  blend of post-punk\, dream pop\, and jangle pop – always delivered with 
@@ -905,10 +905,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:cbce8920-491d-4926-ad67-2c5ec8341844
-DTSTART:20260306T210000
-DTEND:20260306T230000
+DTSTAMP:20260512T071944Z
+UID:059db031-e78c-48c7-ac8d-4192399b7caf
+DTSTART;TZID=Europe/Oslo:20260306T200000
+DTEND;TZID=Europe/Oslo:20260306T220000
 DESCRIPTION:Venue: Brewgata\nTags: Rosafaenskap\, Lyttefest\n\nROSA FAENSKA
  P release their sophomore album Ingenting Forblir march 6th\, and will cel
  ebrate the evening with a DJ-set at Brewgata! Come hang out\, drink beer w
@@ -921,10 +921,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:81d700ed-2090-45b2-8dc5-945034536bc0
-DTSTART:20260312T200000
-DTEND:20260312T230000
+DTSTAMP:20260512T071944Z
+UID:53c7ecd5-f23c-4c6d-a2da-40edde074713
+DTSTART;TZID=Europe/Oslo:20260312T190000
+DTEND;TZID=Europe/Oslo:20260312T220000
 DESCRIPTION:Venue: Revolver\nTags: fuzz\, stoner\, heavyrock\n\nEtter et å
  r med turnering og kritikerroste konserter på festivaler som Desertfest O
  slo og VillVillVest er nå det bergensbaserte rockebandet Gjenferd klare f
@@ -954,10 +954,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:6e4c76f5-e10b-4221-b92d-eae0ef4098d6
-DTSTART:20260321T200000
-DTEND:20260321T230000
+DTSTAMP:20260512T071944Z
+UID:21df5420-dbc2-4bc9-ae6b-0152d0508375
+DTSTART;TZID=Europe/Oslo:20260321T190000
+DTEND;TZID=Europe/Oslo:20260321T220000
 DESCRIPTION:Venue: Vaterland\nTags: støyrock\, hardcore\, rock\n\nStøyroc
  kduoen BARREN WOMB har siden 2011 holdt helvete med deres minimalistiske t
  ilnærming\, grisehøye volum og endeløse eksperimenteringsbehov. Her ham
@@ -998,10 +998,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:a4097e50-15e9-49bf-a5cd-b00e7ce81864
-DTSTART:20261125T200000
-DTEND:20261126T000000
+DTSTAMP:20260512T071944Z
+UID:2275399f-29fd-4ab3-becf-ad18064e9496
+DTSTART;TZID=Europe/Oslo:20261125T190000
+DTEND;TZID=Europe/Oslo:20261125T230000
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
  STER BOOT RECORD og Fulci kommer til John Dee 25. november med arottenbit 
  som support!\n\nDet elektroniske metal-prosjektet **MASTER BOOT RECORD** l
@@ -1035,10 +1035,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:b879659b-5033-4951-bbe9-6e7a371aabbd
-DTSTART:20260430T220000
-DTEND:20260501T010000
+DTSTAMP:20260512T071944Z
+UID:45ae347d-8a0d-4e0f-927c-cb51bd22488b
+DTSTART;TZID=Europe/Oslo:20260430T200000
+DTEND;TZID=Europe/Oslo:20260430T230000
 DESCRIPTION:Venue: Revolver\nTags: post\, hardcore\, punk\n\nPost-hardcore-
  duoen Dead Movie Animals slipper endelig debutalbumet sitt\, A New Current
  .\n\nDet skal feires på Revolver natt til 1. mai. Med på festen er kvint
@@ -1075,10 +1075,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:449b68bf-b30b-4ec3-9141-d83adf0fbf5a
-DTSTART:20261031T200000
-DTEND:20261101T000000
+DTSTAMP:20260512T071944Z
+UID:7d29288d-9ec7-4102-9bb5-c812d5e9ca1e
+DTSTART;TZID=Europe/Oslo:20261031T190000
+DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
   album i vente til høsten\, legger Gåte ut på veien igjen. Lørdag 31. 
  oktober kommer bandet til Sentrum Scene! \n\nDe siste årene har Gåte væ
@@ -1108,10 +1108,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:43c195ea-d6df-4515-b22c-f2efae5f0347
-DTSTART:20260430T220000
-DTEND:20260501T010000
+DTSTAMP:20260512T071944Z
+UID:12112d86-2e1b-46d7-9aba-59426f02812b
+DTSTART;TZID=Europe/Oslo:20260430T200000
+DTEND;TZID=Europe/Oslo:20260430T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: rock\, jazz\, prog\n\nI LIKE TO SL
  EEP\nDen prisbelønte og kritikerroste powerjazztrioen I LIKE TO SLEEP fra
   Trondheim\, bestående av Amund Storløkken Åse (vibrafon & mellotron)\,
@@ -1139,10 +1139,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:55db12c2-e97e-4e62-a9a8-944ecc242da8
-DTSTART:20260514T220000
-DTEND:20260515T015900
+DTSTAMP:20260512T071944Z
+UID:ad199558-e7f6-4a31-9e0a-4e0c0152eaec
+DTSTART;TZID=Europe/Oslo:20260514T200000
+DTEND;TZID=Europe/Oslo:20260514T235900
 DESCRIPTION:Venue: Vaterland\nTags: Hardcore\, punk\n\nXIAO ble dannet i St
  ockholm sommeren 2019 og reflekterer over den voldelige og desperate verde
  nen vi lever i. Kvartetten er kjent for sin raske\, intense lyd og komprom
@@ -1167,10 +1167,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:e76d82c8-119a-4e04-9195-b92ae13990c5
-DTSTART:20261017T210000
-DTEND:20261018T010000
+DTSTAMP:20260512T071944Z
+UID:36958122-8450-415c-b806-25dd982f8ba2
+DTSTART;TZID=Europe/Oslo:20261017T190000
+DTEND;TZID=Europe/Oslo:20261017T230000
 DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
  \nMönofüel leverer fengende låter i rock/punk sjanger\, og henter sin i
  nspirasjon fra 1970 – 2000 tallet. \n«Gutta» har lang fartstid fra div
@@ -1204,10 +1204,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:9f71bec9-c785-43bd-906a-f34ce9d32802
-DTSTART:20260828T200000
-DTEND:20260828T230000
+DTSTAMP:20260512T071944Z
+UID:6da6beda-05a0-4bbb-a955-bb26a1fe18af
+DTSTART;TZID=Europe/Oslo:20260828T180000
+DTEND;TZID=Europe/Oslo:20260828T210000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dreampop\n\nEkkolodd spiller 
  sensommerkonsert i bakgården på Revolver den 28. august 2026. Det blir g
  arantert hyggelig. Bandet gleder seg til å spille gamle og nye klassikere
@@ -1231,10 +1231,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:6857aaec-aeae-4d1c-bee7-a805dbdf38d1
-DTSTART:20260522T220000
-DTEND:20260523T010000
+DTSTAMP:20260512T071944Z
+UID:e327b2da-57bb-4853-8821-120f88a6d0a0
+DTSTART;TZID=Europe/Oslo:20260522T200000
+DTEND;TZID=Europe/Oslo:20260522T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Impro\,  jazz\, krautrock\n\nDWARF
  S OF EAST AGOUZA\n\nFounded in Cairo in 2012 by Maurice Louca\, Sam Shalab
  i\, and Alan Bishop\, the Dwarfs of East Agouza create improvisational\, f
@@ -1268,10 +1268,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:75a745aa-5be4-4e37-80c8-bc28733e7588
-DTSTART:20260515T220000
-DTEND:20260516T000000
+DTSTAMP:20260512T071944Z
+UID:b6b9f641-a1f4-4897-9dfb-61c52a866a99
+DTSTART;TZID=Europe/Oslo:20260515T200000
+DTEND;TZID=Europe/Oslo:20260515T220000
 DESCRIPTION:Venue: BLÅ\nTags: Ambient\, Experimental\, Electronic\n\nAho S
  san er artistnavnet til Paris-fødte Niamké Désiré\, én av Frankrikes 
  fremste nye eksperimentelle musikere og digitale alkymister. På kort tid 
@@ -1296,10 +1296,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:f5d8c8b6-938e-4a2e-b3e1-c8bc65abdc6f
-DTSTART:20260429T220000
-DTEND:20260430T010000
+DTSTAMP:20260512T071944Z
+UID:a4f77711-1c92-46c1-96bb-354b83434ac3
+DTSTART;TZID=Europe/Oslo:20260429T200000
+DTEND;TZID=Europe/Oslo:20260429T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Experimental\,  noise\, alternativ
  e\n\nJoy Moughanni (LB) - Eksperimentell musikk fra Libanon \n\nJoy Mougha
  nni kommer fra Beirut via Intonal i Malmö til Kafé Hærverk med sin debu
@@ -1320,10 +1320,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:bd05a6af-3903-4625-9cde-e1c4c12f9c24
-DTSTART:20260524T220000
-DTEND:20260525T020000
+DTSTAMP:20260512T071944Z
+UID:3a58f3ad-b069-44a8-ae08-dd9687b25a28
+DTSTART;TZID=Europe/Oslo:20260524T200000
+DTEND;TZID=Europe/Oslo:20260525T000000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Dungeon\, Synth\, Ambient\n\nSiden
   2017 har Quest Master vært en av de mest suksessfulle moderne artistene 
  innen den karakteristiske "dungeon synth" sjangeren. Musikken er ledet av 
@@ -1350,10 +1350,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:c1b5d75a-f482-49fc-93da-f8fb5589ef00
-DTSTART:20260515T220000
-DTEND:20260516T000000
+DTSTAMP:20260512T071944Z
+UID:a50ea229-d259-4362-b432-e5a4646375db
+DTSTART;TZID=Europe/Oslo:20260515T200000
+DTEND;TZID=Europe/Oslo:20260515T220000
 DESCRIPTION:Venue: Brewgata\nTags: Brassmetal\, Doommetal\n\nAfter the incr
  edible success of Inferno Festival Mattinè in 2023\, Italian trio comes b
  ack to Brewgata for exclusive show!\n\nOttone Pesante is an instrumental\,
@@ -1375,10 +1375,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T105911Z
-UID:cd0a99f8-20d2-46f1-a4cb-1d905847d37f
-DTSTART:20260603T220000
-DTEND:20260604T010000
+DTSTAMP:20260512T071944Z
+UID:6f92c9b4-0377-4e47-a843-841e2b81e649
+DTSTART;TZID=Europe/Oslo:20260603T200000
+DTEND;TZID=Europe/Oslo:20260603T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: experimental\, minimalist\, electr
  onic\n\nPASSEPARTOUT DUO ( IT / US )\n\nPassepartout Duo is formed by two 
  nomadic musicians\, pianist Nicoletta Favari and percussionist Christopher
@@ -1400,8 +1400,8 @@ DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: experimental\, minimalist\, electr
  The result today is a heavy repetitive music built on polyrhythms\, drones
   and a personal way of playing drums. \n\nSometimes compared to Goat (JP)\
  , Nissenenmondai (JP) or even Steve Reich (US)\, Frank proceeds with his o
- wn take on repetitive electronic/acoustic music.\n\nID:20\nCC: 250\,-\n\nT
- ickets: \n
+ wn take on repetitive electronic/acoustic music.\n\nID:20\nCC: 250 + ticke
+ t fee\n\nTickets: https://tikkio.com/events/64097\n
 LOCATION:KAFÉ HÆRVERK
 SUMMARY:Passepartout Duo / Sheik Anorak // Kafé Hærverk
 X-WR-CALNAME:oslogigguide

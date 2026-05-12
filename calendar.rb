@@ -5,8 +5,10 @@ require_relative './models'
 
 require 'date'
 require 'icalendar'
+require 'icalendar/tzinfo'
 require 'json'
 require 'ostruct'
+require 'tzinfo'
 
 def get_event(id)
   file_path = "_data/events/#{id}.json"
@@ -32,8 +34,18 @@ calendars.keys.each do |user|
     p event
 
     cal.event do |e|
-      e.dtstart = to_oslo_time(event.start_time)
-      e.dtend = to_oslo_time(event.end_time)
+      dtstart = Icalendar::Values::DateTime.new(DateTime.parse(event.start_time.to_s), 'tzid' => 'Europe/Oslo')
+      dtend_parsed = DateTime.parse(event.end_time.to_s)
+
+      # Cap end time at midnight of the start day (00:00 next day)
+      start_date = DateTime.parse(event.start_time.to_s).to_date
+      end_date = dtend_parsed.to_date
+      if end_date > start_date
+        dtend_parsed = DateTime.new(start_date.year, start_date.month, start_date.day, 0, 0, 0) + 1
+      end
+      dtend = Icalendar::Values::DateTime.new(dtend_parsed, 'tzid' => 'Europe/Oslo')
+      e.dtstart = dtstart
+      e.dtend = dtend
       e.append_custom_property('X-WR-CALNAME', 'oslogigguide')
       e.append_custom_property('X-WR-TIMEZONE', 'Europe/Oslo')
       e.append_custom_property('X-PUBLISHED-TTL', 'PT24H')
