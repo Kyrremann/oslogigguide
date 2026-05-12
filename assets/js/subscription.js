@@ -44,6 +44,17 @@ async function getData() {
 	}
 }
 
+function startLoading(id) {
+	const element = document.getElementById(id);
+	element.classList.add('loading');
+	element.onclick = null;
+}
+
+function stopLoading(id) {
+	const element = document.getElementById(id);
+	element.classList.remove('loading');
+}
+
 async function star(id) {
 	const element = document.getElementById(id);
 	element.classList.add('starred');
@@ -62,6 +73,7 @@ async function subscribe(event) {
 	const token = document.getElementById("token").value;
 	const name = event.target.getAttribute("data-name");
 	console.log(`Subscribing ${name} to calendar owned by ${user}`);
+	startLoading(calendarId);
 
 	const payload = {
 		id: calendarId,
@@ -83,10 +95,13 @@ async function subscribe(event) {
 
 		const result = await response.json();
 		console.log(result);
+		stopLoading(calendarId);
 		star(calendarId);
 	}
 	catch (error) {
 		console.error(error.message);
+		stopLoading(calendarId);
+		document.getElementById(calendarId).onclick = subscribe;
 	}
 }
 
@@ -95,6 +110,7 @@ async function unsubscribe(event) {
 	const user = document.getElementById("user").value;
 	const token = document.getElementById("token").value;
 	console.log(`Unsubscribing ${calendarId} from calendar owned by ${user}`);
+	startLoading(calendarId);
 
 	const payload = {
 		id: calendarId,
@@ -115,9 +131,12 @@ async function unsubscribe(event) {
 
 		const result = await response.json();
 		console.log(result);
+		stopLoading(calendarId);
 		unstar(calendarId);
 	}
 	catch (error) {
 		console.error(error.message);
+		stopLoading(calendarId);
+		document.getElementById(calendarId).onclick = unsubscribe;
 	}
 }
