@@ -13,29 +13,6 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2026-05-15T07:21:16+02:00</updated>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Parkteatret Scene&lt;br/&gt;
-Start: 2026-10-10 20:00&lt;br/&gt;
-Tags: Metall
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/purified-in-blood-billetter/1824874966?utm_source=broadcast&amp;utm_medium=referral&amp;utm_campaign=broadcast_api&amp;utm_content=ticket&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>xqNYXlSZe7</id>
-    <link href="https://kyrremann.no/oslogigguide/#xqNYXlSZe7"/>
-    <summary>Purified In Blood at Parkteatret Scene on 2026-10-10 20:00</summary>
-    <title>Purified In Blood (2026-10-10)</title>
-    <updated>2026-05-14T08:28:03.046Z</updated>
-    <dc:date>2026-05-14T08:28:03.046Z</dc:date>
-  </entry>
-  <dc:date>2026-05-15T07:21:16+02:00</dc:date>
+  <updated>2026-05-16T07:07:55+02:00</updated>
+  <dc:date>2026-05-16T07:07:55+02:00</dc:date>
 </feed>
