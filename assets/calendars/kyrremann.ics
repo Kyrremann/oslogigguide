@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:1c62e98e-2a7f-4898-ba4c-d344dd9234f5
+DTSTAMP:20260605T151410Z
+UID:85db052a-d986-49cd-9966-610ab41e994b
 DTSTART;TZID=Europe/Oslo:20261025T190000
 DTEND;TZID=Europe/Oslo:20261025T230000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:c7590cc8-665c-4a51-a616-28bbcb81cdd3
+DTSTAMP:20260605T151410Z
+UID:3fce5c54-533c-4730-9e25-c7454f517de0
 DTSTART;TZID=Europe/Oslo:20260327T180000
 DTEND;TZID=Europe/Oslo:20260327T220000
 DESCRIPTION:Venue: John Dee\nTags: blackmetal\, hardcore\, postrock\n\nMed 
@@ -92,8 +92,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:490b5dc5-f8f5-4e63-93f4-14fa7a190f6f
+DTSTAMP:20260605T151410Z
+UID:d8c5ef3c-56a0-4c9f-a1fc-b9373e35afe7
 DTSTART;TZID=Europe/Oslo:20260328T180000
 DTEND;TZID=Europe/Oslo:20260328T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: psychedelicrock\, progfolk\n\nAltı
@@ -124,8 +124,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:e5bfa10d-0039-4c4e-a711-222e1231f038
+DTSTAMP:20260605T151410Z
+UID:57ea0cea-770b-44bf-abc3-602d33232cd6
 DTSTART;TZID=Europe/Oslo:20260307T190000
 DTEND;TZID=Europe/Oslo:20260307T220000
 DESCRIPTION:Venue: Vaterland\nTags: metall\, folk\, extreme\n\nVANVIDD\, gr
@@ -160,8 +160,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:19ab26d3-0525-422f-9a9a-7c0413f11b66
+DTSTAMP:20260605T151410Z
+UID:7d60b2cb-6428-4220-b49f-268be4392fab
 DTSTART;TZID=Europe/Oslo:20260305T190000
 DTEND;TZID=Europe/Oslo:20260305T220000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, dark-wave\, new-wave\n\n\nA 
@@ -197,8 +197,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:d77ca409-34d6-4f38-a001-4ae6b6329dd3
+DTSTAMP:20260605T151410Z
+UID:22091309-6324-4ddf-b7b1-8a9b37436ce3
 DTSTART;TZID=Europe/Oslo:20260520T190000
 DTEND;TZID=Europe/Oslo:20260520T230000
 DESCRIPTION:Venue: John Dee\nTags: stonerrock\, doom\n\nAcid King kommer ti
@@ -222,8 +222,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:216e1fbd-b859-4d85-919f-2788f684cbb6
+DTSTAMP:20260605T151410Z
+UID:a4822c1c-e547-4f23-8efa-88f0cdcfd761
 DTSTART;TZID=Europe/Oslo:20260213T180000
 DTEND;TZID=Europe/Oslo:20260213T220000
 DESCRIPTION:Venue: Vulkan Arena\nTags: electronic/dance\, elektronisk\, tec
@@ -250,8 +250,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:6e1bd6a4-f33d-4957-abec-1fb2857a2770
+DTSTAMP:20260605T151410Z
+UID:6caa5792-f859-4257-a91c-22a3a2087af5
 DTSTART;TZID=Europe/Oslo:20260311T180000
 DTEND;TZID=Europe/Oslo:20260311T220000
 DESCRIPTION:Venue: Rockefeller\nTags: indiepop\n\n**+ support: Selma French
@@ -287,8 +287,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:4776f46b-8a12-4bcc-812f-786e02d5423e
+DTSTAMP:20260605T151410Z
+UID:b0258ebf-6a24-4709-b141-aa1078c8dd19
 DTSTART;TZID=Europe/Oslo:20260311T190000
 DTEND;TZID=Europe/Oslo:20260311T220000
 DESCRIPTION:Venue: Vaterland\nTags: klassisk\, avantgarde\n\nDen anerkjente
@@ -316,8 +316,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:e7e7c3f5-5134-48d9-a45c-4f68d0f65722
+DTSTAMP:20260605T151410Z
+UID:2f95975c-a298-4024-9340-4e0501a1d71d
 DTSTART;TZID=Europe/Oslo:20260129T190000
 DTEND;TZID=Europe/Oslo:20260129T220000
 DESCRIPTION:Venue: Revolver\nTags: rock\, punk\n\nUNNSKYLD\n\nInspirert av 
@@ -339,8 +339,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:5602e348-94c4-4d66-9006-e22b47fd3081
+DTSTAMP:20260605T151410Z
+UID:685e4bf7-fb8b-4896-8703-eeaca668a523
 DTSTART;TZID=Europe/Oslo:20260130T183000
 DTEND;TZID=Europe/Oslo:20260130T220000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: gig\, film\, live\n\nNO ESCAPE inv
@@ -401,8 +401,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:3fd5aa7a-96cd-41cd-b2bb-9d0b8c6244ad
+DTSTAMP:20260605T151410Z
+UID:4eccc667-a106-4dc0-beac-b4f182325b1a
 DTSTART;TZID=Europe/Oslo:20260220T190000
 DTEND;TZID=Europe/Oslo:20260220T220000
 DESCRIPTION:Venue: Revolver\nTags: goth\n\nBatplanet er stolte av å presen
@@ -444,8 +444,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:8e3dbdeb-2701-47db-b3a7-b523b7410289
+DTSTAMP:20260605T151410Z
+UID:fc520076-175d-4dd0-b1a6-0d2b715b0bb7
 DTSTART;TZID=Europe/Oslo:20260206T180000
 DTEND;TZID=Europe/Oslo:20260206T220000
 DESCRIPTION:Venue: BLÅ\nTags: elektronika\, krautrock\, synth\n\nTangerine
@@ -478,8 +478,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:571c5a64-fd09-4a0f-a787-43ab902deb80
+DTSTAMP:20260605T151410Z
+UID:692907fe-853a-409c-8bf6-1a4c3befa1ee
 DTSTART;TZID=Europe/Oslo:20260306T190000
 DTEND;TZID=Europe/Oslo:20260306T220000
 DESCRIPTION:Venue: Revolver\nTags: noise\, rock\, støyrock\n\nTakomaha ga 
@@ -508,8 +508,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:bd273e73-fb4c-477d-b7d9-c9d7c0841b67
+DTSTAMP:20260605T151410Z
+UID:6dfa2717-2939-4ca1-afd9-7affa1977a6a
 DTSTART;TZID=Europe/Oslo:20260322T180000
 DTEND;TZID=Europe/Oslo:20260322T220000
 DESCRIPTION:Venue: Sentrum Scene\nTags: electronica\, house\, techno\n\nDen
@@ -543,8 +543,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:a53230f0-28ee-4df7-a192-3d19e06a1290
+DTSTAMP:20260605T151410Z
+UID:c95b5fce-9a70-43d5-a984-593a687248ce
 DTSTART;TZID=Europe/Oslo:20260226T180000
 DTEND;TZID=Europe/Oslo:20260226T220000
 DESCRIPTION:Venue: Mir\nTags: Elektroakustisk\, Ambient\, Eksperimentelt\n\
@@ -601,8 +601,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:21fca160-aedf-4cf7-91f7-0933f87e4539
+DTSTAMP:20260605T151410Z
+UID:295d1b22-1ddd-4421-97c4-d942f58066a8
 DTSTART;TZID=Europe/Oslo:20260221T180000
 DTEND;TZID=Europe/Oslo:20260221T220000
 DESCRIPTION:Venue: Goldie Oslo\nTags: eksperimentell rock\, post-rock\n\nGR
@@ -640,8 +640,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:37f9e112-0b9c-42cb-a7c1-c85103186423
+DTSTAMP:20260605T151410Z
+UID:68fdf55e-c169-4ca2-863f-5733d88cbe80
 DTSTART;TZID=Europe/Oslo:20260213T180000
 DTEND;TZID=Europe/Oslo:20260213T220000
 DESCRIPTION:Venue: Rockefeller\nTags: progrock\, heavymetal\, psychedelia\n
@@ -675,8 +675,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:958da9d0-7c91-4d55-b0ad-4166fbd133ef
+DTSTAMP:20260605T151410Z
+UID:35934aa4-cf66-4360-b97a-dbca4ea05617
 DTSTART;TZID=Europe/Oslo:20260529T200000
 DTEND;TZID=Europe/Oslo:20260530T000000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Postrock\, rock\n\nBilly Mahonie r
@@ -737,8 +737,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:5a47f74a-ab88-424c-adcb-b710fd78d47b
+DTSTAMP:20260605T151410Z
+UID:1803df7f-cf51-43dc-bb59-40c49ad7094b
 DTSTART;TZID=Europe/Oslo:20260220T180000
 DTEND;TZID=Europe/Oslo:20260220T210000
 DESCRIPTION:Venue: Goldie Oslo\nTags: dark wave\, goth\, electro\n\nULTRA S
@@ -766,8 +766,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:dd6de207-e545-4932-8567-d5a8e8258c28
+DTSTAMP:20260605T151410Z
+UID:a6b85784-2ac1-49a2-8119-e88741f110ed
 DTSTART;TZID=Europe/Oslo:20260505T190000
 DTEND;TZID=Europe/Oslo:20260505T230000
 DESCRIPTION:Venue: Goldie Oslo\nTags: post-rock\, eksperimentell\n\nMed kom
@@ -797,8 +797,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:96af97a9-b8b7-42fa-b9fd-9226f64eae9f
+DTSTAMP:20260605T151410Z
+UID:c84fd858-b30c-4b5d-a403-f1464120595e
 DTSTART;TZID=Europe/Oslo:20260512T190000
 DTEND;TZID=Europe/Oslo:20260512T230000
 DESCRIPTION:Venue: Goldie Oslo\nTags: shoegaze\, heavy\, drømmepop\n\nSlow
@@ -836,8 +836,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:959f25ce-fc48-4c31-9d11-25d0916d5015
+DTSTAMP:20260605T151410Z
+UID:b384b6d5-abcd-425b-9055-da2b83f43251
 DTSTART;TZID=Europe/Oslo:20260827T190000
 DTEND;TZID=Europe/Oslo:20260827T230000
 DESCRIPTION:Venue: Rockefeller\nTags: blackmetal\, shoegaze\, postrock\n\nD
@@ -869,8 +869,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:d722376d-2b34-4682-8808-bfe2482cd553
+DTSTAMP:20260605T151410Z
+UID:461327d6-e582-46d5-b3d2-68b82301eaa5
 DTSTART;TZID=Europe/Oslo:20260521T200000
 DTEND;TZID=Europe/Oslo:20260521T230000
 DESCRIPTION:Venue: Revolver\nTags: dreampop\, shoegaze\, post-punk\n\nSince
@@ -905,8 +905,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:868c91b8-7899-4ab2-a576-855572db972f
+DTSTAMP:20260605T151410Z
+UID:4009abab-0c98-48a6-8451-da4f1b8e806a
 DTSTART;TZID=Europe/Oslo:20260306T200000
 DTEND;TZID=Europe/Oslo:20260306T220000
 DESCRIPTION:Venue: Brewgata\nTags: Rosafaenskap\, Lyttefest\n\nROSA FAENSKA
@@ -921,8 +921,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:acfd1e74-3455-4fac-9d29-ff17d615f009
+DTSTAMP:20260605T151410Z
+UID:ebfe55a6-b693-4bd1-8515-42dda8cfa5d0
 DTSTART;TZID=Europe/Oslo:20260312T190000
 DTEND;TZID=Europe/Oslo:20260312T220000
 DESCRIPTION:Venue: Revolver\nTags: fuzz\, stoner\, heavyrock\n\nEtter et å
@@ -954,8 +954,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:5e21672b-673e-4dfd-8f9a-1ed59a04e754
+DTSTAMP:20260605T151410Z
+UID:7c83c1b4-a3cb-46b8-bfec-301884ba5338
 DTSTART;TZID=Europe/Oslo:20260321T190000
 DTEND;TZID=Europe/Oslo:20260321T220000
 DESCRIPTION:Venue: Vaterland\nTags: støyrock\, hardcore\, rock\n\nStøyroc
@@ -998,8 +998,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:9a22cc42-4e67-49c5-b3f1-2e7df49d442f
+DTSTAMP:20260605T151410Z
+UID:71898e12-046e-4468-8e9e-802b87111961
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T230000
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -1035,8 +1035,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:947c1195-a5d4-4b67-88f0-c5734e9f5e4e
+DTSTAMP:20260605T151410Z
+UID:fbf44738-e07d-4fae-9314-003ecae34770
 DTSTART;TZID=Europe/Oslo:20260430T200000
 DTEND;TZID=Europe/Oslo:20260430T230000
 DESCRIPTION:Venue: Revolver\nTags: post\, hardcore\, punk\n\nPost-hardcore-
@@ -1075,8 +1075,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:b413f03f-e7a4-4792-8d01-4c8ce7c2c415
+DTSTAMP:20260605T151410Z
+UID:5a24fd99-00bb-429d-9fc0-71ecae662632
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
@@ -1108,8 +1108,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:89f08c46-b7b4-4ab9-851b-7cda7460f4da
+DTSTAMP:20260605T151410Z
+UID:95955244-1954-461d-9b01-d5854f429389
 DTSTART;TZID=Europe/Oslo:20260430T200000
 DTEND;TZID=Europe/Oslo:20260430T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: rock\, jazz\, prog\n\nI LIKE TO SL
@@ -1139,8 +1139,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:e5a0539c-efb7-49d4-870b-76b434ef9123
+DTSTAMP:20260605T151410Z
+UID:0649dbf1-faed-4607-a8b0-bd0730b854a6
 DTSTART;TZID=Europe/Oslo:20260514T200000
 DTEND;TZID=Europe/Oslo:20260514T235900
 DESCRIPTION:Venue: Vaterland\nTags: Hardcore\, punk\n\nXIAO ble dannet i St
@@ -1167,8 +1167,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:0a10a2be-62c7-4adc-89e1-73eb236c4410
+DTSTAMP:20260605T151410Z
+UID:2343efc6-439a-4bf7-9663-1d42105ad973
 DTSTART;TZID=Europe/Oslo:20261017T190000
 DTEND;TZID=Europe/Oslo:20261017T230000
 DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
@@ -1205,8 +1205,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:1cd776f7-9ffc-4d59-a282-ac0d81fa8c89
+DTSTAMP:20260605T151410Z
+UID:3f681937-ad6b-412c-b411-97095132a305
 DTSTART;TZID=Europe/Oslo:20260828T180000
 DTEND;TZID=Europe/Oslo:20260828T210000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dreampop\n\nEkkolodd spiller 
@@ -1232,8 +1232,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:6ff78db4-f473-4770-84ee-1f2d867cfd3c
+DTSTAMP:20260605T151410Z
+UID:67f1de52-276d-4912-83bb-542f4178a666
 DTSTART;TZID=Europe/Oslo:20260522T200000
 DTEND;TZID=Europe/Oslo:20260522T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Impro\,  jazz\, krautrock\n\nDWARF
@@ -1269,8 +1269,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:489dbecd-9555-49f8-9396-885c7326c68e
+DTSTAMP:20260605T151410Z
+UID:c3a95482-3f1b-4e02-b006-3a57f2817a65
 DTSTART;TZID=Europe/Oslo:20260515T200000
 DTEND;TZID=Europe/Oslo:20260515T220000
 DESCRIPTION:Venue: BLÅ\nTags: Ambient\, Experimental\, Electronic\n\nAho S
@@ -1297,8 +1297,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:db07fbf1-80c9-485d-bbd5-7aac4e9cb1b8
+DTSTAMP:20260605T151410Z
+UID:06eb5f45-14fb-4041-b58d-6c8c33a7f91d
 DTSTART;TZID=Europe/Oslo:20260429T200000
 DTEND;TZID=Europe/Oslo:20260429T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Experimental\,  noise\, alternativ
@@ -1321,8 +1321,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:cef56f2e-8e80-41e6-bd99-ea591f6ae13a
+DTSTAMP:20260605T151410Z
+UID:e1f05a46-13b5-45f7-bb32-5b999e3a5c32
 DTSTART;TZID=Europe/Oslo:20260524T200000
 DTEND;TZID=Europe/Oslo:20260525T000000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Dungeon\, Synth\, Ambient\n\nSiden
@@ -1351,8 +1351,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:7e3277ed-1613-4750-b0d7-914727d740ef
+DTSTAMP:20260605T151410Z
+UID:0c5efe95-df1e-4858-8d27-1a346b7f994f
 DTSTART;TZID=Europe/Oslo:20260515T200000
 DTEND;TZID=Europe/Oslo:20260515T220000
 DESCRIPTION:Venue: Brewgata\nTags: Brassmetal\, Doommetal\n\nAfter the incr
@@ -1376,8 +1376,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:c0538932-79e4-4774-9157-929222a87e28
+DTSTAMP:20260605T151410Z
+UID:f104d15b-3f1d-4c33-b3fe-091c02be77f1
 DTSTART;TZID=Europe/Oslo:20260603T200000
 DTEND;TZID=Europe/Oslo:20260603T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: experimental\, minimalist\, electr
@@ -1410,8 +1410,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:c176b47a-8770-4798-972a-5fff6840f450
+DTSTAMP:20260605T151410Z
+UID:0f80c21b-b8b6-4437-a1a8-cdc66eb5281d
 DTSTART;TZID=Europe/Oslo:20260516T200000
 DTEND;TZID=Europe/Oslo:20260516T230000
 DESCRIPTION:Venue: Brewgata\nTags: Heavyrock\, Rock\n\nSuncraft er et oslob
@@ -1431,8 +1431,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:aeeceb2a-6e3f-4f9c-bbf3-7f7fe78e9462
+DTSTAMP:20260605T151410Z
+UID:918fe67e-3ca6-4b11-bac0-05ebb6756dc8
 DTSTART;TZID=Europe/Oslo:20260607T190000
 DTEND;TZID=Europe/Oslo:20260607T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: jazz\, pop\, eksperimentell\n\nUSB
@@ -1462,8 +1462,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:e123b5cc-d0ea-4c31-b6be-f8bbfdf38e80
+DTSTAMP:20260605T151410Z
+UID:b0a92131-d97e-48b7-b95e-f0071dfc2341
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -1476,8 +1476,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:45965570-85e8-41fe-909b-3d53048978fd
+DTSTAMP:20260605T151410Z
+UID:514598ed-7515-4bf1-abb8-96fc5cab5819
 DTSTART;TZID=Europe/Oslo:20260922T200000
 DTEND;TZID=Europe/Oslo:20260922T230000
 DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
@@ -1500,8 +1500,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:19ca7810-0d59-4b8f-aa75-97a244299544
+DTSTAMP:20260605T151410Z
+UID:c6838162-6fa2-45e2-ad2d-ec45e612fc6e
 DTSTART;TZID=Europe/Oslo:20260530T200000
 DTEND;TZID=Europe/Oslo:20260530T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Prog\, Rock\, Kraut\n\nTusmørke\n
@@ -1524,8 +1524,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:a8027e82-0a2c-4437-ac22-fd7b2eb2b6f2
+DTSTAMP:20260605T151410Z
+UID:af80c01e-bd08-4be7-98d0-e78891091b55
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -1538,8 +1538,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:22ee3b56-a232-4642-95dc-4783979a1fcc
+DTSTAMP:20260605T151410Z
+UID:07d6d599-ae5b-4e6c-82d9-083a8a3e874d
 DTSTART;TZID=Europe/Oslo:20260815T230000
 DTEND;TZID=Europe/Oslo:20260816T000000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dream-pop\, indie\n\nIngen so
@@ -1554,8 +1554,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T151320Z
-UID:0f1a88a0-9b82-4fcf-8022-eb1d8e1f1409
+DTSTAMP:20260605T151410Z
+UID:f1d5593e-e451-44c9-8567-5a4f1d2db2ef
 DTSTART;TZID=Europe/Oslo:20261127T200000
 DTEND;TZID=Europe/Oslo:20261127T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -1570,6 +1570,64 @@ DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is
  roslo.ticketco.events/no/nb/e/tramhous_nl__revolver\n
 LOCATION:Revolver
 SUMMARY:Tramhaus (NL)
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T151410Z
+UID:819c7ea6-6724-499e-8911-38daaa5af902
+DTSTART;TZID=Europe/Oslo:20261106T200000
+DTEND;TZID=Europe/Oslo:20261106T235900
+DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
+ LKET!\nHelvetes Indre Kretser i samarbeid med Audible Music presenterer: \
+ nMORPHOLITH (Island) \nDWAAL (Norge)\nGRAVA (Færøyene/Danmark)\nVaterlan
+ d\nFredag 6. november 2026\n20:00 // 300.- Ink. avg. // 20år\n\nMORPHOLIT
+ H (Island)\nIslandske Morpholith har markert seg tungt siden livedebuten i
+  2017. Året etter ga de ut sin første EP\, «Void Emissions»\, en 30-mi
+ nutters sonisk nedstigning til helvetes mest grusomme dyp.\n\nEtter å ha 
+ gitt ut sin andre EP\, «Null Dimensions» (2020)\, kom deres første full
+ engder i 2024\, «Dystopian Distributions of Mass Produced Narcotics». Mu
+ sikken er seig og riffdrevet doom/sludge inspirert av Islands rå og vulka
+ nske landskap. Gjør deg klar for seig flytende lava og lukten av svovel n
+ år Morpholith inntar Vaterland i høstmørket fredag 6. november.\n\nMorp
+ holith har spilt flere konserter på Island og i utlandet\, og dette er de
+ res tredje turné i Norge. De har opptrådt på festivaler som Wacken Open
+  Air\, A Colossal Weekend\, Høstsabbat\, Krökbacken Festival\, Sonic Rit
+ ual og flere lokale festivaler\, som Iceland Airwaves\, Sátan Metal Festi
+ val\, Eistnaflug Metal Festival og ReykjaDoom.\n\nDa Morpholith gjestet H
+ østsabbat i 2024\, skrev Disharmonis utsender at «Bandet leverte knusend
+ e doom og psykedelisk sludge som fikk veggene til å riste. Anført av Sn
+ æbjörn Þór Árnason\, fra blant annet Nyrst\, på vokal gjorde de kryp
+ ten om til sin egen lille hule. Neste gang denne gjengen kommer til Norge 
+ så er det et sted du bør innfinne deg!».\n\nBandmedlemmene er ansvarlig
+  for mye av det som foregår i den pulserende metalscenen på Island. Side
+ n 2018 har de vært vertskap for sin egen festival\, Reykjadoom i Reykjavi
+ k (tidligere Doomcember)\, som også er en helårsarrangør av konserter p
+ å Island. Her har de booket noen av de gjeveste bandene innenfor doom- og
+  metalsjangeren til Sagaøya\, som High On Fire\, Conan\, Ufomammut og Wee
+ deater og Konvent\, samt norske Sâver\, Dwaal og Golden Core.\n\nDWAAL (N
+ orge)\nOslo-baserte Dwaal har etablert seg som et av Norges mest kompromis
+ sløse og stemningsskapende liveband. Med sin ultra-heavy blanding av slud
+ ge\, doom og post-metal skaper de en massiv og oppslukende lydvegg – oft
+ e sammenlignet med Amenra\, Neurosis og Cult of Luna.\n\nSiden oppstarten 
+ i 2014 har de gitt ut to album på Dark Essence Records. Siste album\, Nev
+ er Enough (2023)\, sikret dem en Spellemann-nominasjon i metal. De har spi
+ lt på festivaler som Høstsabbat\, Inferno Metal Festival\, Midgardsblot\
+ , Beyond the Gates og Mystic Festival.\n\nGRAVA (Færøyene/Danmark)\nGrav
+ a spiller knusende tung og atmosfærisk sludge metal\, der bunnløse riff\
+ , pulserende bass og dommedagstrommer møter to skittne vokaler. Den fær
+ øysk/danske trioen fra København ble dannet i 2020 og ga i 2022 ut debut
+ albumet Weight of a God\, som med sin intense skildring av dødsøyeblikke
+ t fikk stor oppmerksomhet og havnet på flere topp 10 årslister. De har s
+ pilt på blant annet A Colossal Weekend og Uhørt Festival\, samt varmet o
+ pp for Ufomammut og Katla.\n\nI 2024 kom oppfølgeren The Great White Noth
+ ing. Albumet tar blant annet for seg den katastrofale Franklin-ekspedisjon
+ en og andre mørke historiske hendelser\, formidlet i korte\, intense og d
+ isiplinerte låter. Resultatet er en fokusert og knusende tung sludge-oppl
+ evelse.\n\nTickets: https://www.ticketmaster.no/event/225249250\n
+LOCATION:Vaterland
+SUMMARY:Morpholith + Dwaal + Grava 
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
