@@ -13,29 +13,33 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2026-06-14T07:36:50+02:00</updated>
+  <updated>2026-06-15T07:50:24+02:00</updated>
   <entry>
     <content type="html">
 &lt;p&gt;
-Venue: Parkteatret Scene&lt;br/&gt;
-Start: 2026-08-21 20:00&lt;br/&gt;
-Tags: Alternativt, Voksen alternativ pop/rock
+Venue: Mir&lt;br/&gt;
+Start: 2026-06-28 19:00&lt;br/&gt;
+Tags: Shoegaze, Synthvawe, Postpunk
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;
+&lt;p&gt;Ny runde med Resonant Noir&lt;/p&gt;
+&lt;p&gt;Alle er velkommen.
+Spør DJ Tom Kalstad for ønskelåter i hans sjangre så får du ønske ditt oppfylt. ;)&lt;/p&gt;
+&lt;p&gt;🖤🎶🦇🎶🖤🍻🎶🖤🐾🐈‍⬛&lt;/p&gt;
 
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/goofy-geese-slippkonsert-billetter/310041059?utm_source=broadcast&amp;utm_medium=referral&amp;utm_campaign=broadcast_api&amp;utm_content=ticket&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
+Tickets: &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br/&gt;
 &lt;/p&gt;
 </content>
-    <id>VCkYMWNocl</id>
-    <link href="https://kyrremann.no/oslogigguide/#VCkYMWNocl"/>
-    <summary>Goofy Geese  at Parkteatret Scene on 2026-08-21 20:00</summary>
-    <title>Goofy Geese  (2026-08-21)</title>
-    <updated>2026-06-13T07:21:50.967Z</updated>
-    <dc:date>2026-06-13T07:21:50.967Z</dc:date>
+    <id>vl4UCeH5p1</id>
+    <link href="https://kyrremann.no/oslogigguide/#vl4UCeH5p1"/>
+    <summary>Resonant Noir (DJ) at Mir on 2026-06-28 19:00</summary>
+    <title>Resonant Noir (DJ) (2026-06-28)</title>
+    <updated>2026-06-14T16:05:51.501Z</updated>
+    <dc:date>2026-06-14T16:05:51.501Z</dc:date>
   </entry>
-  <dc:date>2026-06-14T07:36:50+02:00</dc:date>
+  <dc:date>2026-06-15T07:50:24+02:00</dc:date>
 </feed>
