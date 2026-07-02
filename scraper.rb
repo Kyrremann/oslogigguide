@@ -12,11 +12,6 @@ require 'uri'
 
 urls = [
   {
-    'url': 'https://www.goldie.no/api/eventsEdge',
-    'type': '',
-    'name': 'Goldie'
-  },
-  {
     'url': 'https://www.blaaoslo.no/api/eventsEdge',
     'type': '',
     'name': 'Blå'
