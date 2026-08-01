@@ -13,7 +13,7 @@ env:
   TZ: "Europe/Oslo"
 
 permissions:
-  content: write
+  contents: write
 
 jobs:
   update:
