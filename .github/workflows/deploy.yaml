@@ -1,0 +1,66 @@
+name: Deploy Scaleway Functions
+
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Create zip
+        run: |
+          zip -r function.zip Cargo.lock Cargo.toml src/
+
+      - name: Deploy to Scaleway
+        env:
+          SCW_SECRET_KEY: ${{ secrets.SCW_SECRET_KEY }}
+        run: |
+          set -euo pipefail
+
+          FUNCTION_ID="d1c6b167-f6f2-4219-9c9e-2dcec01b3010"
+          ZIP_FILE="function.zip"
+          CONTENT_LENGTH=$(stat -c%s "$ZIP_FILE")
+          API_BASE="https://api.scaleway.com/functions/v1beta1/regions/nl-ams/functions/${FUNCTION_ID}"
+
+          # Get presigned upload URL
+          RESPONSE=$(curl -sS -w "\n%{http_code}" \
+            "${API_BASE}/upload-url?content_length=${CONTENT_LENGTH}" \
+            -H "X-Auth-Token: ${SCW_SECRET_KEY}")
+
+          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+
+          if [ "$HTTP_CODE" -lt 200 ] || [ "$HTTP_CODE" -ge 300 ]; then
+            echo "::error::Upload URL request failed (HTTP ${HTTP_CODE}): ${BODY}"
+            exit 1
+          fi
+
+          UPLOAD_URL=$(echo "$BODY" | jq -r '.url')
+
+          # Upload zip
+          curl -sSf -X PUT "$UPLOAD_URL" \
+            --upload-file "$ZIP_FILE" \
+            -H "Content-Type: application/octet-stream"
+
+          echo "✓ Uploaded $ZIP_FILE"
+
+          # Trigger deployment
+          RESPONSE=$(curl -sS -w "\n%{http_code}" -X POST \
+            "${API_BASE}/deploy" \
+            -H "X-Auth-Token: ${SCW_SECRET_KEY}" \
+            -H "Content-Type: application/json")
+
+          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+
+          if [ "$HTTP_CODE" -lt 200 ] || [ "$HTTP_CODE" -ge 300 ]; then
+            echo "::error::Deploy request failed (HTTP ${HTTP_CODE}): ${BODY}"
+            exit 1
+          fi
+
+          echo "✓ Deployed ${{ matrix.name }} (status: $(echo "$BODY" | jq -r '.status'))"
