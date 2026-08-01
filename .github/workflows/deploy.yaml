@@ -20,6 +20,7 @@ jobs:
       - name: Deploy to Scaleway
         env:
           SCW_SECRET_KEY: ${{ secrets.SCW_SECRET_KEY }}
+        working-directory: function
         run: |
           set -euo pipefail
 
