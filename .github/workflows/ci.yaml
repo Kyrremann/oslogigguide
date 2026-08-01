@@ -3,6 +3,10 @@ name: CI
 on:
   push:
     branches: [main]
+    paths:
+      - 'functin/*'
+      - '.github/workflows/ci.yaml'
+      - '.github/workflows/deploy.yaml'
   pull_request:
 
 jobs:
@@ -14,4 +18,6 @@ jobs:
         with:
           components: rustfmt
       - run: cargo fmt --all --check
+        working-directory: function
       - run: cargo test --workspace
+        working-directory: function
