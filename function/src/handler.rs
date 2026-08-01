@@ -164,11 +164,7 @@ pub async fn handle(
 
 fn prune_old_events(repository: &git2::Repository, data: &mut serde_json::Value) {
     let cutoff = Utc::now() - Duration::days(30);
-    let events_dir = repository
-        .path()
-        .parent()
-        .unwrap()
-        .join("_data/events");
+    let events_dir = repository.path().parent().unwrap().join("_data/events");
 
     for user_subs in data.as_object_mut().unwrap().values_mut() {
         let subs = user_subs.as_array_mut().unwrap();
@@ -180,8 +176,7 @@ fn prune_old_events(repository: &git2::Repository, data: &mut serde_json::Value)
                 return false;
             }
             let content = fs::read_to_string(&event_path).unwrap_or_default();
-            let event: serde_json::Value =
-                serde_json::from_str(&content).unwrap_or_default();
+            let event: serde_json::Value = serde_json::from_str(&content).unwrap_or_default();
             if let Some(start) = event["start_time"].as_str() {
                 if let Ok(dt) = start.parse::<DateTime<chrono::FixedOffset>>() {
                     let keep = dt.with_timezone(&Utc) > cutoff;
