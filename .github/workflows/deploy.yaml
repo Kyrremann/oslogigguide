@@ -15,4 +15,4 @@ jobs:
       directory: function
       function-id: d1c6b167-f6f2-4219-9c9e-2dcec01b3010
     secrets:
-      token: ${{ secrets.SCW_SECRET_KEY }}
+      scaleway-token: ${{ secrets.SCW_SECRET_KEY }}
