@@ -57,6 +57,7 @@ function stopLoading(id) {
 
 async function star(id) {
 	const element = document.getElementById(id);
+	if (!element) return;
 	element.classList.add('starred');
 	element.onclick = unsubscribe;
 }
