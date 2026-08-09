@@ -45,7 +45,7 @@ pub fn with_permissive_cors(origin: String) -> http::HeaderMap {
 
 pub async fn handle(
     request: axum::extract::Request<Body>,
-) -> Result<impl IntoResponse, (StatusCode, String)> {
+) -> Result<impl IntoResponse, (StatusCode, http::HeaderMap, String)> {
     if let Err(e) = env_logger::try_init() {
         error!("Failed to initialize logger: {}", e);
     }
@@ -60,19 +60,19 @@ pub async fn handle(
             error!("Origin header missing or invalid");
             return Err((
                 StatusCode::BAD_REQUEST,
+                http::HeaderMap::new(),
                 "Origin header missing or invalid".to_string(),
             ));
         }
     };
 
     info!("Request from origin: {}", origin);
-    let headers = with_permissive_cors(origin.clone());
 
     // Check if this is an OPTIONS request
     if request.method() == http::Method::OPTIONS {
         return Ok((
             StatusCode::OK,
-            headers,
+            with_permissive_cors(origin.clone()),
             Json(serde_json::json!({
                 "message": "CORS preflight successful"
             })),
@@ -98,12 +98,17 @@ pub async fn handle(
     );
 
     if token.is_empty() || token != std::env::var("TOKEN").unwrap_or_default() {
-        return Err((StatusCode::UNAUTHORIZED, "Unauthorized".to_string()));
+        return Err((
+            StatusCode::UNAUTHORIZED,
+            with_permissive_cors(origin.clone()),
+            "Unauthorized".to_string(),
+        ));
     }
 
     let github_token = std::env::var("GITHUB_TOKEN").map_err(|_| {
         (
             StatusCode::INTERNAL_SERVER_ERROR,
+            with_permissive_cors(origin.clone()),
             "GITHUB_TOKEN not set".to_string(),
         )
     })?;
@@ -112,6 +117,7 @@ pub async fn handle(
         error!("Failed to clone repository: {err}");
         (
             StatusCode::INTERNAL_SERVER_ERROR,
+            with_permissive_cors(origin.clone()),
             "Failed to clone repository".to_string(),
         )
     })?;
@@ -126,6 +132,7 @@ pub async fn handle(
             error!("Failed to remove subscription: {err}");
             (
                 StatusCode::INTERNAL_SERVER_ERROR,
+                with_permissive_cors(origin.clone()),
                 "Failed to remove subscription".to_string(),
             )
         })?;
@@ -135,6 +142,7 @@ pub async fn handle(
             error!("Failed to add subscription: {err}");
             (
                 StatusCode::INTERNAL_SERVER_ERROR,
+                with_permissive_cors(origin.clone()),
                 "Failed to add subscription".to_string(),
             )
         })?;
@@ -146,13 +154,14 @@ pub async fn handle(
             error!("Failed to commit and push: {err}");
             (
                 StatusCode::INTERNAL_SERVER_ERROR,
+                with_permissive_cors(origin.clone()),
                 "Failed to commit and push".to_string(),
             )
         })?;
 
     Ok((
         StatusCode::OK,
-        headers,
+        with_permissive_cors(origin.clone()),
         Json(serde_json::json!({
             "status": "success",
             "message": message
