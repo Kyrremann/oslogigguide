@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:bd2ad17a-2746-46a8-aed9-4135bee7acf5
+DTSTAMP:20260809T161523Z
+UID:4c73cabe-9b3b-4108-84a8-e30181f3fd7d
 DTSTART;TZID=Europe/Oslo:20261025T190000
 DTEND;TZID=Europe/Oslo:20261025T230000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,800 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:6d040978-b332-4950-8cbb-e107278c4a8c
-DTSTART;TZID=Europe/Oslo:20260327T180000
-DTEND;TZID=Europe/Oslo:20260327T220000
-DESCRIPTION:Venue: John Dee\nTags: blackmetal\, hardcore\, postrock\n\nMed 
- intense liveopptredener blander ROSA FAENSKAP svartmetallens mørke med ha
- rdcorens rabiate energi\, så vel som post-rockens drømmende lydlandskap.
-  \n\nLydbildet er massivt\, til tross for at bandet bare består av tre me
- dlemmer. De bytter ut liksminken og svettelukten fra svartmetallen med eye
- liner og regnbueflagg. De kombinerer hardttreﬀende\, raske trommer med t
- ung og melodiøs bass\, omfavnet av en drømmende lydvegg fra gitaren. De 
- blander det styggeste og det vakreste musikkverdenen har å by på\, i en 
- heksegryte som smaker like søtt som den smaker vederstyggelig.\n\nROSA FA
- ENSKAP har de siste par årene etablert seg som en ny kraft i den norske u
- ndergrunnen. Bandet retter svartmetallens frustrasjon og faenskap mot homo
- fober\, kapitalismen\, patriarkatet og fascister. Deres oppsiktsvekkende o
- pprør mot svartmetallens normer har skapt en dedikert fanbase bestående 
- av alt fra unge skeive punkere til hardbarka metallgubber. \n\nAndrealbume
- t *Ingenting forblir* er på vei\, og det viser fram en mørkere side av b
- andet enn den kritikerroste debuten *Jeg blir til deg* (2023). \n\nEn sent
- ral tematikk i det nye albumet er den utmattende følelsen av å se den ti
- lsynelatende trygge verdenen man vokste opp i gradvis bli et dystert\, ube
- hagelig sted der hat\, urett og umenneskeliggjøring stadig vokser. Bandet
-  utforsker denne følelsen gjennom albumet med mange forskjellige innfalls
- vinkler – fra det poetiske\, til det analytiske\, videre til det brutalt
-  ærlige og dypt personlige. Bandet er som alltid uredd for å fritt bland
- e inn sjangre som hardcore\, post-rock og prog – men denne gangen er der
- es svartmetalliske kjerne tydeligere enn noensinne.\n\n**Support: Brostein
- **\n\n«Oslobandet Brostein fyller gryta si med punk\, shoegaze\, spaceroc
- k\, svartmetall og droning\, og rører det sammen til sin egen unike kreas
- jon. Det går hardt i malinga og musikken er både desperat og bastant på
-  én og samme tid. Dette er virkelig et band å følge med på i tida fram
- over. Gitarmusikken lever.»\n**– Johan Kalvsjøhagen\, Radio Revolt**\n
- \n--\n\nBill. kr. 265\,- + bill.avg.\n\n18 års aldersgrense med legitimas
- jonsplikt. Ingen vergeordning. Gyldig legitimasjon er fysisk nasjonalt ID-
- kort\, pass\, fysisk førerkort eller bankkort med bilde. Digital legitima
- sjon (digitalt førerkort eller Bank-ID) eller bilde av legitimasjon er ik
- ke gyldig legitimasjon.\n\nArrangementet har ståplasser.\n\nDørene åpne
- r kl. 19.00. Arrangementet starter ca. 1 time etter dørene åpner. NB! De
- t anbefales å komme i god tid før arrangementet starter da det kan bli k
- ø.\n\nTickets: https://www.ticketmaster.no/event/574757473\n
-LOCATION:John Dee
-SUMMARY:ROSA FAENSKAP
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:300510f4-7b8b-4a07-b317-007da33d1d27
-DTSTART;TZID=Europe/Oslo:20260328T180000
-DTEND;TZID=Europe/Oslo:20260328T220000
-DESCRIPTION:Venue: Sentrum Scene\nTags: psychedelicrock\, progfolk\n\nAltı
- n Gün er aktuelle med sitt sjette studioalbum\, *Garip*\, som markerer ba
- ndets neste kapittel i deres stadig utviklende musikalske reise ut i det y
- tre rom.\n\n*Garip* er en hyllest til den legendariske tyrkiske folkesange
- ren og komponisten Neşet Ertaş\, med nytolkninger i klassisk Altın Gün
- -ånd og deres smittsomme\, groove-baserte\, dansevennlige og pop-filtrert
- e psykedeliske progfolk-rock\, som har gitt bandet en stor fanskare her ti
- l lands.\n\nFor å feire det nye albumet er bandet endelig tilbake i hoved
- staden – på Sentrum Scene lørdag 28. mars!\n\n--\n \n**Billetter:**\n 
- \nNB! Dette arrangementet har nummererte sitteplasser på galleriet\, og t
- o ståplass-kategorier:\n \n— Ståplasser (hovedsal) - kr. 495\,- + bill
- .avg.\n \n— Ståplasser (galleri – bakre del) - kr. 495\,- + bill.avg.
- \n \n— Nummererte sitteplasser (galleri) - kr. 535\,- + bill.avg.\n \n18
-  års aldersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig legi
- timasjon er fysisk nasjonalt ID-kort\, pass\, fysisk førerkort eller bank
- kort med bilde. Digital legitimasjon (digitalt førerkort eller Bank-ID) e
- ller bilde av legitimasjon er ikke gyldig legitimasjon.\n \nDørene åpner
-  kl. 19.00. Arrangementet starter ca. 1 time etter dørene åpner. NB! Det
-  anbefales å komme i god tid før arrangementet starter da det kan bli k
- ø.\n\nGarderoben er åpen og betjent. \n\n\nTickets: https://www.ticketma
- ster.no/event/862647219\n
-LOCATION:Sentrum Scene
-SUMMARY:Altin Gün
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:6d4d5ba8-f59f-4e46-9ace-f18467eb3c74
-DTSTART;TZID=Europe/Oslo:20260307T190000
-DTEND;TZID=Europe/Oslo:20260307T220000
-DESCRIPTION:Venue: Vaterland\nTags: metall\, folk\, extreme\n\nVANVIDD\, gr
- unnlagt i 2013\, kombinerer ekstrem metal med folkemusikk\, der folketoner
-  møter kalde og mørke riff. Musikken er preget av brutale vokaler som fo
- rmidler tekster inspirert av nasjonalromantikkens eventyr og folketro fra 
- 1800-tallet. Vanvidd er kjent for fengslende liveopptredener og et unikt l
- ydbilde som spenner fra kalde og dystre riff til progressive og orkestrale
-  arrangementer. Bandet utga sin selvtitulerte debutplate i 2016\, konsepta
- lbumet “Under ei Morken Rot” i 2021\, og slapp sitt tredje album “Av
- livsritualer” I 2025. Vanvidd har spilt på hovedscenen på Midgardsblot
-  ved flere anledninger\, i tillegg har bandet tidligere vært support for 
- band som Enslaved\, Trollfest og In The Woods. \n\nAnmeldelser av Vanvidds
-  nyeste album "Avlivsritualer": \n\nScream magazine: “Folk metal element
- et her er til å bli salig av og bør feie alle skeptikere av banen. Dette
-  albumet inneholder flere monumentale overraskelser.”\n\nHeavymetal.no: 
- 8.5/10\n\nFolk metal.nl: 9.5/10 "diverse\, mad\, harsh and […] simply br
- illiant."\n\nHeavy debriefings: "If you want another take on what folk met
- al can be\, you should check out what Vanvidd has to offer. "\n\nnordicsou
- ndarchive.com: "folk metal seems to be in something of a new renaissance\,
-  with Vanvidd at the forefront"\n\n|||||||||||||||||||\n\nWANDAL leverer n
- eo-folk og akustisk folk metal inspirert av både polsk og norsk folkemusi
- kk. Bandet ble grunnlagt i 2018\, slapp sitt debutalbum “Ryk Przodków
- ” i 2024\, og har fylt store festivalscener i Polen det siste året. Med
-  deres tolkning av slavisk og skandinavisk kulturarv fremfører Wandal dan
- sbar musikk med røttene godt plantet i moder jord.\n\nTickets: https://ww
- w.ticketmaster.no/event/vanvidd--wandal-billetter/266782342\n
-LOCATION:Vaterland
-SUMMARY:Vanvidd + Wandal
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:8ef79b1d-0101-43a6-be75-279859a297d6
-DTSTART;TZID=Europe/Oslo:20260305T190000
-DTEND;TZID=Europe/Oslo:20260305T220000
-DESCRIPTION:Venue: Revolver\nTags: post-punk\, dark-wave\, new-wave\n\n\nA 
- GIRL CALLED JOHNNYer et Oslo-basert postpunk-band som henter næring fra m
- ange kilder\, men de viktigste går tilbake til den kalde krigens 1980-tal
- l. Bandeter inspirert av The Cures majestetiske melankoli\, Imperiets kraf
- t og The Waterboys’ episke energi. Musikalsk kan også parallellene trek
- kes mot dagsaktuelle band som rir på en revitalisert bølge av dark new w
- ave post punk som f.eks. Kristi Brud og Minds of 99. Bandet debuterte med 
- EP'n Call The Police i 2018. I januar 2025 kom siste singel ut(Waiting for
-  the sun) og EP'n Ghost ble sluppet sommeren 2025. Sistnevnte tittelspor v
- ar å høre på radio i både USA og England. Bandet har de siste årene h
- att en rekke gigs rundt omkring i Norge\, både på klubbscener og festiva
- l. Medlemmene i AGCJ er satt sammen av vrakgods og overskuddsmateriale fra
-  tidligere storheter som Superfamily\, Reverend Lovejoy og Highland Glory.
- \n\n//\n\nOslo-bandet SLEEP KICKS slapp sitt debutalbum The After drop i 2
- 023\, til gode kritikker i både inn-og utland\, bl.a. havnet skiva på Å
- rets beste-listene til bl.a. Deichman Musikk og Disharmoni. Kvartetten har
-  i løpet av få år opparbeidet hederlig live-rutine\, med bejublede gigs
-  i bl.a. Trondheim\, Kristiansund\, Sandnes og Fredrikstad og ikke minst p
- å Øyafestivalens klubbdag. Bandet planlegger nå ikke mindre enn to EP-u
- tgivelser i løpet av høsten og vinteren! Bandet kombinerer hissige riff 
- og stadion vennlige refrenger\, samt litt synthkrydder - alt innenfor et i
- ndie rock-landskap med tydelig inspirasjon fra den mørke og urbane post-p
- unken fra starten av 80-tallet. Referansene strekker seg fra Echo and the 
- Bunnymen\, Simple Minds og a-ha til The Killers\, Placebo og Interpol.\n\n
- Tickets: https://revolveroslo.ticketco.events/no/nb/e/a_girl_called_johnny
- __sleep_kicks__revolver\n
-LOCATION:Revolver
-SUMMARY:A Girl Called Johnny // Sleep Kicks
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:4f208e66-5c0e-4428-9848-5cfb2e2bc746
-DTSTART;TZID=Europe/Oslo:20260520T190000
-DTEND;TZID=Europe/Oslo:20260520T230000
-DESCRIPTION:Venue: John Dee\nTags: stonerrock\, doom\n\nAcid King kommer ti
- l John Dee onsdag 20. mai for å fremføre kultklassikeren *Busse Woods* (
- 1999) i sin helhet! De har holdt det gående siden 1993\, og er en bauta i
- nnen doom og stoner. \n\nSan Francisco-bandet består fortsatt av sjefside
- olog Lori S. (gitar/vokal)\, i tillegg til Bryce Shelton (bass) og Jimmy P
- erez (trommer).\n\n--\n \nBill. kr. 300\,- + bill.avg.\n \n18 års aldersg
- rense med legitimasjonsplikt. Ingen vergeordning. Gyldig legitimasjon er f
- ysisk nasjonalt ID-kort\, pass\, fysisk førerkort eller bankkort med bild
- e. Digital legitimasjon (digitalt førerkort eller Bank-ID) eller bilde av
-  legitimasjon er ikke gyldig legitimasjon.\n \nArrangementer har ståplass
- er.\n \nDørene åpner kl. 19.00. Arrangementet starter ca. 1 time etter d
- ørene åpner. NB! Det anbefales å komme i god tid før arrangementet sta
- rter da det kan bli kø.\n\nTickets: https://www.ticketmaster.no/event/137
- 3916110\n
-LOCATION:John Dee
-SUMMARY:Acid King
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:fccfea88-2664-44bc-a73c-7583b74d4d3a
-DTSTART;TZID=Europe/Oslo:20260213T180000
-DTEND;TZID=Europe/Oslo:20260213T220000
-DESCRIPTION:Venue: Vulkan Arena\nTags: electronic/dance\, elektronisk\, tec
- hno\n\nDen elektroniske duoen TWO LANES\, bestående av brødrene Leo og R
- afa\, tar intensiteten opp et hakk når de besøker Vulkan Arena i Oslo de
- n 13. februar 2026. Med en lyd som flyter elegant mellom ambient\, neo-kla
- ssisk\, melodiøs techno og dyp elektronikk\, har de bygd opp et sterkt ry
- kte som musikalske arkitekter av stemning og følelse.\n\nTWO LANES kombin
- erer akustisk piano\, analoge synthesizere og minimalistiske rytmer for å
-  skape et uttrykk som både rører og beveger. Leo\, med sin klassiske bak
- grunn og lutring i uttrykk\, og Rafa\, med sitt øre for elektronisk produ
- ksjon og sound design\, utfyller hverandre i en sømløs blanding av det o
- rganiske og det kunstig skapte.\nPå scenen leverer de live-opptredener so
- m er både intime og storslåtte\; de lar musikken puste\, svinge\, og byg
- ge seg opp til øyeblikk av både ro og oppvåkning. For alle som liker el
- ektronisk musikk med dybde\, nyanser og kontemplative overtoner\, blir det
- te en kveld fylt med både understrømmer og klimaks.\n\n------------ Bill
- etter i salg fra 31.10: https://www.ticketmaster.no/event/844276952\n\nTic
- kets: https://www.ticketmaster.no/event/844276952\n
-LOCATION:Vulkan Arena
-SUMMARY:Two Lanes
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:9b99ded9-7893-40ee-a2e0-60b0558a8d61
-DTSTART;TZID=Europe/Oslo:20260311T180000
-DTEND;TZID=Europe/Oslo:20260311T220000
-DESCRIPTION:Venue: Rockefeller\nTags: indiepop\n\n**+ support: Selma French
- **\n\nI 2026 er det 30 år siden det legendariske skotske indiebandet Bell
- e and Sebastian ble dannet og slapp sine to første album\, og dette skal 
- feires med to helt spesielle kvelder på Rockefeller! Begge platene ble f
- ørst utgitt i 1996\, og har for lengst oppnådd mytisk status og er fast 
- inventar på «greatest of all time»-lister.\n\nOnsdag 11. mars skal band
- et spille hele debutalbumet *Tigermilk* og torsdag 12. mars er det *If You
- 're Feeling Sinister* som står for tur. Begge konsertene består i tilleg
- g av fanfavoritter fra hele karrieren.\n\nFor å gjøre det hele komplett 
- fyller Rockefeller 40 år den samme uken (14. mars)\, så dette blir noen 
- dager for historiebøkene!\n\n**Belle and Sebastian**\nI 30 år har Belle 
- and Sebastian servert nydelig\, magisk kammerpop med tiltalende melodier. 
- På 90-tallet var de med på å sjangerdefinere indiepopen slik vi kjenner
-  den i dag\, med røtter i bittersøt 60-talls solskinns-folk. \n\nFølels
- esladde tekster om livets opp- og nedturer i Glasgow\, fløyelsmyke vokalh
- armonier og helt perfekte skranglete gitarer\, delikate pianoakkorder\, og
-  et bunnsolid komp som bærer musikken opp i Skottlands skyer og tilbake. 
- Ja\, vi elsker Belle and Sebastian!\n\n--\n\nBill. kr. 550\,- + bill.avg.\
- n\n18 års aldersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig
-  legitimasjon er fysisk nasjonalt ID-kort\, pass\, fysisk førerkort eller
-  bankkort med bilde. Digital legitimasjon (digitalt førerkort eller Bank-
- ID) eller bilde av legitimasjon er ikke gyldig legitimasjon.\n\nArrangemen
- tet har ståplasser.\n\nDørene åpner kl. 19.00. Arrangementet starter ca
- . 1 time etter dørene åpner. NB! Det anbefales å komme i god tid før a
- rrangementet starter da det kan bli kø.\n\nGarderoben er åpen og betjent
- . \n\n\nTickets: https://www.ticketmaster.no/event/1939365743\n
-LOCATION:Rockefeller
-SUMMARY:Belle and Sebastian
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:278337cc-10b6-498a-9f3b-d1ed514711e7
-DTSTART;TZID=Europe/Oslo:20260311T190000
-DTEND;TZID=Europe/Oslo:20260311T220000
-DESCRIPTION:Venue: Vaterland\nTags: klassisk\, avantgarde\n\nDen anerkjente
-  komponisten og cellisten Jo Quail kommer til Vaterland onsdag 11. mars 20
- 26!\nCello-konsert(!?!) på en den lokale pizza & metall-bula tenker du ka
- nskje\, Såklart! Det er tross alt Jo Quail vi snakker om her.\n\nMed bakg
- runn fra samtidsmusikk\, klassisk\, metal og avantgarde appellerer musikke
- n hennes til et bredt publikum\, og Jo Quail må sies å ha blitt en favor
- itt blant svartkledde verden over med hyppige opptredener på en rekke ren
- ommerte metall & omegn festivaler som f.eks Roadburn Festival i Tilburg de
- r hun i 2022 fremførte bestillingsverket The Cartographer.\n\nHun har opp
- trådt på alt fra Hellfest og Melbourne Recital Centre til Royal Festival
-  Hall\, og samarbeidet med artister som Caspian\, Emma Ruth Rundle\, Ensla
- ved\, MONO\, Myrkur\, Wardruna og Heilung.\n\nKjent for sin nyskapende bru
- k av looping-teknikker og fortryllende liveopptredener verden over. Enten 
- hun spiller solo eller \nsammen med band\, kor eller orkestre\, kombinerer
-  hun organisk flyt med intrikate lydlandskap – majestetisk\, sensuelt og
-  dypt gripende.\n\nPå tide å bli trollbundet - sees på pizzasjappa onsd
- ag 11. mars 2026!\n\nTickets: https://www.ticketmaster.no/event/jo-quail-b
- illetter/1817766175\n
-LOCATION:Vaterland
-SUMMARY:Jo Quail + Lnua
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:cd2ea025-472c-4871-b41e-c2f5ef91d496
-DTSTART;TZID=Europe/Oslo:20260129T190000
-DTEND;TZID=Europe/Oslo:20260129T220000
-DESCRIPTION:Venue: Revolver\nTags: rock\, punk\n\nUNNSKYLD\n\nInspirert av 
- norsk punk fra 80-tallet og lange\, rørete kvelder\, er Unnskyld selv en 
- røre av fester og fyllesyker.\n\nDeres mål når de griper til gitarene o
- g knepper opp skjorta\, er å denge sansene med knyttnever av euforiske st
- renge-vibrasjoner\, mens vokalist Marcus Vangen leverer strofer av tragiko
- misk lyrikk.\n\nMed sin særegne kombinasjon av galgenhumor og rå realism
- e klarer de å treffe lytteren midt i brystet\, men det de ønsker mest av
-  alt er å\, sammen med lytteren - la seg rive helt med.\n\n\n\nVRAK:\n\n
- «En voldelig lidenskap for absolutt ingenting» \n\n«Litt kaotisk\, men 
- bare litt»\n\n«Et støvete elektrisk gjerde»\n\n«Nytt Album!»\n\n«P
- å samme nivå som andre bra band»\n\nTickets: https://revolveroslo.ticke
- tco.events/no/nb/e/vrak__unnskyld__revolver\n
-LOCATION:Revolver
-SUMMARY:Vrak // Unnskyld
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:a4b8c871-aadb-4176-8e21-8b02987b03f1
-DTSTART;TZID=Europe/Oslo:20260130T183000
-DTEND;TZID=Europe/Oslo:20260130T220000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: gig\, film\, live\n\nNO ESCAPE inv
- ites you to the rad evening!\nGet ready for the punk\, noise\, satan and e
- lectronica.\nDoors open --> 19:30\n20:00\nVidios:\n"We Were Prisoners of t
- he Polish State"\, directed by Rut Kurkiewicz & Wojciech Szumowski\n"XENOS
- " – ZLE OKO\, directed by Joanna Olichwer and Katarzyna Mateja\, photogr
- aphy by Agata Kubis\n21:00\nConcerts:\nMoE (NO)\nDitte Krøyer (DK)\nGrrrl
- s 666 (NO/PL) – DJ set\n------------------------------------------------
- -----------\nScreenings:\n"We were prisoners of the Polish state" (PL)\nTh
- e film „We were prisoners of the Polish state“ by Wojciech Szumowski a
- nd Rut Kurkiewicz tells the stories of refugees who came to Poland and\, i
- nstead of receiving protection\, were locked up for months or even years u
- nder very harsh conditions. They were subjected to violence\, hunger\, abu
- se\, and racism\, and received no medical or psychological help. In prison
- \, they went on hunger strike to fight for basic human rights to respect a
- nd safety.\nThe film was produced for the TV channel TVN24 and caused heat
- ed debates in the country when it was aired.\n“XENOS” (PL)\n“XENOS
- ” is a short video to the song of Oslo based polish one woman punk /nois
- e project ZŁE OKO (pol. for the Evil Eye). “XENOS” in greek means “
- The Other” and the lyrics are about the racism and xenophobia happening 
- on the polish- belarussian border. The video is edited and directed by Joa
- nna Olichwer and Katarzyna Mateja and the black and white documentary pict
- ures were made at the border by polish activists: Agata Kubis and Mikołaj
-  Kiembłowski.\nConcerts:\nMoE (NO)\nMusic can be extreme\, brutal and vul
- nerable.\nMoE is a band that builds bridges\, both in terms of music and g
- eography\, and follows the legacy of experimental and searching crossover 
- rock bands such as Pink Floyd\, Henry Cow\, Sonic Youth\, Black Flag and S
- wans. Merciless touring in over thirty countries on four continents and ab
- out twenty releases has led to a creative diversity that is hardly compara
- ble. MoE invites to an ever-changing universe of the unexpected through ro
- ck\, noise\, performance and spoken word. And through a passionate perform
- ance\, which has been compared to both shamanistic rituals and witchcraft.
-  The dark and heavy guitar landscape\, combined with the dynamic and duali
- stic vocals\, can be experienced as a mixture of Swans and Diamanda Galás
- .\nLINKS:\nhttps://moepages.bandcamp.com\nwww.conradsound.com/moe\nwww.fac
- ebook.com/moepages\nDitte Krøyer (DK)\nDitte Krøyer\, also known as the 
- frontperson of Danish black metal band Vulvatorious\, debuts as solo artis
- t\, releasing her first single 14th of november 2025.In spring 2026 KRØYE
- R will release her first full length album of electronic/metal music\, ins
- pired by her upbringing on the Danish island Lolland\, death and climate j
- ustice.With her intense live performance\, KRØYER delivers a blast of a t
- echnoshow containing scream\, growl and her giant iron construction.\nLINK
- S:\nhttps://www.youtube.com/@KROYER_666\nhttps://www.dittekroyer.com/\nDJ 
- Grrrls 666 (NO/PL)\nDJ Grrrls 666 is a two DJne collective born in the und
- erground\, hellish landscape of Oslo.\nTheir selection covers a wide span 
- of genres: from techno\, punk\, disco\, metal\, and noise\, through electr
- o and experimental sounds\, all the way to the synth-driven aesthetics of 
- earlier electronic eras.\nTheir sets imbalance between the nostalgic and t
- he kitschy\, the danceable and the completely undanceable.\nDoors open: 19
- :00| id:20\nTickets:\nRegular: 200 NOK\nStudent: 150 NOK\nLow-income: 100 
- NOK\nThis event is made in collaboration with Oslo Kommune.\n\nTickets: \n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:MoE (NO) | Ditte Krøyer (DK) | Grrrls 666 (NO) | "We were prisoner
- s of the Polish state" | "XENOS" 
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:7558c069-6eb5-448b-9fb7-ad118401883e
-DTSTART;TZID=Europe/Oslo:20260220T190000
-DTEND;TZID=Europe/Oslo:20260220T220000
-DESCRIPTION:Venue: Revolver\nTags: goth\n\nBatplanet er stolte av å presen
- tere en helaften med både mystikk og magi. Vi har den store gleden av å 
- få invitere våre skandinaviske goth-medsammensvorne til det som er den f
- ørste konserten i vår regi. Feler og synther møtes i en clash av folket
- oner blandet med klassisk industriell goth. Det blir en hedensk samling me
- d musikk inspirert av blant annet Current 93\, Coil\, Swans og Psychic TV.
-  Vi gleder oss til å se deg der!\n\nVÍZ er et audiovisuelt avant-garde s
- olo prosjekt fra Transylvania med Réka Csiszèr i front. Hun dykker inn i
-  østeuropeisk melankoli og blander sammen post-industrielle teksturer med
-  de mørke sidene av Ungarsk folkemusikk og -kultur. Sammen danner det et 
- bilde og en atmosfære som er både kryptisk og desorienterende. \n\nRUUSU
- RIIMU er en Helsinki-basert eksperimentell musikkgruppe som kombinerer fol
- ketoner med apokalyptisk\, industriell elektronika. På hjemmebane har de 
- allerede rukket å bli et hudholdningsnavn i det gotiske alternativmiljøe
- t. De er kjent for sine hypnotiske\, stemningsfulle forestillinger med et 
- lydlandskap som sender lytteren inn i nye virkeligheter. \n\nOUTO SISAR er
-  en audiovisuell duo basert i Helsinki. Duoen henter inspirasjon fra utemm
- ede og uforutsigbare naturkrefter\, støy og voldsom kaos. De strekker seg
-  langt forbi grensene for hva som er konvensjonelt og trygt. Outo Sisar ma
- ner frem gjenferdene fra både fortid\, nåtid og fremtid med musikken sin
- \, alt i et kakafonisk kluster som sender lytteren inn i en transe. \n\nTR
- ÄET-MUND-SPILLI fra Stockholm er et dypt personlig\, spirituelt prosjekt 
- som søker å utforske broen mellom mytologi\, apokalypse\, hedenskap og d
- ød. Med tradisjonelle instrumenter henter bandet inn inspirasjon fra natu
- rmystikk og en glemt fortid og kombinerer det med en moderne\, mørk klang
- . \n\nRUUSURIIMU: https://ruusuriimu.bandcamp.com\nhttps://www.instagram.c
- om/ruusuriimu/\n\nOUTO SISAR:https://www.instagram.com/outosisar/\n\nTRÄE
- T-MUND-SPILLIhttps://tret-mund-spilli.bandcamp.com/album/tr-et-mund-spilli
- \nhttps://www.instagram.com/traet_mund_spilli/\n\n\nTickets: https://revol
- veroslo.ticketco.events/no/nb/e/batplanet_pres_ruusuriimu_fi_outosisar_fi_
- tretmundspilli_se_og_vzhu\n
-LOCATION:Revolver
-SUMMARY:BATPLANET PRES: Ruusuriimu (FI)\, Outosisar (FI)\, Träet-Mund-Spil
- li (SE) og VÌZ(HU)
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:f8ab3dd9-0b4b-473a-8c3a-9d4619a926ea
-DTSTART;TZID=Europe/Oslo:20260206T180000
-DTEND;TZID=Europe/Oslo:20260206T220000
-DESCRIPTION:Venue: BLÅ\nTags: elektronika\, krautrock\, synth\n\nTangerine
-  Dream\nFredag 6. Februar | 19:00 | Id: 20 |\nelektronika / krautrock / sy
- nth\n\nI vinter vender Tangerine Dream tilbake til BLÅ\, etter fjorårets
-  sagnomsuste konsert. Tangerine Dream ble grunnlagt i Berlin i 1967 av Edg
- ar Froese og har helt siden starten banet vei innen elektronisk musikk. Me
- d albumet Phaedra (1974) satte de en ny standard for sjangeren og spilte e
- n nøkkelrolle i utviklingen av eksperimentell og synthesizer-basert musik
- k. Deres lydbilde kombinerer analoge sequencere\, modulærsynth\, mellotro
- n\, og tape-eksperimenter med atmosfæriske teksturer og repetitive rytmem
- ønstre.\n\nGjennom mer enn hundre album har bandet hatt enorm innflytelse
-  på alt fra ambient og krautrock til moderne elektronisk dansemusikk. De 
- er også kjent for å lage filmmusikk\, med over 60 lydspor til filmer som
-  Thief\, Risky Business og Legend. I 2013 komponerte de også musikken til
-  Grand Theft Auto V\, som vant VGX-prisen for beste spill-soundtrack.\n\nE
- tter Froeses død i 2015 ledes bandet av Thorsten Quaeschning\, sammen med
-  Hoshiko Yamane (elektrisk fiolin og synth) og Paul Frick (synth og piano)
- . Den nye besetningen har videreført bandets sekvenserdrevne lyd og kombi
- nert den med live-elektronikk og moderne produksjonsteknikker. Albumet Rau
- m (2022) markerte et tilbakeblikk til bandets klassiske æra og ble deres 
- største suksess på flere tiår.\n\nTangerine Dream er tilbake på turné
-  med CONTINUUM TOUR 2026 og fredag den 6. Februar besøker de oss igjen i 
- Brenneriveien.\n\nTickets: https://www.ticketmaster.no/event/tangerine-dre
- am-billetter/1807696440\n
-LOCATION:BLÅ
-SUMMARY:Tangerine Dream /BLÅ
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:27ec9af9-432e-4705-85a9-2832c35bb2ee
-DTSTART;TZID=Europe/Oslo:20260306T190000
-DTEND;TZID=Europe/Oslo:20260306T220000
-DESCRIPTION:Venue: Revolver\nTags: noise\, rock\, støyrock\n\nTakomaha ga 
- ut sin ferskeste utgivelse "American Basements" mot slutten av 2025\, ette
- rfulgt av supportkonserter for Blood Command i Oslo og Tyskland.   Nå e
- r det på tide å gjøre sin egen slippkonsert og comeback på Revolver i 
- Oslo\, og det skjer 6. mars. Etter å ha rystet norsk støyrock siden sin 
- spede begynnelse på Klubbøya nede i kjelleren på Revolver i 2018\, tar 
- Takomaha igjen nå sitt lydunivers live. Bandets sammensetning inkluderer 
- medlemmer fra anerkjente band som Solstorm\, Desperado og Yuma Sun.\n\nTak
- omaha er nå EP-aktuelle med sin andre skive “American Basements”\, ut
- gitt av Loyal Blood Records\, mikset og produsert av Nick Terry (The Liber
- tines\, Serena-Maneesh\, Kvelertak)\, og er en firelåters rambukk som luk
- ter svidd\, bitterhet og bråk. \n\nFor de som fortsatt tviler på Takomah
- as magnetiske kraft\, deler journalist Ida Hestman sin dom etter bandets o
- pptreden ved Trondheim Calling 2019: "Med sitt eksperimentelle og kosmiske
-  sound\, prydet med samples\, gitarer\, suggererende bass\, og en sterkt v
- isuell estetikk som speiler det gjennomførte lydbildet\, appellerer Takom
- aha til flere deler av persepsjonsanlegget og sansesystemet". \n\nVi sees 
- på Revolver.\n\nTickets: https://revolveroslo.ticketco.events/no/nb/e/tak
- omaha__revolver\n
-LOCATION:Revolver
-SUMMARY:Takomaha // Supp.: LNUA
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:b88f8c43-c36f-434d-b3c8-f0c7273c6f33
-DTSTART;TZID=Europe/Oslo:20260322T180000
-DTEND;TZID=Europe/Oslo:20260322T220000
-DESCRIPTION:Venue: Sentrum Scene\nTags: electronica\, house\, techno\n\nDen
-  banebrytende britiske elektronika-gruppen Leftfield kommer til Sentrum Sc
- ene søndag 22. mars! Leftfield ble startet i London i 1989 av Neil Barnes
-  og Paul Daley\, og har i over tre tiår satt standarden for progressiv ho
- use\, med en særegen miks av dub techno og elektronika\, ofte med markant
- e gjestevokalister.\n\nEtter en pause tidlig på 2000-tallet relanserte Ne
- il Barnes Leftfield i 2010 med et nytt liveoppsett og et roterende lag av 
- medmusikanter og vokalister. Bandet står bak klassiske album som *Leftism
- * (1995) og *Rhythm and Stealth* (1999)\, samt *Alternative Light Source* 
- (2015) og *This Is What We Do* (2022).\n\nPublikum kan forvente en massiv 
- og detaljrik produksjon\, med låter som har formet klubbkulturen\, fra «
- Release the Pressure» og «Open Up» til nyere favoritter. Dette blir en 
- sjelden sjanse til å oppleve et av elektronikaens mest innflytelsesrike n
- avn i Sentrum Scenes akustiske rammer\, midt i Oslo.\n\n--\n\nBill. kr. 48
- 5\,- + bill.avg.\n\n18 års aldersgrense med legitimasjonsplikt. Ingen ver
- geordning. Gyldig legitimasjon er fysisk nasjonalt ID-kort\, pass\, fysisk
-  førerkort eller bankkort med bilde. Digital legitimasjon (digitalt føre
- rkort eller Bank-ID) eller bilde av legitimasjon er ikke gyldig legitimasj
- on.\n\nBilletter gir tilgang til både ståplasser i hovedsal samt unummer
- erte sitteplasser på galleriet\, tilgjengelig etter først til mølla-pri
- nsippet.\n\nDørene åpner kl. 19.00. Arrangementet starter ca. 1 time ett
- er dørene åpner. NB! Det anbefales å komme i god tid før arrangementet
-  starter da det kan bli kø.\n\nGarderoben er åpen og betjent. \n\n\nTick
- ets: https://www.ticketmaster.no/event/1969650155\n
-LOCATION:Sentrum Scene
-SUMMARY:Leftfield
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:42e3239e-eb78-4f12-815e-e743e4b1de63
-DTSTART;TZID=Europe/Oslo:20260226T180000
-DTEND;TZID=Europe/Oslo:20260226T220000
-DESCRIPTION:Venue: Mir\nTags: Elektroakustisk\, Ambient\, Eksperimentelt\n\
- n\n‿︵‿︵‿︵   Field recordings and sonic travels\; wild explorat
- ions of saxophone with electronics and deep beats: F/eks invites you to op
- en your ears and leave expectations at home for a split night with Czech s
- ound artist Magdaléna Manderlová and Swedish saxophonist Karl Hjalmar Ny
- berg!  ‿︵‿︵‿︵\n\n------------------------------\n\nMAGDALÉNA 
- MANDERLOVÁ\n\nMagdaléna Manderlová er en lydkunstner fra Tsjekkia\, bas
- ert i Oslo. Hun jobber med relasjonelle og sensoriske lyttepraksiser og fe
- ltopptak\, med kjerne i en dyp interesse for økologi\, natur og naturens 
- prosesser. Hennes kunst er ofte stedsspesifik og tar form som interdisipli
- nære prosjekter\, lydinstallasjoner\, komposisjoner\, konserter og deltak
- ende arbeider og tekst. Nylig har hun laget utstillinger og verk for blant
-  andre Atelier Nord\, nyMusikk\, en rekke trær\, Only Connect\, Sanatoriu
- m of Sound festival\, Lydgalleriet\, Nitja og så videre. I samarbeid med 
- Michal Kindernay organiserer hun også et årlig symposium for akustisk ø
- kologi i Kozmické Meadows våtmark i hennes hjemmeregion. Magdalena er og
- så med på å organisere Røst Kunstnerresidensprogram. \n\nMagdalenas al
- bum "Straw Bales" er utgitt både på engelsk og tsjekkisk\, og er som et 
- hørespill der lydlandskaper\, stemme\, og mykt prosesserte instrumenter o
- g samples blander seg til en behagelig lydreise. En slags sonisk film\, el
- ler ambient lydbok\, som transporterer lytteren inn i Magdalenas vakre ver
- den. Vi gleder oss veldig til å høre hva hun syr sammen for oss.\n\n----
- --------------------------------------\n\nKARL HJALMAR NYBERG\n\nKarl Nybe
- rg er saksofonist med mange armer - og blander ofte elektronikk inn i miks
- en\, på sin helt egne måte. I sitt nyeste album 4K har han tatt utforskn
- ingen av møtet mellom sax og elektronikk videre\, og resultatet er frisk 
- og energisk musikk hvor hovedinstrumentet skinner i lyset av glitrende syn
- ther\, glitchete beats og transformerende harmonikk. Pitch\, melodi og tem
- po lever og puster\, der den ene idéen tar den andre uten at det føles a
- nstrengt. Karl Nyberg er åpenbart en ekstremt musikalsk komponist som ikk
- e er redd for å bruke av hele sitt spekter. \n\nSelv sier han at låtene 
- har vokst fram fra konkrete saksofontekniske idéer: en multiphonics som v
- eksles ut til en synth-pad\, arpeggioer som går så raskt at de blir harm
- onier\, og andre extended techniques som åpner klangverdener. På denne m
- åten skaper han låter som kan bevege seg fritt\, fra abstrakte lydlandsk
- aper via drum & bass-fragmenter\, til langsomme\, hip-hop-inspirerte beats
- . Målet er enkelt og ærlig\, sier han: "att skapa den musik jag själv v
- ill höra men som ännu inte finns." Musikk som overrasker\, berører\, og
-  inviterer inn til lytting på nye vilkår. Det har han til de grader klar
- t. \n\nVelkommen til feiring av albumet og en sjelden live-konsert med Kal
- le! \n\n‿︵‿︵‿︵\n\nMir åpner 19:00\nKonsertstart 20:00 \nCC: 2
- 75 / 225 (studenter og medlemmer av Konsertforeninga)\nPlakater & illustra
- sjoner av Zarina Saidova\nPhoto crop in header image is shot by Jeremy Wel
- sh\, of Magdaléna Manderlová live in concert.\n\nF/eks er en konsertseri
- e for elektronisk musikk og eksperimentell pop\, kuratert av Jenny Berger 
- Myhre og produsert av Femme Brutal\, i samarbeid med Konsertforeninga\, me
- d støtte fra Oslo Kommune og Norsk Kulturråd. \n\nTickets: \n
-LOCATION:Mir
-SUMMARY:F/eks: Magdaléna Manderlová / Karl Hjalmar Nyberg
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:3344815a-e074-40f1-ad1e-2ab5dfcb0c23
-DTSTART;TZID=Europe/Oslo:20260221T180000
-DTEND;TZID=Europe/Oslo:20260221T220000
-DESCRIPTION:Venue: Goldie Oslo\nTags: eksperimentell rock\, post-rock\n\nGR
- AILS – den eksperimentelle rockeinstitusjonen som i et kvart århundre h
- ar dyrket fram et uttrykk basert på kulturelle kuriositeter og uvanlige m
- usikalske kilder – vender tilbake bare to år etter det kritikerroste An
- ches En Maat med sitt mest personlige og emosjonelt ladede album til nå. 
- Mens bandet fortsatt trives med å omarbeide bisarre og obskure impulser t
- il noe åpenbarende og surrealistisk\, gjør Miracle Music det med en oppa
- dstigende melodisk kraft som føles nærmest hellig.\n\nLineupen på Mirac
- le Music består av grunnleggerne Emil Amos (Om\, Holy Sons\, Lilacs & Cha
- mpagne) og Alex Hall (Lilacs & Champagne)\, sammen med tilbakevendende med
- lemmer AE Paterra (Zombi\, Majeure)\, Jesse Bates og Ilyas Ahmed. Albumet 
- er produsert av Amos og markerer en gjenforening med lydtekniker Jason Pow
- ers og hans Type Foundry-studio i Portland\, Oregon – der de tidligste G
- rails-platene ble til for mer enn to tiår siden. Med både akustiske og e
- lektriske gitarer\, synther\, treblås\, messing\, samples og perkusjon 
- – samt blåsere arrangert av Kelly Pratt (David Byrne\, M. Ward) – åp
- ner Miracle Music et utsøkt nytt landskap for Grails.\n\nKreativt utrette
- lige som alltid balanserer Grails den grenseløse klaustrofobien fra tidli
- g industriell musikk med de luftige melodiene fra klassiske komposisjoner\
- , og skaper den tette stemningen som preger Miracle Music. I en katalog kj
- ent for sine uforutsigbare veivalg er dette Grails’ mest sentimentale og
-  ambisiøse reise hittil.\n\nEXPENSIVE $HIT er soloprosjektet til Paul Qua
- ttrone (TheeOhSees). Expensive $hit inkorporerer vintage elektroniske trom
- mepads\, samplere og et arsenal av distortion- og delaypedaler\, mikset me
- d akustiske trommer for å skape en rytme/støy-hybrid verdig en generator
- drevet sonidero-fest på en meksikansk parkeringsplass. Ekko av afrobeat\,
-  krautrock\, dub og hard støy høres overalt.\n\nTickets: https://www.tic
- ketmaster.no/event/838787919\n
-LOCATION:Goldie Oslo
-SUMMARY:Grails (US) + Expensive $hit (US)
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:bb9709b4-2255-46dc-98da-30cd8fd06292
-DTSTART;TZID=Europe/Oslo:20260213T180000
-DTEND;TZID=Europe/Oslo:20260213T220000
-DESCRIPTION:Venue: Rockefeller\nTags: progrock\, heavymetal\, psychedelia\n
- \nHällas slapp sitt etterlengtede fjerde album *Panorama* 30. januar\, og
-  fredag 13. februar inntar det svenske progrock-bandet Rockefeller! \n\nDe
- n småländske kvintetten er nylig hjemkommet fra sin første turné i Lat
- in-Amerika. De har også gjort flere turneer i USA og Canada\, samt blitt 
- nominert til både Grammis og P3 Guld. \n\nPå én måte høres *Panorama*
-  kjent ut: en fantasifull hybrid av progressiv 70-tallsrock og heavy metal
- \, med innslag fra både folk og psykedelia – i tillegg til et konseptue
- lt innhold. På en annen måte har du ikke helt hørt en slik plate fra H
- ällas før. Selvtilliten har aldri tidligere vært like tydelig. Den innl
- edende låten «Above the Continuum» varer i litt over 22 minutter\, en h
- el LP-side. \n\nEt allerede estetisk særpreget\, for ikke å si ekstravag
- ant\, band vil på den kommende turneen skru opp også når det gjelder de
- t visuelle i sceneshowet. Den unike verdenen Hällas formidler på plate s
- kal i enda høyere grad gjenskapes live\, og bidra til at musikken blir et
-  eventyr å oppleve også på scenen!\n\n--\n\nBill. kr. 420\,- + bill.avg
- .\n\n18 års aldersgrense med legitimasjonsplikt. Ingen vergeordning. Gyld
- ig legitimasjon er fysisk nasjonalt ID-kort\, pass\, fysisk førerkort ell
- er bankkort med bilde. Digital legitimasjon (digitalt førerkort eller Ban
- k-ID) eller bilde av legitimasjon er ikke gyldig legitimasjon.\n\nArrangem
- entet har ståplasser.\n\nDørene åpner kl. 19.00. Arrangementet starter 
- ca. 1 time etter dørene åpner. NB! Det anbefales å komme i god tid før
-  arrangementet starter da det kan bli kø.\n\nGarderoben er åpen og betje
- nt.\n\n\nTickets: https://www.ticketmaster.no/event/1808688523\n
-LOCATION:Rockefeller
-SUMMARY:Hällas
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:a8fc4125-301f-4a85-abe1-d884581d13ee
-DTSTART;TZID=Europe/Oslo:20260529T200000
-DTEND;TZID=Europe/Oslo:20260530T000000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Postrock\, rock\n\nBilly Mahonie r
- eturn to Oslo after a thousand years (ok 26 or so).\nThey loved it the fir
- st time so much that one member actually now lives here and has become Nor
- wegian!\nThe band returned with a new album in 2024 after a LOOOOONG break
- \, and the sound kicks off where they left off.\nAnd the album press relea
- se...\nBRITISH POST-ROCK LEGENDS BILLY MAHONIE RETURN WITH FIRST NEW MATER
- IAL FOR 24 YEARS\nNEW ALBUM ‘FIELD OF HEADS’ TO BE RELEASED MAY 24TH V
- IA WHISTLING SAM PROJECTS\nPRE-ORDER THE ALBUM HERE:\nWATCH THE VIDEO FOR 
- LATEST SINGLE ‘KAIJU’ HERE:\nFormed in the first wave of British post-
- rock alongside the likes of Mogwai in the late 90s\, John Peel favourites 
- Billy Mahonie are set to return with the first new music from their origin
- al line-up in some twenty-four years. Whilst their debut album ‘The Big 
- Dig’\, released in 1999 on Too Pure Records\, is considered a classic of
-  the post rock genre\, Billy Mahonie always crafted their intricate music 
- with memorable hooks and melodies and performed it with energy and gusto. 
- Theirs was not an aimless\, meandering sound\, instead the songs and attit
- ude were rooted in punk rock\, and still are. Billy Mahonie put the rock i
- nto post-rock.\nSet for release this coming May 24th via Whistling Sam Pro
- jects\, ‘Field Of Heads’ sees the band returning with their classic or
- iginal line-up of Gavin Baker (guitar)\, Howard Monk (drums)\, Hywell Dins
- dale (bass and guitar) and Kevin Penney (bass and guitar). Whilst this lin
- e-up has been semi active for a few years\, no new material came to fruiti
- on. After their last gig in 2017\, however\, the band decided it was time 
- to get back into the studio\, but with two members living abroad new chall
- enges were faced\, but ideas were shared\, old ones were resurrected and f
- inally in October of 2019\, Billy Mahonie were back in the studio.\nRecord
- ed over two long weekends on either side of the Covid 19 lockdowns\, the b
- and tracked at The Church studios\, owned by their former collaborator and
-  front of house engineer Paul Epworth\, with senior engineer Luke Pickerin
- g at the controls\, allowing ‘Field Of Heads’ to quickly take shape.\n
- New single ‘Kaiju’ gives the music world the first taste of ‘Field O
- f Heads’ and right from the off\, it’s classic Billy Mahonie. Immediat
- ely bursting into life with the energy and melody that is so unique to the
- ir sound\, Howard’s driving drums thrust the music ahead as the guitars 
- and synths weave their way around them. Intricate and shifting\, but never
-  at the expense of a tune that sticks in your head.\n“This one came from
-  a chord progression myself and Gav first tried out jamming in 2010\,” e
- xplains drummer Howard. “Needless to say\, when Hywell and Kev got their
-  hands on it\, it became something no-one ever envisaged. Kev's great titl
- e is\, of course\, the Japanese name for the subgenre of monster-based sci
- ence fiction. A frenetic riff opens the song and for a counter guitar part
-  only two options remain\, play in the minimal gaps or find an overarching
-  theme. We chose both. Kaiju films influence the additional Synths\, echoe
- s of those early Japanese movie themes. Some people we have played this to
-  in advance have suggested this track is one we should lead with\, as it i
- s kind of where we left off. We agree. It rocks pretty hard. And is a bit 
- funky too. What’s not to like?!”\n\n\nWatch the video for ‘Kaiju’ 
- HERE:\n\nFurthermore\, Billy Mahonie now have their own label\, Whistling 
- Sam Projects\, set up for global distribution through SRD. After nearly qu
- arter of a century\, Billy Mahonie are very much back.\n\nTickets: https:/
- /tikkio.com/events/62074\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Billy Mahonie
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:be3181d4-9a5b-445e-9327-a7b95bed7a7f
-DTSTART;TZID=Europe/Oslo:20260220T180000
-DTEND;TZID=Europe/Oslo:20260220T210000
-DESCRIPTION:Venue: Goldie Oslo\nTags: dark wave\, goth\, electro\n\nULTRA S
- UNN er ditt nye favorittband innen EBM\, Coldwave og New Beat\, født ut a
- v den pulserende\, underjordiske scenen i Brussel\, Belgia. Bandet ble dan
- net sent i 2019 av frontmann og multi-instrumentalist Sam Huge\, sammen me
- d keyboardist og produsent Gaelle Souflet. Senere ble de supplert på scen
- en av keyboardist og perkusjonist Alexis Andrigo.\n\nEn unik alkymi av ins
- pirasjon Duoens musikk er en kraftfull blanding av EBM og New Beat\, Post-
- Punk\, med elementer av techno\, og en dyp kjærlighet for velkomponerte\,
-  fengende popmelodier.\n\nDe er arvtagninger av såkalte "The Sound of Bel
- gium"\, og har delt scene med ikoner som Front 242\, A Split Second og DAF
- \, samt samarbeidet med Front Line Assembly. Lydbildet og visjonen er mode
- rne og solid forankret i nåtiden. De har også samarbeidet med samtidige 
- artister som Twin Tribes\, Kontravoid\, Curses\, og flere.\n\nUltra Sunn v
- ever sammen pulserende beats\, fortryllende syntmelodier og Sams mørke\, 
- baritone stemme til hymner som føles tidløse\, men samtidig uforvekselig
-  moderne. Ultra Sunn fanger spenningen mellom sårbarhet og styrke\, og gi
- r et fristed for de som navigerer i de komplekse landskapene av moderne li
- v.\n\nTickets: https://www.ticketmaster.no/event/1001722376\n
-LOCATION:Goldie Oslo
-SUMMARY:ULTRA SUNN (BE) + Zero Bats
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:d881cea0-f099-42f7-9a7b-d0f821d2b985
-DTSTART;TZID=Europe/Oslo:20260505T190000
-DTEND;TZID=Europe/Oslo:20260505T230000
-DESCRIPTION:Venue: Goldie Oslo\nTags: post-rock\, eksperimentell\n\nMed kom
- promissløs virtuositet og tydelig kunstnerisk overbevisning har BRUIT ≤
-  på bare få år etablert seg som en sentral kraft i den franske postrock
- -scenen – en sjanger bandet både har absorbert og omformet gjennom sine
-  nådeløse inspirasjonskilder. Etter en bemerkelsesverdig live-session ho
- s KEXP i Seattle slapp den franske kvartetten albumet The Age of Ephemeral
- ity i 2025 på Pelagic Records – et album de nå tar med seg på turné\
- , inkludert konserten på Goldie tirsdag 05. mai.\n\nOppstått fra de ryke
- nde restene av ulike franske major label-popband i 2016\, samlet BRUIT ≤
-  (\\ˈbrü-ē\\ – fransk for «støy») seg med et ønske om å flykte f
- ra “big business”-delen av musikkbransjen og vende tilbake til musikk 
- som en kunstnerisk prosess\, fri for kommersielle føringer og forventning
- er.\n\nEtter to EP-er\, et debutalbum og en turné som support for M83\, e
- r BRUIT ≤ nå aktuelle med The Age of Ephemerality – et album som utfo
- rsker nye horisonter\, samtidig som det forblir tro mot kvartettens musika
- lske røtter. Bandets overbevisninger har holdt seg urokkelige gjennom år
- ene\, og The Age of Ephemerality er intet unntak: albumet er bevisst ikke 
- tilgjengelig på de store strømmeplattformene\, som de mener er dominert 
- av sosiale predatorer.\n\nTickets: https://www.ticketmaster.no/event/32166
- 8773\n
-LOCATION:Goldie Oslo
-SUMMARY:BRUIT ≤
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:9e90a802-5c52-4af1-9db6-db85a99125b8
-DTSTART;TZID=Europe/Oslo:20260512T190000
-DTEND;TZID=Europe/Oslo:20260512T230000
-DESCRIPTION:Venue: Goldie Oslo\nTags: shoegaze\, heavy\, drømmepop\n\nSlow
-  Crush er et band som lever gjennom konstant utvikling. Etter deres kritik
- erroste debut Aurora (2018)\, omtalt av Stereogum som “fenomenal” og 
- “et av tidenes beste shoegaze-album” — turnerte de intenst og bygget
-  en global fanskare som falt for deres omsluttende\, bølgende lydlandskap
- .\nOppfølgeren Hush (2021) ga bandet enda mer vind i seilene med påfølg
- ende utsolgte konserter og internasjonal blest. Nye låter lot deretter ve
- nte på seg en stund mens bandet levde på veien\, men fireårsperioden me
- llom Hush og deres nyeste skive Thirst (2025) førte med seg ny energi og 
- kreativ fornyelse.\n\nDa tiden kom for å spille inn\, dro vokalist/bassis
- t Isa Holliday\, gitarist Jelle Ronsmans og trommeslager Frederik Meeuwis 
- til The Ranch i Southampton\, UK\, for å jobbe med produsent Lewis Johns 
- (Rolo Tomassi\, Svalbard). Johns presset bandet utover komfortsonen og opp
- muntret til spontanitet og eksperimentering\, fra glitchy teksturer og sna
- re-opptak på kjøkkenet til uventet saksofon på låten “Covet”.\n\nD
- enne transformerende ånden gjennomsyrer hele albumet. Musikalsk er det ty
- ngre og mer lagdelt\, med drømmende vokal over skitne gitarer og en ny em
- osjonell styrke. Isa graver dypere enn noen gang i tekstene\, med tematikk
- en knyttet til emosjonell utbrenthet\, gjenerobring av seg selv og livet i
-  spennet mellom turné og hjemkomst.\n\nI kjernen handler albumet om klarh
- et og emosjonell sannhet — om balansen mellom tyngde og intimitet. Det e
- r et album om å være forankret\, men svevende\; fortapt\, men søkende\;
-  og viktigst av alt\, om musikkens rolle som rom for stillhet\, refleksjon
-  og transcendens.\n“Vi vil at folk skal føle seg omsluttet av musikken\
- ,” sier Isa. “At de kan slippe taket og bli tatt med et annet sted —
-  nesten inn i en annen dimensjon. Et sted hvor de bare kan være til stede
- .”\n\nTickets: https://www.ticketmaster.no/event/slow-crush-billetter/97
- 0133612\n
-LOCATION:Goldie Oslo
-SUMMARY:Slow Crush
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:8406f8b6-85f7-4441-b6ff-d5a330fb8f9d
+DTSTAMP:20260809T161523Z
+UID:9ddf114a-e428-4ed1-8aba-2b69fcc44254
 DTSTART;TZID=Europe/Oslo:20260827T190000
 DTEND;TZID=Europe/Oslo:20260827T230000
 DESCRIPTION:Venue: Rockefeller\nTags: blackmetal\, shoegaze\, postrock\n\nD
@@ -869,137 +77,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:83d70e4e-27cf-4510-a1ec-0dd3157f3b82
-DTSTART;TZID=Europe/Oslo:20260521T200000
-DTEND;TZID=Europe/Oslo:20260521T230000
-DESCRIPTION:Venue: Revolver\nTags: dreampop\, shoegaze\, post-punk\n\nSince
-  forming in Gothenburg in 2008\, Makthaverskan have carved out a distinct 
- blend of post-punk\, dream pop\, and jangle pop – always delivered with 
- Maja Milner’s piercing\, intense vocals and an almost desperate energy. 
- Across four critically acclaimed albums (I\, Makthaverskan II\, III\, För
-  Allting)\, the band has evolved from raw\, dark post-punk into more atmos
- pheric and experimental sonic landscapes. Now\, they’re back in the stud
- io\, putting the finishing touches on their fifth record – a natural nex
- t step filled with nerve\, intensity\, and new textures.\n\nThe press has 
- often highlighted their balance of raw energy and fragile melody: on För 
- Allting (2021)\, Pitchfork praised their “pitch-perfect blend of post-pu
- nk\, jangle pop\, and shoegaze”\, now expanded into a “full-bodied ref
- lection on regret and stagnation”. Milner’s voice\, they noted\, is 
- “thin but strong\, hitting a violent edge as easily as the flick of a bu
- tterfly knife”.\n\nThe power of their early years still rings out on sta
- ge: Brooklyn Vegan observed that “what really sets Makthaverskan apart
- … is Maja Milner’s powerhouse voice”\, proof that the band’s inten
- sity lives on in their live shows.\n\nAs Makthaverskan return to the studi
- o\, there’s a clear sense of building on their dreamy intensity with new
-  sonic experiments. Their forthcoming album – now in its final productio
- n stages – is charged with emotional choruses\, rhythmic force\, and atm
- ospheric layers that push them forward without leaving their core behind. 
- In short\, it’s a continuation of their artistic journey: rawness and me
- lodic beauty meeting curiosity and sharpened production.\n\nTickets: https
- ://revolveroslo.ticketco.events/no/nb/e/makthaverskan_se__revolver\n
-LOCATION:Revolver
-SUMMARY:Makthaverskan (se) // Future Nostalgia
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:82612995-df2d-42f4-901a-6cd0d2e06323
-DTSTART;TZID=Europe/Oslo:20260306T200000
-DTEND;TZID=Europe/Oslo:20260306T220000
-DESCRIPTION:Venue: Brewgata\nTags: Rosafaenskap\, Lyttefest\n\nROSA FAENSKA
- P release their sophomore album Ingenting Forblir march 6th\, and will cel
- ebrate the evening with a DJ-set at Brewgata! Come hang out\, drink beer w
- ith us\, and listen to our favorite music! Signed copies of Ingenting forb
- lir will be available to purchase ✨ \n\n\nTickets: \n
-LOCATION:Brewgata
-SUMMARY:Rosa Faenskap Release Party // Dj set
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:ec2eb774-8f80-41fd-b279-089fe1f40dda
-DTSTART;TZID=Europe/Oslo:20260312T190000
-DTEND;TZID=Europe/Oslo:20260312T220000
-DESCRIPTION:Venue: Revolver\nTags: fuzz\, stoner\, heavyrock\n\nEtter et å
- r med turnering og kritikerroste konserter på festivaler som Desertfest O
- slo og VillVillVest er nå det bergensbaserte rockebandet Gjenferd klare f
- or å legge ut på veien igjen. Denne gangen med sitt andre album\, “Bla
- ck Smoke Rising”  som slippes den 6. mars 2026 på Apollon Records.\n\nB
- lack Smoke Rising bygger videre på styrkene fra debututgivelsen\, med et 
- enda større fokus på catchy refreng og hardslående riff som fanger lytt
- eren fra første sekund. De er samtidig tro mot seg selv og viser ingen te
- gn til å gi slipp på den mørke nerven som har preget Gjenferd siden sta
- rten.\n\nGjenferd henter inspirasjon fra klassiske heavyrock-band som Blac
- k Sabbath og Deep Purple\, kombinert med et moderne uttrykk påvirket av G
- host og Hällas. De er kjent for sine energiske liveopptredener på festiv
- aler som Desertfest Oslo.\n\nBandets debutplate høstet en 4. plass blant 
- Doom Charts beste album for mai 2024\, og singelen “Starless” fikk ter
- ningkast 5 i Dagsavisen og Bergens Tidende. \n\n\n“Det er utemmet og vil
- t\, jafser over de fleste subsjangere i ett og likevel er det et sug i den
- ne låten som gjør at man hypnotisk trykker inn repeatknappen.” - Mode 
- Steinkjer (Dagsavisen). \n\n\nGjenferd består av medlemmer fra blant anne
- t Kryptograf\, Edvard Borneo\, Metusalem\, og tidligere bassist i SKAAR.\n
- \nFFO: Deep Purple\, Pink Floyd\, Black Sabbath\, Slomosa\, Motorpsycho\, 
- Uncle Acid and the Deadbeats\, Pentagram\, Uriah Heep.\n\nTickets: https:/
- /revolveroslo.ticketco.events/no/nb/e/gjenferd__revolver\n
-LOCATION:Revolver
-SUMMARY:Gjenferd // Monograf
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:8bd906d9-7908-4603-8340-a72d2185de18
-DTSTART;TZID=Europe/Oslo:20260321T190000
-DTEND;TZID=Europe/Oslo:20260321T220000
-DESCRIPTION:Venue: Vaterland\nTags: støyrock\, hardcore\, rock\n\nStøyroc
- kduoen BARREN WOMB har siden 2011 holdt helvete med deres minimalistiske t
- ilnærming\, grisehøye volum og endeløse eksperimenteringsbehov. Her ham
- res poenget inn ved hjelp av primitiv dynamikk og riffets urkraft.\n \nGje
- nnom fem kritikerroste album\, en håndfull EPer og singler\, samt hundrev
- is av spilte konserter i Europa og Nord-amerika har BARREN WOMB fått ry s
- om et av Norges beste og mest hardtarbeidende liveband. Duoens femte album
-  ‘Chemical Tardigrade’\, en rå\, bombastisk støyrocksuppe servert i 
- 11 porsjoner\, har høstet store mengder lovord både innenlands og fra st
- ore internasjonale sjangerpublikasjoner som Metal Hammer UK\, Visions Maga
- zin og OX Fanzine. Albumet er ute nå gjennom Fucking North Pole Records/B
- lues For The Red Sun.\n\n\n"Med 'Chemical Tardigrade' har de laget et albu
- m den utvidede punkrocksjangerens absolutte verdensklasse" \n- Dagsavisen\
- , 6/6\n \n“Norwegian noise rock duo reassert their invincibility”    \
- n- Metal Hammer UK\, 8/10  \n\n"Det som uansett er sikrere enn noen banker
-  noensinne har vært er at de er det råeste og feteste bandet som bor og 
- puster i Trondheim. Spidergawd\, Motorpsycho og DumDum Boys får ha meg un
- nskyldt. Eller\, drit i unnskyldningen\, hør heller på "Chemical Tardigr
- ade"\, så skjønner du hva jeg mener"\n- The Wilhelmsens\, 6/6\n \n "Barr
- en Womb have now shown for the fifth time that noise from Scandinavia also
-  works beyond blast beats\, studded bracelets and burning churches."\n- Vi
- sions Magazine\, 9/12\n\n||||||\nDead Movie Animals er «Norges svar på Q
- ueens of the Stone Age»\, ifølge GAFFA og har blitt døpt «superkule» 
- av selveste Refused-vokalist Dennis Lyxzén. \n\nDuoen fra Mysen har etabl
- ert seg som en eksplosiv enhet live i Oslo\, hvor de i fjor headlinet Klub
- bØya på Revolver og Musikkfest på Vaterland. De to barndomskameratene S
- imen Trippestad (Despereaux\, The Ape) og Per Åsmund Reymert (Pushwagnerg
- ruppen\, the IV\, Despereaux) spiller post-hardcore med elementer fra grun
- ge\, prog og post-punk. \nDuoen har også fått internasjonal omtale\, av 
- britiske Circuit Sweet\, som kåret debutsingelen «A Little Darkness» ti
- l en av årets beste låter.\n\n24.april utgir de debutalbumet A New Curre
- nt!\n\n\nTickets: https://www.ticketmaster.no/event/barren-womb-billetter/
- 1489474107\n
-LOCATION:Vaterland
-SUMMARY:Barren Womb + Dead Movie Animals
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:7461d111-0071-405b-ab36-280928bdb99e
+DTSTAMP:20260809T161523Z
+UID:06f26228-ab48-44bd-9c6d-37cc8bcc9eaa
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T230000
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -1035,48 +114,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:eb2d4778-2b52-4004-bca8-00f0e04b27c7
-DTSTART;TZID=Europe/Oslo:20260430T200000
-DTEND;TZID=Europe/Oslo:20260430T230000
-DESCRIPTION:Venue: Revolver\nTags: post\, hardcore\, punk\n\nPost-hardcore-
- duoen Dead Movie Animals slipper endelig debutalbumet sitt\, A New Current
- .\n\nDet skal feires på Revolver natt til 1. mai. Med på festen er kvint
- etten Bikelane + en rekke musikalske gjester.\n\n//////// ///////\n\nD E A
-  D M O V I E A N I M A L S\n\n«Superfint»\, sier Refused-vokalist Dennis
-  Lyxzén. «Norges svar på Queens of the Stone Age»\, sier GAFFA. Mysen-
- duoen Dead Movie Animals har siden oppstarten gjort seg bemerket for en ka
- meleonisk evne til å skifte uttrykk\, enten det er rå hardcore\, hypnoti
- sk prog eller retroinspirert filmmusikk. Den særegne sjangerblandingen ha
- r blant annet ført dem på Norgesturné med stoner-legendene Thulsa Doom 
- og spillerjobber med de svenske post- punkerne i INVSN. Felles for all mus
- ikken er jakten på originale øyeblikk. Duoen består av barndomskamerate
- ne Simen Trippestad (The Ape\, Despereaux) og Per Åsmund Reymert (Pushwag
- nergruppen\, the IV\, Despereaux).\n\nBandets første singler har mellom s
- eg blitt anbefalt av NRK P3\, NATT&amp\;DAG\, Universitas\, Evig Lyttar\, 
- samt det britiske musikkmagasinet Circuit Sweet. Duoens første musikkvide
- o The Wanderer ble plukket ut som en av årets beste av Ballade.\n\n\\\\\\
- \\ \\\\\\\\\n\nA N E W C U R R E N T\n\n24. april 2026 slipper Dead Movie 
- Animals sitt første album\, A New Current\, et album om endring og hvorda
- n man ikke ser den før den plutselig bare har ankommet. Albumet inneholde
- r gjesteopptredener av blant andre Magnus Nymo (FORK)\, Ingvild Nærum (th
- e IV) og David Jones (Davy Jones Locker).\n\nAlbumet er produsert av Ruben
-  Willem. Grafikk av Henrik Øiestad Myrvold.\n\n//////// ///////\n\nB I K 
- E L A N E\n\nBikelane sparer aldri på kruttet live – det blir garra tam
- burin-inferno og indie-riff herfra til helvete når de varmer opp for dyra
-  i DMA. \n\n2026 er et spennende år for Oslo-kvintetten\, med nye utgivel
- ser og ny giv. Forbered deg på et helvetes energimaskineri fra scenen. Vi
-  sees.\n\nTickets: https://revolveroslo.ticketco.events/no/nb/e/dead_movie
- _animals_albumslipp__supp_bikelane__revolver\n
-LOCATION:Revolver
-SUMMARY:DEAD MOVIE ANIMALS ALBUMSLIPP // Supp.: BIKELANE
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:7337367a-ede9-449d-9066-8f6b248dfc4b
+DTSTAMP:20260809T161523Z
+UID:255d937f-a26c-4865-b87a-eefbd9a2120b
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
@@ -1108,67 +147,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:b861b987-75b9-4a73-9f05-e62230abd9a9
-DTSTART;TZID=Europe/Oslo:20260430T200000
-DTEND;TZID=Europe/Oslo:20260430T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: rock\, jazz\, prog\n\nI LIKE TO SL
- EEP\nDen prisbelønte og kritikerroste powerjazztrioen I LIKE TO SLEEP fra
-  Trondheim\, bestående av Amund Storløkken Åse (vibrafon & mellotron)\,
-  Nicolas Leirtrø (barytongitar) og Øyvind Leite (trommer) har feid over 
- jazz- og rocke-Norge i over 10 år som et av de mest hardtslående og over
- raskende bandene!\n\nMed hundrevis av konserter på de fleste rock- og jaz
- zklubber i landet\, store internasjonale festivaler som Roadburn\, Tampere
-  Jazz Happening\, A L’ARME! FESTIVAL og Pstereo\, og 5 kritikerroste pla
- teutgivelser på Rune Grammofon og All Good Clean Records\, har trioen dre
- vet nybrottsarbeid i møtet mellom rock og jazz under mantraet “Powerjaz
- z to the people”. I 2025 kom albumet "Spectral Vibes"\, hvor trioen har 
- jobbet sammen med selveste Mats Gustafsson og ad hoc-strykekvintetten Swam
- p Strings.\n\nI 2018 vant trioen Jazzintro og mottok tittelen "Årets unge
-  jazzmusikere 2018" med et tilhørende Gramo-stipend. I 2023 mottok trioen
-  Norges største musikkstipend - Sparebank1 SMN "JazZtipendiat" - for å s
- krive bestillingsverk og dra på turné med Trondheim Jazzorkester i 2024 
- med en prosjektramme på 1 million kroner.\nI LIKE TO SLEEP\nAmund Storlø
- kken Åse - vibrafon & mellotron\nNicolas Leirtrø - barytongitar/bass-VI\
- nØyvind Leite - trommer\nTor torsken Breivik - lyddesign\n\nTickets: http
- s://tikkio.com/events/63482\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:I LIKE TO SLEEP
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:d4e2e693-689d-40e8-9ff1-46f8291104a0
-DTSTART;TZID=Europe/Oslo:20260514T200000
-DTEND;TZID=Europe/Oslo:20260514T235900
-DESCRIPTION:Venue: Vaterland\nTags: Hardcore\, punk\n\nXIAO ble dannet i St
- ockholm sommeren 2019 og reflekterer over den voldelige og desperate verde
- nen vi lever i. Kvartetten er kjent for sin raske\, intense lyd og komprom
- issløse energi. Som del av en revitalisert hardcore-scene i Sverige\, er 
- de med å sørger for at hardcore-ånden og den radikale politikken i sjan
- geren vil fortsette å resonere gjennom tidene.\n-------------------------
- --------\nInspirert av sen åttitalls NYHC og Bay Area thrash har Weight f
- ra Oslo holdt det gående siden 2018. Medlemmene har fartstid i bl.a. band
-  som Damage Control\, Common Cause\, Giant\, Insurance Risk\, Shot at Dawn
-  og Heksed og har delt scene med internasjonale navn som Agnostic Front\, 
- No Warning\, Slapshot\, Spirit Crusher og Change. Weight ga i 2019 ut sin 
- selvtitulerte EP på britiske The Essence Records og er i disse dager aktu
- elle med debut-LP’en "Violence of the divine" på The Essence/Control Re
- cords.\n---------------------------------\nBad Vibes er et lite hardcore p
- unk monster som ble født blant sinte rotter og ølbokser på Hausmania i 
- 2023. Korte brutale hits som sitter som et nakkeskudd i panna.\n\nTickets:
-  https://www.ticketmaster.no/event/538989715\n
-LOCATION:Vaterland
-SUMMARY:XIAO (SE) +  Weight + Bad Wibes
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:31614ffe-65f4-481e-accd-2d032d8bcaa4
+DTSTAMP:20260809T161523Z
+UID:afc63b37-93a9-4a7b-bdc9-fdb59184d6ef
 DTSTART;TZID=Europe/Oslo:20261017T190000
 DTEND;TZID=Europe/Oslo:20261017T230000
 DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
@@ -1205,8 +185,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:2e54db61-395c-485b-8fc9-9ed1c2c32f6c
+DTSTAMP:20260809T161523Z
+UID:f41c6133-d0d5-4108-949d-6b86ff0d8241
 DTSTART;TZID=Europe/Oslo:20260828T180000
 DTEND;TZID=Europe/Oslo:20260828T210000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dreampop\n\nEkkolodd spiller 
@@ -1232,238 +212,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:f14960ba-2662-40cf-94cd-c18d9e5c3ec0
-DTSTART;TZID=Europe/Oslo:20260522T200000
-DTEND;TZID=Europe/Oslo:20260522T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Impro\,  jazz\, krautrock\n\nDWARF
- S OF EAST AGOUZA\n\nFounded in Cairo in 2012 by Maurice Louca\, Sam Shalab
- i\, and Alan Bishop\, the Dwarfs of East Agouza create improvisational\, f
- ree-spirited music that touches upon jazz and krautrock\, combined with in
- fluences of Arabic and Egyptian Shaabi music. On stage\, the trio embraces
-  their improvisational dynamic\, resulting in exciting and spontaneous sho
- ws that allow them to venture into whatever musical direction they feel li
- ke playing. \n\nAfter performing countless live dates across Europe\, the 
- Middle East\, and North America over the past 10 years\, the group has jus
- t returned from two explosive appearances: Festival Actuel in Canada and t
- he Tomorrow Festival in Shenzen China. Their latest album\, High Tide in t
- he Lowlands\, was released in 2023 on Sub Rosa and the trio has a new albu
- m slated for a late 2024 release.\n\nJasper Willems writes about their Apr
- il\, 2023 performance at REWIRE Festival in Den Haag:\n\nOne of the festiv
- al’s definitive highlights was undoubtedly Egypt’s Dwarfs of East Agou
- za\, who rival the great Wolf Eyes as tried-and-true noise psych outlaws. 
- Their show at the always charming Koorenhuis had everything: volatile\, in
- dustrial-laced sound vortexes that rival Neubauten or Lou Reed’s Metal M
- achine Music. Halfway through they clowned around with poetic non-sequitur
- s and frolicking free-jazz tumbling-about\, reminiscent of The Ex. Where a
-  lot of Rewire performances court some form of discord or clash\, The Dwar
- fs are an impeccable exercise of chemistry between Maurice Louca\, Alan Bi
- shop and Sam Shalabi. By now\, you could call it a psychic connection even
- \; all those baffled smiles spotted within the audience say everything abo
- ut how much of a sure thing Dwarfs of East Agouza are.\nDoors: 20:00\nConc
- ertstart: 21:00\n\n\n\nTickets: https://tikkio.com/events/63484\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:DWARFS OF EAST AGOUZA
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:b0e31127-8330-4375-bf3d-0801305a9c12
-DTSTART;TZID=Europe/Oslo:20260515T200000
-DTEND;TZID=Europe/Oslo:20260515T220000
-DESCRIPTION:Venue: BLÅ\nTags: Ambient\, Experimental\, Electronic\n\nAho S
- san er artistnavnet til Paris-fødte Niamké Désiré\, én av Frankrikes 
- fremste nye eksperimentelle musikere og digitale alkymister. På kort tid 
- har Aho Ssan høstet internasjonal anerkjennelse for hans taktile og baneb
- rytende tilnærming til ambient-musikken. Debut-skiva hans «Simulacrum» 
- basert på filosofen Jean Baudrillard konsept med samme navn ble fremført
-  for første gang under Berlin Atonal\, og utgitt på Subtext Recordings. 
- I denne navigerte han gjennom samfunnets fremstilling av inkludering og li
- kestilling\, i kontrast til hans egen opplevelse med å vokse opp som en s
- vart mann i Frankrike.\n\nEtter en rekke nevneverdige samarbeid\, blant an
- net i samleutgivelsen "Weavings 2" på Nicolás Jaar sitt plateselskap\, o
- g i albumet "Limen" sammen med KMRU\, er Aho Ssan klar med sitt nyeste alb
- um som gis ut samme uken som han besøker Himmel for et helt spesielt kons
- ertformat.\n\nDenne konserten er støttet av Liveurope\, med finansiering 
- fra Kreativt Europa. Liveurope er en pan-europeisk plattform BLÅ var med 
- å etablere for å støtte musikalsk mangfold på tvers av Europa. \n\nTic
- kets: https://www.ticketmaster.no/event/1519214679\n
-LOCATION:BLÅ
-SUMMARY:Aho Ssan (FR)
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:fef234d8-d67c-4ba7-8d37-08300242b2aa
-DTSTART;TZID=Europe/Oslo:20260429T200000
-DTEND;TZID=Europe/Oslo:20260429T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Experimental\,  noise\, alternativ
- e\n\nJoy Moughanni (LB) - Eksperimentell musikk fra Libanon \n\nJoy Mougha
- nni kommer fra Beirut via Intonal i Malmö til Kafé Hærverk med sin debu
- t-soloplate "A Separation From Habit"\, listet av The Quietus som en av 20
- 25's beste plater. Plata utforsker sorg\, og temaer knyttet til personlig 
- og politisk manipulasjon. \n\nJoy Moughanni er produsent\, lydtekniker og 
- låtskriver\, og en av musikerne bak Tunefork Studios som er et samlingspu
- nkt for den alternative musikkscenen i Libanon. Han har jobbet med sjanger
- e fra punk og hip-hop til pop til støy og ambient. Hans soloprosjekt\, so
- m han skal spille i Oslo\, utforsker lyd i relasjonell kontekst og i arkiv
- er\, med kildemateriale fra hans studier i arkitektur og lydkunst-installa
- sjoner.\n\nBilletter: 200 / 150\n\nKonsertstart kl 20:30\n\nTickets: https
- ://tikkio.com/events/63781\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Joy Moughanni (LB) - Eksperimentell musikk fra Libanon 
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:f9661fd8-0d41-46c4-8dcd-65dc212fa4e0
-DTSTART;TZID=Europe/Oslo:20260524T200000
-DTEND;TZID=Europe/Oslo:20260525T000000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Dungeon\, Synth\, Ambient\n\nSiden
-  2017 har Quest Master vært en av de mest suksessfulle moderne artistene 
- innen den karakteristiske "dungeon synth" sjangeren. Musikken er ledet av 
- flytende\, distinkte synthesizere og er komponert med klassiske digitale t
- oner fra Yamaha og Casio keyboard. Med tung inspirasjon fra norsk 90-talls
-  black metal\, fantasy RPGs og middelalderestetikk fanger Quest Master ess
- ensen av en tid definert av pixelerte eventyr og chiptune melodier. For al
- le som elsker 90-tallsnostalgi og lengter til fjerne kongedømmer så er Q
- uest Master DM'en som transporterer deg inn i en mytisk verden hvor edle r
- iddere sloss mot drager og glemte\, gjengrodde ruiner blir gjenoppdaget.\n
- \nQuest Master debuterte i 2017 med "Lost Songs of Distant Realms"\, et no
- stalgisk dungeon synth-album inspirert av 90-tallets rollespill. Oppfølge
- rne "The Twelve Castles" (2020) og "The Twelve Temples" (2021) videreført
- e uttrykket med tydelig inspirasjon fra tidlige N64- og PlayStation-lydspo
- r. Med "Sword & Circuitry" (2023) tok QUEST MASTER en ny retning\, og beve
- get seg mot et mer svevende og atmosfærisk lydbilde inspirert av 80-talle
- ts synthmusikk.\nhttps://questmaster.bandcamp.com\nhttps://www.instagram.c
- om/lordgordith/?hl=en\nCC: 285\,-\n20 års leg.\n\nTickets: https://tikkio
- .com/events/63833\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Quest Master
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:2d8903cf-9562-43e6-a2ef-285609ff4766
-DTSTART;TZID=Europe/Oslo:20260515T200000
-DTEND;TZID=Europe/Oslo:20260515T220000
-DESCRIPTION:Venue: Brewgata\nTags: Brassmetal\, Doommetal\n\nAfter the incr
- edible success of Inferno Festival Mattinè in 2023\, Italian trio comes b
- ack to Brewgata for exclusive show!\n\nOttone Pesante is an instrumental\,
-  experimental trio. From their early works\, they produced an inimitable a
- nd highly original sound characterized by the extensive and increasing use
-  of electronics on the brass instruments and equally recognizable drumming
-  with strong roots in both grindcore and rhythmic/timbral exploration. \n\
- nCheck out more at:\n\nSpotify: https://open.spotify.com/artist/2Ifb4fzQbv
- zu3uGGlaAjk2?si=vwY7rMmPRUWE_0hUTrV0dA\n\nYouTube: https://youtube.com/@ot
- tonepesante?si=l70Wf_y12OfDruU0\n\nSpecial Guest: FORDERVA\n\nForderva is 
- a new blackened improvised doom band that crawled out from the moldy corne
- rs of the Oslo noise scene. Baritone guitar\, drums\, vocals\, and noise p
- edals collide in poetic chaos.\n\n250 Nok\n20 yo\n\nTickets: https://tikki
- o.com/events/63057\n
-LOCATION:Brewgata
-SUMMARY:Ottone Pesante (IT) + Forderva (NO)
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:470a9a43-462a-4418-b4a6-aa186bd193f6
-DTSTART;TZID=Europe/Oslo:20260603T200000
-DTEND;TZID=Europe/Oslo:20260603T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: experimental\, minimalist\, electr
- onic\n\nPASSEPARTOUT DUO ( IT / US )\n\nPassepartout Duo is formed by two 
- nomadic musicians\, pianist Nicoletta Favari and percussionist Christopher
-  Salvito.\n\nThey have quietly planted roots in music and art scenes in ev
- ery corner of the world through the use of musical instruments of their ow
- n design. Their work is defined by a focused exploration of sound\, rhythm
-  and melody\, exposing process-driven music that lives in between composit
- ion and improvisation\, electronics and acoustic sound. The two musicians 
- cultivate a quiet intensity that draws listeners into the inner mechanics 
- of sound\nitself.\nIn 2024 they teamed up with the Berlin-based company KO
- MA Elektronik to start producing their instrument called ‘Chromaplane’
- .\n\n------------\n\nSHEIK ANORAK ( FR / SE )\n\nSheik Anorak \n(minimal d
- rumming trance\, Göteborg SWE)\n\nSheik Anorak is Frank Garcia's solo pro
- ject. Frank is a french musician\, born in Lyon and relocated in Göteborg
- \, Sweden since 2016.\nThe music of his solo project changed a lot through
-  the years\, following Frank's mood and phases\, from free jazz to indie r
- ock\, kraut to no wave.\nThe past few years showed a new direction with Sh
- eik Anorak leaving the guitar and loops behind\, going more electronics.  
- The result today is a heavy repetitive music built on polyrhythms\, drones
-  and a personal way of playing drums. \n\nSometimes compared to Goat (JP)\
- , Nissenenmondai (JP) or even Steve Reich (US)\, Frank proceeds with his o
- wn take on repetitive electronic/acoustic music.\n\nID:20\nCC: 250 + ticke
- t fee\n\nTickets: https://tikkio.com/events/64097\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Passepartout Duo / Sheik Anorak // Kafé Hærverk
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:5f1327c5-83fa-4e6d-9fdb-c11e2bfd9775
-DTSTART;TZID=Europe/Oslo:20260516T200000
-DTEND;TZID=Europe/Oslo:20260516T230000
-DESCRIPTION:Venue: Brewgata\nTags: Heavyrock\, Rock\n\nSuncraft er et oslob
- asert rockeband med én fot godt planta i stoner-rocken mens den andre hem
- ningsløst sparker ned døra på nærliggende undersjangre\, som garasjero
- ck\, svartmetall og post-rock. Etter debutalbumet\, Flat Earth Rider (2021
- )\, er bandet endelig tilbake med oppfølgeren\, Welcome to the Coven. Den
- ne gangen serveres en sjangerfest i høyere tempo enn sist\, produsert av 
- Ruben Willem (Kvelertak\, The Good The Bad and The Zugly). Etter å ha spi
- lt på by:larm\, Desertfest Oslo\, og å ha turnert med Slomosa i Norge er
-  Suncraft klare for å markere seg som et etablert navn i norsk rock.\n\nT
- ickets: \n
-LOCATION:Brewgata
-SUMMARY:Suncraft // Free Live
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:bad3b61d-ac2c-4291-8119-3c11fbc8a3a0
-DTSTART;TZID=Europe/Oslo:20260607T190000
-DTEND;TZID=Europe/Oslo:20260607T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: jazz\, pop\, eksperimentell\n\nUSB
- L Jazztalent-prismottaker Anna Ueland har satt sammen et stjernelag av mus
- ikere til prosjektet «Populærmusikk for likesinnede»\, som hadde urfrem
- føring under Oslo Jazzfestival i 2025. Prosjektet ble mottatt med enormt 
- god respons for en stappfull sal på Nasjonal Jazzscene\, og har senere bl
- itt hentet inn til flere norske jazzfestivaler.  \n\nI prosjektet lar hun 
- magefølelse\, nostalgi og inspirasjon lede vei\, med utgangspunkt i minne
- r som har satt spor: fra populærkulturen\, film\, serier\, bøker\, Susan
- ne Sundfør\, Björk\, Beatles\, Espen Reinertsen\, Jenny Hval\, Twin Peak
- s. Spagettiwestern og J Dilla. Moby\, Todd Terje og snowboardfilmer. Resul
- tatet er en slags eksperimentell gangster-pop! \n\n«Populærmusikk for li
- kesinnede» var som å vere på besøk inn i hovudet til ei som sansar ver
- da gjennom musikk. Som tek til seg alt innan musikk\, og lét kjenslelivet
-  leve der. Då blir det musikalske resultatet nødvendigvis eklektisk og k
- reativt.» \n(Torkjell Hovland\, jazzinorge.no) \n \nAnna Ueland – synth
- \, orgel\, mellotron\, vokal \nSelma French Bolstad – fele \nSelma Edwar
- ds Granly – cello  \nHåkon Brunborg – bratsj\, steelgitar  \nPede
- r Overvik Stuberg – gitar  \nNicolas Leirtrø – bass  \nHans Hulb
- ækmo – trommer  \n\nID: 20\nCC : 250\,- + bill.avg\n\nTickets: https://
- tikkio.com/events/64129\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Anna Ueland : Populærmusikk for likesinnede // Kafé Hærverk
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:486be4c9-fd72-48c4-a8b0-977720fa54fa
+DTSTAMP:20260809T161523Z
+UID:ce291cc0-5dd4-4fa3-b05f-d47921069141
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -1476,8 +226,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:e36f7716-0117-457a-9e57-442df00a33d3
+DTSTAMP:20260809T161523Z
+UID:3052134a-e0c4-4bf2-b5c8-3742a95f0051
 DTSTART;TZID=Europe/Oslo:20260922T200000
 DTEND;TZID=Europe/Oslo:20260922T230000
 DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
@@ -1494,38 +244,14 @@ DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
   The Telescopes\, Tess Parks and The Underground Youth.\n\nTickets: https:
  //revolveroslo.ticketco.events/no/nb/e/black_market_karma_uk__revolver\n
 LOCATION:Revolver
-SUMMARY:BLACK MARKET KARMA (UK)
+SUMMARY:BLACK MARKET KARMA (UK) // Supp.: Trinny Dad
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:317d7e74-49bd-408d-8d62-fc04c76c250a
-DTSTART;TZID=Europe/Oslo:20260530T200000
-DTEND;TZID=Europe/Oslo:20260530T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Prog\, Rock\, Kraut\n\nTusmørke\n
- Hvis vi blir som CAN blei på slutten av søttitallet så kommer noen til 
- å si fra\, sant? Tusmørke er tilbake på Hærverk for femte gang og spil
- ler tre gamle travere\, tre låter fra sisteskiva i laaange versjoner OG t
- re flett flunka nye låter i en litt annen stil\, ref spørsmålet i forri
- ge setning. Hvis DU tenker "nei\, nå\, altså...detta er jo som CAN på s
- lutten av søttitallet"\, så håper jeg vi kan prate om det i merchboden.
-  Vi har mekka nye t-skjorter\, så pass på å merke deg størrelsen din f
- ør du reiser hjemmefra. Den står på lappen i nakken på plagg du allere
- de har i skapet\, på gulvet eller over stolryggen.\n\nTrommer: Brennesle\
- nKeys: Den Kambriske Eksplosjon\nFløyte/vokal/congas: Krizla\nBass/vokal:
-  Benediktator\nFoto: Nadia Shehata\n\nTickets: https://tikkio.com/events/6
- 4119\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Tusmørke
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:e4446943-97f3-457f-986b-bae75ff602f4
+DTSTAMP:20260809T161523Z
+UID:b1b7f1d0-0fab-40cd-b2a8-4ac50bedc4a4
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -1538,8 +264,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:09b44963-ae58-4a45-85d9-2cdf24ad2ab8
+DTSTAMP:20260809T161523Z
+UID:963d2859-8759-44ef-9d63-37de10ac6e93
 DTSTART;TZID=Europe/Oslo:20260815T230000
 DTEND;TZID=Europe/Oslo:20260816T000000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dream-pop\, indie\n\nIngen so
@@ -1554,8 +280,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:53e7385d-86a3-4400-9d33-296d262dd42b
+DTSTAMP:20260809T161523Z
+UID:650f4bcb-0d9c-4e57-8a9e-8876b439f37c
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -1575,8 +301,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:ef580f30-b9cd-4bda-998c-0d6306c52586
+DTSTAMP:20260809T161523Z
+UID:3003cf03-36a8-4e44-8929-39f2cd97c747
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -1633,10 +359,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:eef8e5f3-5046-41b4-9039-1b5c15215a7a
-DTSTART;TZID=Europe/Oslo:20270823T200000
-DTEND;TZID=Europe/Oslo:20270823T230000
+DTSTAMP:20260809T161523Z
+UID:3a5737f1-87ab-468b-ab04-536976c82c6a
+DTSTART;TZID=Europe/Oslo:20260823T200000
+DTEND;TZID=Europe/Oslo:20260823T230000
 DESCRIPTION:Venue: Vaterland\nTags: Metal\, Deathmetal\, Experimental\n\nOf
   Feather and Bone (US) + Civerous (US)\nVaterland\nSøndag 23. August\n20:
  00 // 300.- + avg. // 20år\n---------------------------------\n----------
@@ -1670,8 +396,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:939a3bb5-2138-4c52-bb29-3d074536e0bb
+DTSTAMP:20260809T161523Z
+UID:34d28b7b-da55-401e-9f92-8e6b038ae48e
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T230000
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -1701,8 +427,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:313ddc44-e67d-4c64-836e-11facf4faec5
+DTSTAMP:20260809T161523Z
+UID:dd2a0d0d-6f77-47df-b0b6-e0d134c1df93
 DTSTART;TZID=Europe/Oslo:20261003T200000
 DTEND;TZID=Europe/Oslo:20261003T230000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, goth\, shoegaze\n\nBoylotion
@@ -1736,27 +462,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:ec95c7b1-c05d-4b5a-882a-7e65a54a5de3
-DTSTART;TZID=Europe/Oslo:20260626T200000
-DTEND;TZID=Europe/Oslo:20260626T235500
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: noise\, drone\, experimental\n\nOB
- S! Sen konsertstart grunnet kampen mellom Norge og Frankrike.\n\n-\n\nHuma
- n Inferno spiller på kafe Hærverk fredag 26. juni for å markere at det 
- meste går seriøst til hælvete.\n\nHI har ikke spilt på KH siden 2023 o
- g settet denne gang er nøye selektert for DÅRLIGST MULIG KONSERTOPPLEVEL
- SE.\n\nDette blir vanskelig\, nedrig\, og (ikke minst) totalt USOFISTIKERT
- . Velkommen?\n\n--\n\nID: 20\nCC: 200\,-\n\n\n\nTickets: https://tikkio.co
- m/events/64477\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Human Inferno (sen konsertstart) // Kafé Hærverk
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:2297318f-529d-4ffd-b47f-613423121587
+DTSTAMP:20260809T161523Z
+UID:618e6564-39aa-4e44-8c61-85f56e848606
 DTSTART;TZID=Europe/Oslo:20260909T190000
 DTEND;TZID=Europe/Oslo:20260909T230000
 DESCRIPTION:Venue: Mir\nTags: Jazz\, Pop\, Impro\n\nSusanna Wallumrød & Ju
@@ -1796,8 +503,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:3fa296b0-1c9e-4e0f-a703-6ba9a5c0d9da
+DTSTAMP:20260809T161523Z
+UID:0357d5e2-919f-4f69-a658-d587e23e5fce
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T230000
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -1827,8 +534,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:f21add4d-05ed-4bbe-b96d-ccf2feb2a2ae
+DTSTAMP:20260809T161523Z
+UID:a59dc67f-326e-447c-9291-e2b72b08b340
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -1840,8 +547,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:613ef092-7c6d-464b-ad9c-4481cfbcb213
+DTSTAMP:20260809T161523Z
+UID:217870d5-5187-4dc7-b4ec-1970fe981066
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -1854,8 +561,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:4457e72b-201d-4d38-ac92-b0ea3494e3c0
+DTSTAMP:20260809T161523Z
+UID:17212269-fb04-469a-988f-89969ed3b315
 DTSTART;TZID=Europe/Oslo:20260827T200000
 DTEND;TZID=Europe/Oslo:20260827T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: electronic\, avant-garde\, experim
@@ -1880,8 +587,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T203838Z
-UID:846c68e5-eb28-40b6-839b-e27e41c15123
+DTSTAMP:20260809T161523Z
+UID:2b68eee1-322a-4e16-837c-02deb250563e
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -1899,6 +606,74 @@ DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
  ticketmaster.no/event/1567562727\n
 LOCATION:Vaterland
 SUMMARY:Valley Of The Sun (US)
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T161523Z
+UID:95f0a868-c403-492f-8b1a-3bbf054c6c88
+DTSTART;TZID=Europe/Oslo:20260913T190000
+DTEND;TZID=Europe/Oslo:20260913T230000
+DESCRIPTION:Venue: Brewgata\nTags: Rock\n\nLa Casa Fantom og MoE legger inn
+  en stopp på Oslo i anledning sin lille norgestur.\n\n𝗠𝗼𝗘\n«Nor
+ ges aller siste rockeband»\n\nhttps://moepages.bandcamp.com\nhttps://inst
+ agram.com/moepages\nhttps://facebook.com/moepages\n\nHva svensken som omta
+ lte MoE som en slags siste viking egentlig mente\, får man nesten finne u
+ t selv. Det er uansett hevet over enhver tvil at MoE aldri har fulgt strø
+ mmen. I snart 20 år har de reist land og strand rundt og fortalt sin helt
+  egen historie om rock.\n\nDe har blitt sammenlignet med både «kjerringa
+  mot strømmen» og «syvende far i huset». MoE utviser en nærmest urnor
+ sk stahet og yter motstand i alle ledd – mer motstandsdyktige enn «Gutt
+ a på skauen» og Anne Enger Lahnstein til sammen.\n\nMusikken er en samme
+ nsmeltning av performativ kunstrock\, blues og eksperimentelle komposisjon
+ er. Melodiske vokalelementer\, slidegitar og støy skaper et uttrykk som 
+ åpner mange dører. MoE har alltid hatt et ønske om å holde både døre
+ r og grenser åpne.\n\n𝗟𝗮 𝗖𝗮𝘀𝗮 𝗙𝗮𝗻𝘁𝗼𝗺\
+ n\nhttps://lacasafantom.bandcamp.com\nhttps://instagram.com/lacasafantom\n
+ https://facebook.com/lacasafantom\n\nLa Casa Fantom er en bass-/tromme-duo
+  fra skogen utenfor Oslo. De spiller eksperimentell støyrock med høy int
+ ensitet – i hvert fall hvis du spør dem selv.\n\nEtter 26 år\, et fire
+ sifret antall konserter\, utallige turneer og en drøss plateutgivelser ha
+ r de definitivt seilt pønkeruta.\n\nDe har til og med bygget sine egne fo
+ rsterkere og høyttalere\, og lyden er deretter: tjukk\, mørk og kompromi
+ ssløs. Her er det lite fokus på finesser og detaljrike lydlandskap – i
+  stedet får du tunge riff fra den dype skogen.\n\nSom Danilo Sousa sa:\n
+ «Riff harder\, not smarter.»\n\n--- \n\n10.09 TRONDHEIM @ UFFA\nhttps://
+ facebook.com/events/917526584724792\n\n11.09 TANGEN @ Børsen Kulturhus\nh
+ ttps://facebook.com/events/1056400296738114\n\n12.09 TØNSBERG @ Standard 
+ Kafè\nhttps://facebook.com/events/2006470350034188 \n\n13.09 OSLO @ Brewg
+ ata\nhttps://facebook.com/events/1570053047999176\n\n--- \n\nENG\n\nLa Cas
+ a Fantom and MoE are stopping in Oslo on their little tour in Norway.\n\n
+ 𝗠𝗼𝗘\n“Norway’s Very Last Rock Band”\n\nhttps://moepages.ban
+ dcamp.com\nhttps://instagram.com/moepages\nhttps://facebook.com/moepages\n
+ \nWhat the Swede meant when he described MoE as some kind of last Viking i
+ s something you’ll have to figure out for yourself. One thing is certain
+ \, though: MoE has never followed the crowd. For nearly 20 years\, they’
+ ve crisscrossed the country\, telling their own unique story of rock music
+ .\n\nThey’ve been compared to both the Norwegian expression “the old w
+ oman rowing against the current” and “the seventh father of the house
+ ”—symbols of stubbornness and endurance. MoE embodies a distinctly Nor
+ wegian brand of obstinacy\, resisting at every turn. More resilient than t
+ he Norwegian resistance fighters and Anne Enger Lahnstein combined.\n\nThe
+ ir music is a fusion of performative art rock\, blues\, and experimental c
+ omposition. Melodic vocal passages\, slide guitar\, and elements of noise 
+ create a sound that opens countless doors. MoE’s ambition has always bee
+ n to keep every door –and every boundary – wide open.\n\n𝗟𝗮 𝗖
+ 𝗮𝘀𝗮 𝗙𝗮𝗻𝘁𝗼𝗺\n\nhttps://lacasafantom.bandcamp.com
+ \nhttps://instagram.com/lacasafantom\nhttps://facebook.com/lacasafantom\n\
+ nLa Casa Fantom is a bass-and-drums duo from the forests outside Oslo. The
+ y claim to play high-intensity experimental noise rock—and they’re pro
+ bably right.\n\nAfter 26 years\, well over a thousand concerts\, countless
+  tours\, and a long list of record releases\, they’ve more than earned t
+ heir punk credentials.\n\nThey’ve even built their own amplifiers and sp
+ eaker cabinets\, and the result is a thick\, crushing sound. They’re not
+  interested in finesse or meticulously crafted sonic landscapes. Instead\,
+  it’s dark\, heavy riffing straight from the depths of the forest.\n\nAs
+  Danilo Sousa put it:\n“Riff harder\, not smarter.”\n\nTickets: https:
+ //tikkio.com/events/65202\n
+LOCATION:Brewgata
+SUMMARY:La Casa Fantom • MoE @ Oslo / Brewgata / 13.09.26 
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
