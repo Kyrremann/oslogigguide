@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'function/*'
+      - 'function/**'
       - '.github/workflows/ci.yaml'
       - '.github/workflows/deploy.yaml'
   pull_request:
