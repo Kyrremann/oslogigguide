@@ -31,7 +31,6 @@ pub fn with_permissive_cors(origin: String) -> http::HeaderMap {
     );
 
     if origin == "http://localhost:4000" || origin == "https://kyrremann.no" {
-        // return response.header("Access-Control-Allow-Origin", origin);
         headers.insert(
             "Access-Control-Allow-Origin",
             HeaderValue::from_str(&origin).unwrap(),
@@ -44,10 +43,6 @@ pub fn with_permissive_cors(origin: String) -> http::HeaderMap {
 pub async fn handle(
     request: axum::extract::Request<Body>,
 ) -> Result<impl IntoResponse, (StatusCode, String)> {
-    // ) -> Result<Json<serde_json::Value>, (StatusCode, String)> {
-    // Response<Body> {
-    // Json(payload): Json<PostRequest>) -> impl IntoResponse {
-
     if let Err(e) = env_logger::try_init() {
         error!("Failed to initialize logger: {}", e);
     }
