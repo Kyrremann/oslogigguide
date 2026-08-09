@@ -30,7 +30,10 @@ pub fn with_permissive_cors(origin: String) -> http::HeaderMap {
         HeaderValue::from_static("OPTIONS, POST"),
     );
 
-    if origin == "http://localhost:4000" || origin == "https://kyrremann.no" {
+    if origin == "http://localhost:4000"
+        || origin == "https://kyrremann.no"
+        || origin == "https://oslogigguide.kyrremann.no"
+    {
         headers.insert(
             "Access-Control-Allow-Origin",
             HeaderValue::from_str(&origin).unwrap(),
