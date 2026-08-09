@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:4c73cabe-9b3b-4108-84a8-e30181f3fd7d
+DTSTAMP:20260809T194530Z
+UID:778f3291-8862-4d38-a9fc-885da00d1d1b
 DTSTART;TZID=Europe/Oslo:20261025T190000
 DTEND;TZID=Europe/Oslo:20261025T230000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,41 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:9ddf114a-e428-4ed1-8aba-2b69fcc44254
-DTSTART;TZID=Europe/Oslo:20260827T190000
-DTEND;TZID=Europe/Oslo:20260827T230000
-DESCRIPTION:Venue: Rockefeller\nTags: blackmetal\, shoegaze\, postrock\n\nD
- eafheaven kommer tilbake til Oslo og Rockefeller 27. august! Bandet er kje
- nt for å mikse black metal\, shoegaze og post-rock\, til noe populært ka
- lt «blackgaze». De er aktuelle med sitt sjette studioalbum *Lonely Peopl
- e with Power*\, som har fått kjempekritikker.\n\nDeafheaven ble opprinnel
- ig dannet i San Francisco i 2010\, og består av vokalist George Clarke\, 
- gitaristene Kerry McCoy og Shiv Mehra\, bassist Christopher Johnson og tro
- mmeslager Daniel Tracy.\n\nDe fikk sitt store gjennombrudd med det banebry
- tende albumet *Sunbather* (2013)\, en utgivelse som sprengte rammene for h
- va tung musikk kan være. Albumet sikret dem plasseringer på Rolling Ston
- e sin liste over «100 Greatest Metal Albums of All Time» og Pitchforks 
- «200 Best Albums of the 2010s».\n\nDeafheaven leverer intense og grenseo
- verskridende konserter\, og har turnert verden rundt både som headliner o
- g med alt fra Slipknot og Knocked Loose til Chelsea Wolfe og Mono.\n\n--\n
-  \nBill. kr. 395\,- + bill.avg.\n \n18 års aldersgrense med legitimasjons
- plikt. Ingen vergeordning. Gyldig legitimasjon er fysisk nasjonalt ID-kort
- \, pass\, fysisk førerkort eller bankkort med bilde. Digital legitimasjon
-  (digitalt førerkort eller Bank-ID) eller bilde av legitimasjon er ikke g
- yldig legitimasjon.\n \nArrangementer har ståplasser.\n \nDørene åpner 
- kl. 19.00. Arrangementet starter ca. 1 time etter dørene åpner. NB! Det 
- anbefales å komme i god tid før arrangementet starter da det kan bli kø
- .\n\nTickets: https://www.ticketmaster.no/event/1032888358\n
-LOCATION:Rockefeller
-SUMMARY:Deafheaven
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:06f26228-ab48-44bd-9c6d-37cc8bcc9eaa
+DTSTAMP:20260809T194530Z
+UID:b94f28bb-6ccf-4871-91c3-e4f708bcd68b
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T230000
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -114,8 +81,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:255d937f-a26c-4865-b87a-eefbd9a2120b
+DTSTAMP:20260809T194530Z
+UID:0f0bb239-0292-4f2b-8d9d-3503049db647
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
@@ -147,8 +114,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:afc63b37-93a9-4a7b-bdc9-fdb59184d6ef
+DTSTAMP:20260809T194530Z
+UID:e485dec6-3302-4588-a50a-8873f1940040
 DTSTART;TZID=Europe/Oslo:20261017T190000
 DTEND;TZID=Europe/Oslo:20261017T230000
 DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
@@ -185,35 +152,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:f41c6133-d0d5-4108-949d-6b86ff0d8241
-DTSTART;TZID=Europe/Oslo:20260828T180000
-DTEND;TZID=Europe/Oslo:20260828T210000
-DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dreampop\n\nEkkolodd spiller 
- sensommerkonsert i bakgården på Revolver den 28. august 2026. Det blir g
- arantert hyggelig. Bandet gleder seg til å spille gamle og nye klassikere
-  + nye låter under arbeid til et fjerde album.\n\nEkkolodd spiller er eks
- perimentell/alternativ/indie rock med tekster på dialekt fra Gudbrandsdal
- en. Bandet kan blant annet tilskrives elementer fra utforskende rock\, jaz
- z\, soul og elektronisk musikk.\n\nEkkolodd ble dannet i 2010 i Bergen og 
- består av:\nAndreas Naustdal (Bass)\nDaniel Reichelt (Keys)\nJarle Hålan
- d (Trommer)\nKim Morgan Morken (Vokal og gitar)\nMats Halvorsen (Pedal ste
- el og gitar)\nØyvind Aase Fluge (Gitar og keys)\n\nI 2013 deltok bandet i
-  NRK P3 Urørtfinalen med låta “Perler”. I 2013 ga bandet ut sitt deb
- utalbum “Det bruse forbi me…”. I 2015 slapp de sitt andre album “J
- avel\, Ravel?”. Etter 8 år i dvale vendte Ekkolodd tilbake med deres tr
- edje album "Ha det hus!" som ble sluppet våren 2023 på plateselskapet Fy
- sisk Format.\n\nTickets: https://revolveroslo.ticketco.events/no/nb/e/ekko
- lodd__revolver_bakgaard2\n
-LOCATION:Revolver
-SUMMARY:Ekkolodd // Revolver Bakgård
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:ce291cc0-5dd4-4fa3-b05f-d47921069141
+DTSTAMP:20260809T194530Z
+UID:8cddb215-3023-49d6-955d-52930129f9d9
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -226,8 +166,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:3052134a-e0c4-4bf2-b5c8-3742a95f0051
+DTSTAMP:20260809T194530Z
+UID:41dda75f-43e6-47ef-b757-38e64534fd99
 DTSTART;TZID=Europe/Oslo:20260922T200000
 DTEND;TZID=Europe/Oslo:20260922T230000
 DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
@@ -250,8 +190,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:b1b7f1d0-0fab-40cd-b2a8-4ac50bedc4a4
+DTSTAMP:20260809T194530Z
+UID:e35db255-725b-4369-8c49-425ee928594d
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -264,8 +204,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:963d2859-8759-44ef-9d63-37de10ac6e93
+DTSTAMP:20260809T194530Z
+UID:1026af58-3d68-4799-83b6-4815dc2b97bb
 DTSTART;TZID=Europe/Oslo:20260815T230000
 DTEND;TZID=Europe/Oslo:20260816T000000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dream-pop\, indie\n\nIngen so
@@ -280,8 +220,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:650f4bcb-0d9c-4e57-8a9e-8876b439f37c
+DTSTAMP:20260809T194530Z
+UID:063152ad-6619-4ae5-8669-6f0f7fee2ac2
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -301,8 +241,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:3003cf03-36a8-4e44-8929-39f2cd97c747
+DTSTAMP:20260809T194530Z
+UID:9877402d-6dbb-4813-a9bf-1c78f34733f7
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -359,8 +299,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:3a5737f1-87ab-468b-ab04-536976c82c6a
+DTSTAMP:20260809T194530Z
+UID:7f90b000-fa2d-44fe-a44e-e2cd25bd829e
 DTSTART;TZID=Europe/Oslo:20260823T200000
 DTEND;TZID=Europe/Oslo:20260823T230000
 DESCRIPTION:Venue: Vaterland\nTags: Metal\, Deathmetal\, Experimental\n\nOf
@@ -396,8 +336,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:34d28b7b-da55-401e-9f92-8e6b038ae48e
+DTSTAMP:20260809T194530Z
+UID:feb26913-b686-4f9d-b40e-2046ac76fb3e
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T230000
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -427,8 +367,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:dd2a0d0d-6f77-47df-b0b6-e0d134c1df93
+DTSTAMP:20260809T194530Z
+UID:2b5782e3-f893-4a15-b395-3877f3f3b75c
 DTSTART;TZID=Europe/Oslo:20261003T200000
 DTEND;TZID=Europe/Oslo:20261003T230000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, goth\, shoegaze\n\nBoylotion
@@ -462,8 +402,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:618e6564-39aa-4e44-8c61-85f56e848606
+DTSTAMP:20260809T194530Z
+UID:fc5f767e-30ae-428d-940b-41151dbd64be
 DTSTART;TZID=Europe/Oslo:20260909T190000
 DTEND;TZID=Europe/Oslo:20260909T230000
 DESCRIPTION:Venue: Mir\nTags: Jazz\, Pop\, Impro\n\nSusanna Wallumrød & Ju
@@ -503,8 +443,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:0357d5e2-919f-4f69-a658-d587e23e5fce
+DTSTAMP:20260809T194530Z
+UID:0a65cf17-a5a5-4935-bc5a-d684ba97e55d
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T230000
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -534,8 +474,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:a59dc67f-326e-447c-9291-e2b72b08b340
+DTSTAMP:20260809T194530Z
+UID:564491f2-eed0-4e03-a513-f9e60fff2055
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -547,8 +487,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:217870d5-5187-4dc7-b4ec-1970fe981066
+DTSTAMP:20260809T194530Z
+UID:96641d31-6f5e-4ec4-9865-6a01410c26f1
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -561,34 +501,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:17212269-fb04-469a-988f-89969ed3b315
-DTSTART;TZID=Europe/Oslo:20260827T200000
-DTEND;TZID=Europe/Oslo:20260827T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: electronic\, avant-garde\, experim
- ental\n\nTrioen Maja S. K. Ratkje\, Sigurd Ytre-Arne og Torstein Slåen sl
- år til igjen med ny vinylutgivelse på det polske avantgarde-labelet Boci
- an. \nDette feires med brask og bramfri musikalsk utfoldelse på Kafé Hæ
- rverk i Oslo torsdag 27. august kl. 20 (konsertstart kl. 21). Sist de spil
- te var under All Ears i januar på Kunstnernes Hus\, en legendarisk konser
- t som nå har blitt til utgivelsen The Swamp Live. Gå ikke glipp av forts
- ettelsen!\n\n“Det er en sann kunst å lydherje og begeistre på denne sa
- mmensatte måten. Det hektiske og det hysteriske samler seg. Skingrer for 
- livet og gjør meg i godt humør”\, skrev Arild R. Andersen i Jazz i Nor
- ge etter siste konsert. \n\nMaja S.K.Ratkje -vocals\, fuzz pedal and bells
- \n\nTorstein Slåen - guitar\, synth and electronics\n\nSigurd Ytre-Arne -
-  sampling\, drums\, synth and electronics\n\n\nID:20\nInngang: 250\,- + bi
- ll.avg\n\nbilde: Julie Hrnčifová\n\n\nTickets: https://tikkio.com/events
- /65125\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:The Swamp Live // Kafé Hærverk
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:2b68eee1-322a-4e16-837c-02deb250563e
+DTSTAMP:20260809T194530Z
+UID:2bd049eb-10e9-409c-8f68-d082fdbbdeaf
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -611,8 +525,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T161523Z
-UID:95f0a868-c403-492f-8b1a-3bbf054c6c88
+DTSTAMP:20260809T194530Z
+UID:dfb3c0bb-a36b-43d1-a5fe-6d266cd7e1b0
 DTSTART;TZID=Europe/Oslo:20260913T190000
 DTEND;TZID=Europe/Oslo:20260913T230000
 DESCRIPTION:Venue: Brewgata\nTags: Rock\n\nLa Casa Fantom og MoE legger inn
