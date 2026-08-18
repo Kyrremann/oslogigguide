@@ -83,7 +83,7 @@ async function subscribe(event) {
 		name: name,
 	};
 	try {
-		const response = await fetch(ogg_url, {
+		const response = await fetch(ogg_url + "/subscribe", {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'
@@ -119,7 +119,7 @@ async function unsubscribe(event) {
 		token: token,
 	};
 	try {
-		const response = await fetch(ogg_url, {
+		const response = await fetch(ogg_url + "/unsubscribe", {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'
