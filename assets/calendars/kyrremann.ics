@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:49272963-b692-4310-ab1a-8ce342b41832
+DTSTAMP:20260818T202806Z
+UID:c12ae849-5a12-473d-9415-9fe89d811dcb
 DTSTART;TZID=Europe/Oslo:20261025T190000
 DTEND;TZID=Europe/Oslo:20261025T230000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:a0131c80-1968-4ff9-a297-e5eee972ed03
+DTSTAMP:20260818T202806Z
+UID:30fd6eaa-c2ab-4e12-b316-554615e90cee
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T230000
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -81,8 +81,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:2c6fbe99-5a72-4a42-b35c-f5c59229c515
+DTSTAMP:20260818T202806Z
+UID:e9ee332a-df1d-464c-a3d4-039870de0090
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
@@ -114,8 +114,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:25663d35-fb1a-45d8-bdee-42dac795805f
+DTSTAMP:20260818T202806Z
+UID:8d107f72-6974-476e-8c58-5ea1b1c96916
 DTSTART;TZID=Europe/Oslo:20261017T190000
 DTEND;TZID=Europe/Oslo:20261017T230000
 DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
@@ -152,8 +152,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:eeec3075-20fd-43ee-9418-5bdb22ac2fac
+DTSTAMP:20260818T202806Z
+UID:75cc335b-822b-4bd9-9dfc-7722bbc24345
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -166,8 +166,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:46212f21-d526-4282-b614-7bf801ec9fcc
+DTSTAMP:20260818T202806Z
+UID:6d55182f-e34f-46fe-a1c4-10ee6ec97be9
 DTSTART;TZID=Europe/Oslo:20260922T200000
 DTEND;TZID=Europe/Oslo:20260922T230000
 DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
@@ -190,8 +190,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:38c56b8d-9b02-408a-83ba-b50c60b7a142
+DTSTAMP:20260818T202806Z
+UID:2564be09-c5e4-4921-a7b6-0167a046c8bd
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -204,8 +204,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:61cc243a-7c51-42a8-8867-139bfbf672e4
+DTSTAMP:20260818T202806Z
+UID:4da04cc8-9f21-4de8-8a0d-100689925c3a
 DTSTART;TZID=Europe/Oslo:20260815T230000
 DTEND;TZID=Europe/Oslo:20260816T000000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dream-pop\, indie\n\nIngen so
@@ -220,8 +220,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:c53b74f1-746d-4dee-8255-db046cbb6b8b
+DTSTAMP:20260818T202806Z
+UID:cc3f9ece-2189-4f13-9a9b-64359dfb0b08
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -241,8 +241,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:cd15d3ed-8a00-42c0-9da7-ec8345188162
+DTSTAMP:20260818T202806Z
+UID:ba3b7895-7b35-4bca-b778-23538b22d614
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -299,8 +299,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:0fa73d56-ea86-4605-b15b-1915efc406d6
+DTSTAMP:20260818T202806Z
+UID:a1b3e864-690b-4b12-93dd-1788ba3c6f85
 DTSTART;TZID=Europe/Oslo:20260823T200000
 DTEND;TZID=Europe/Oslo:20260823T230000
 DESCRIPTION:Venue: Vaterland\nTags: Metal\, Deathmetal\, Experimental\n\nOf
@@ -336,8 +336,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:b9cdd104-2696-4802-a4fd-2a428ac1af93
+DTSTAMP:20260818T202806Z
+UID:8420731e-7d05-497e-be46-cd3867ddeb83
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T230000
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -367,8 +367,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:5a9d1df4-cc76-449a-b9da-63a5c532b02e
+DTSTAMP:20260818T202806Z
+UID:109ae02f-9595-4f3f-bc05-facf51a2a4a4
 DTSTART;TZID=Europe/Oslo:20261003T200000
 DTEND;TZID=Europe/Oslo:20261003T230000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, goth\, shoegaze\n\nBoylotion
@@ -402,8 +402,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:3b3f7921-7a06-4f08-8dba-fb3afde38cdb
+DTSTAMP:20260818T202806Z
+UID:e124e705-3167-4e24-b126-ba5c54f44d39
 DTSTART;TZID=Europe/Oslo:20260909T190000
 DTEND;TZID=Europe/Oslo:20260909T230000
 DESCRIPTION:Venue: Mir\nTags: Jazz\, Pop\, Impro\n\nSusanna Wallumrød & Ju
@@ -443,8 +443,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:53275ec0-99e3-4f76-965e-04bb9299b9da
+DTSTAMP:20260818T202806Z
+UID:392aadba-b288-445d-b5c5-7b18811ea0a8
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T230000
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -474,8 +474,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:60a69fc0-5b20-4fe3-98e9-a1ad8a68a81e
+DTSTAMP:20260818T202806Z
+UID:da3dc928-f717-4abe-b747-dd2c1a5a4b6c
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -487,8 +487,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:bf97a552-25e8-477e-82ff-69798515894d
+DTSTAMP:20260818T202806Z
+UID:15c6a7c8-40df-4379-8c37-e4e0d728a448
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -501,8 +501,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:46a79e2c-cd19-40cc-bffb-480b90dad7f5
+DTSTAMP:20260818T202806Z
+UID:79cecbca-2d79-4600-938e-7836ecad37d9
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -525,8 +525,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:b0c95214-8c43-42d6-ac5b-af4ac0f53c5d
+DTSTAMP:20260818T202806Z
+UID:d3bbb798-cccb-49f5-b076-c05a2ce5658f
 DTSTART;TZID=Europe/Oslo:20260913T190000
 DTEND;TZID=Europe/Oslo:20260913T230000
 DESCRIPTION:Venue: Brewgata\nTags: Rock\n\nLa Casa Fantom og MoE legger inn
@@ -593,8 +593,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260818T201655Z
-UID:7c38f8d5-7486-4029-a3f1-5077b3905c85
+DTSTAMP:20260818T202806Z
+UID:d9118e10-1fd9-4221-87cb-cff841c7d3e4
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -617,6 +617,82 @@ DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
  n
 LOCATION:Vaterland
 SUMMARY:Hubris (SUI)
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T202806Z
+UID:f7987703-18e0-4150-a83a-551fab8ee15c
+DTSTART;TZID=Europe/Oslo:20261118T190000
+DTEND;TZID=Europe/Oslo:20261118T230000
+DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
+  is dark folk written by Luke Tromiczak and performed by a rotating group 
+ of musicians from across the United States. Ritualistic\, powerful\, and p
+ rofound—Blood and Sun weaves traditional folk sorrow with North American
+  vastness\, spiritual intensity\, and a love of mytho-poetic realms. They 
+ channel a form of dark-folk that requires no façade\, only voice\, string
+ s\, the percussive heart\, and the gravity of existence. Every song is a s
+ pell carried by a deep voice and raw presence. Their performances are like
+  a bonfire: Warming\, challenging\, clarifying. \n\nFormed in 2011\, the g
+ roup has received international praise for its dark\, brooding\, gothic so
+ ngwriting. Blood and Sun thematically wrestles with personal tribulations 
+ and drive intertwined with metaphysical and pagan currents\, delivering so
+ aring and haunting melodies extolling the heroism and tragedy of life\, it
+ s joyous excess and the vertigo of fate. \n\nAlthough the music has an anc
+ ient sound\, and nostalgia for the arcane\, the band does not align itself
+  with hateful rhetoric or ideologues and is not political in nature. Blood
+  and Sun hopes for a world that is empowering to all of its listeners. We 
+ strive for a re-sacralization of the world that adds to the mystery and aw
+ e in life: A world of meaning and purpose felt and shared. \n\nThis tour w
+ elcomes “Aion’s Light”\, Blood and Sun’s third full-length album\,
+  bringing Luke’s vision of American neofolk back to its rawest foundatio
+ ns while pushing further into the borderlands between song\, spell\, and m
+ emory. \n\nThe album was recorded entirely on the same Tascam 414 four-tra
+ ck cassette portastudio used for Blood and Sun’s earliest demo. Songs we
+ re written and tracked in the order they appear\, effects were committed t
+ o tape\, and each bounced-down instrument narrowed the path ahead. Every d
+ ecision carried weight\; raw instinct became part of the final form. \n\nM
+ usically\, “Aion’s Light” stands somewhere between 70s folk songcraf
+ t\, underground black metal spirit\, and the eerie atmospheres of B-movie 
+ horror soundtracks. Echoes of Scott Walker\, Of the Wand and the Moon\, Wo
+ ven Hand\, Swans\, Dave Bixby\, Exuma\, Leonard Cohen\, and Storm can be f
+ elt throughout. Guitar chords are hammered into place as a foundation for 
+ bass\, keyboards\, percussion\, and voice\; sparse arrangements gather wei
+ ght through repetition\, atmosphere\, and the grain of the recording itsel
+ f. \n\nFor this 2026 European tour Blood and Sun is Luke Tromiczak is join
+ ed by long friends Erik Wivinus\, Liliian Liu\, and Sawyer Gebauer. \n\nTh
+ e tour also celebrates the release of Temple Hymns Volume Two\, a collabor
+ ative EP between Society of the Silver Cross and Blood and Sun. Recorded a
+ t Temple of the Trees Studio in Seattle and Dusk Century. This ep was prod
+ uced by Society of the Silver Cross.\n\n// \n\nSociety of the Silver Cross
+  are from Seattle\, Washington. Their music is dark\, slow\, and cinematic
+ \, gothic and bombastic in equal measure. Rooted equally in the traditions
+  of India and the darker edges of American folk. Their chant-like vocals m
+ ove between melody and ritual\,\n\nalongside 12-string acoustic guitar\, h
+ armonium\, B3 organ\, Shahi Baaja\, rare synthesizers\, and tom-centric dr
+ um patterns that anchor the whole thing in something primal. \n\nRolling S
+ tone\, SPIN\, UNCUT\, Metal Injection\, and Brooklyn Vegan have all writte
+ n about them. Bizarro.fm called them "one of the most exceptional bands in
+  the Gothic movement worldwide." The 405 called their debut "one of the ye
+ ar's most unique and compelling debuts." Their 2024 album Festival of Invo
+ cations explores life\, death\, and beauty. Their melodies\, as one critic
+  put it\, are an ode to hypnosis. \n\n//\n\nLinnea Hjertén is a Swedish a
+ rtist and trained music producer celebrated for her deeply evocative blend
+  of Nordic Folk and Ritual ambient music. Her unique sound\, sometimes des
+ cribed as a "psychoacoustic gateway to altered states of consciousness\," 
+ weaves together traditional Swedish folk melodies\, wordless chants\, and 
+ minimalist soundscapes to create a spiritual and haunting sonic experience
+ . Linnea records and mixes all her material\, and the music channels the e
+ thereal beauty of artists like Dead Can Dance and Forndom\, earning recogn
+ ition for a profound musical maturity and intimate approach. Her music is 
+ rooted in her own spiritual practices\, using sound as a grounding force a
+ nd a manifestation of intent\n\nTickets: https://revolveroslo.ticketco.eve
+ nts/no/nb/e/blood_and_sun__society_of_the_silver_cross__linnea_hjertn__rev
+ olver\n
+LOCATION:Revolver
+SUMMARY:Batplanet Pres.: Blood and Sun // Society of the Silver Cross // Li
+ nnea Hjertén // Revolver
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
