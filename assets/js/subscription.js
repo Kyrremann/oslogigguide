@@ -110,6 +110,7 @@ async function unsubscribe(event) {
 	const calendarId = event.target.id;
 	const user = document.getElementById("user").value;
 	const token = document.getElementById("token").value;
+	const name = event.target.getAttribute("data-name");
 	console.log(`Unsubscribing ${calendarId} from calendar owned by ${user}`);
 	startLoading(calendarId);
 
@@ -117,6 +118,7 @@ async function unsubscribe(event) {
 		id: calendarId,
 		user: user,
 		token: token,
+		name: name,
 	};
 	try {
 		const response = await fetch(ogg_url + "/unsubscribe", {
