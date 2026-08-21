@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:599da124-46a9-4dcc-948c-6ade9b0ea70c
+DTSTAMP:20260821T220527Z
+UID:8a85d998-46d1-47b3-b3b8-e156b950b1f6
 DTSTART;TZID=Europe/Oslo:20261025T190000
 DTEND;TZID=Europe/Oslo:20261025T230000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:b986bf2f-f28e-4082-9189-b6fe62c77383
+DTSTAMP:20260821T220527Z
+UID:b43ee735-a63c-4e6d-b34b-2b7edd2f448f
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T230000
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -81,8 +81,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:32dc52df-be3b-48bd-a718-b3cef55bdcb5
+DTSTAMP:20260821T220527Z
+UID:231328d3-a4b6-4c13-86e8-4974e7cdc522
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
@@ -114,8 +114,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:c0d90673-a169-492a-ac4d-738e6b2022c3
+DTSTAMP:20260821T220527Z
+UID:ca82ed86-bcce-4c42-ae74-26314748290f
 DTSTART;TZID=Europe/Oslo:20261017T190000
 DTEND;TZID=Europe/Oslo:20261017T230000
 DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
@@ -152,8 +152,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:86441135-70c6-4c32-8947-be1e34654d74
+DTSTAMP:20260821T220527Z
+UID:60c2c73a-0c8c-4658-a88e-8220371c7aef
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -166,8 +166,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:1381ad01-0cf9-41e5-ab18-05850c6dbadf
+DTSTAMP:20260821T220527Z
+UID:8860fb9d-665c-4707-95bf-3521d9360310
 DTSTART;TZID=Europe/Oslo:20260922T200000
 DTEND;TZID=Europe/Oslo:20260922T230000
 DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
@@ -190,8 +190,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:815d1a09-45ee-46d1-bb6e-1ef75f7300e7
+DTSTAMP:20260821T220527Z
+UID:833304de-be13-42b4-8b83-fd3575dbf83b
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -204,8 +204,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:69c5ac57-93d9-4c16-ab13-53967202a20d
+DTSTAMP:20260821T220527Z
+UID:995a9830-f5b3-4635-ae35-51a2bfc61bd3
 DTSTART;TZID=Europe/Oslo:20260815T230000
 DTEND;TZID=Europe/Oslo:20260816T000000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dream-pop\, indie\n\nIngen so
@@ -220,8 +220,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:4cbb3bbc-c95b-4505-8c3a-135b55c1132e
+DTSTAMP:20260821T220527Z
+UID:3633f581-6f0f-451c-abfb-8dfce2504261
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -241,8 +241,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:23a15fea-afd5-4097-baae-d4bc9b20554d
+DTSTAMP:20260821T220527Z
+UID:897c1de4-1d80-41fe-b2a2-92c9cfa92599
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -299,8 +299,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:04d43070-dd3c-48c3-8006-3f210b9b1c15
+DTSTAMP:20260821T220527Z
+UID:dd02be51-8ea4-414f-80b1-6bf6183af06d
 DTSTART;TZID=Europe/Oslo:20260823T200000
 DTEND;TZID=Europe/Oslo:20260823T230000
 DESCRIPTION:Venue: Vaterland\nTags: Metal\, Deathmetal\, Experimental\n\nOf
@@ -336,8 +336,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:615f078d-236c-4b5e-bc31-ac1777aa228a
+DTSTAMP:20260821T220527Z
+UID:1152681d-5038-41b1-b03c-456efad24c70
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T230000
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -367,8 +367,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:64c29389-9344-4fea-bb5a-7f2b1d367505
+DTSTAMP:20260821T220527Z
+UID:03166528-7bc3-4cc3-9169-9412088ff763
 DTSTART;TZID=Europe/Oslo:20261003T200000
 DTEND;TZID=Europe/Oslo:20261003T230000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, goth\, shoegaze\n\nBoylotion
@@ -402,8 +402,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:04d46bbd-94c7-44e0-9837-4562485884b2
+DTSTAMP:20260821T220527Z
+UID:a070ecda-835e-4a97-945e-bbaaadf0818c
 DTSTART;TZID=Europe/Oslo:20260909T190000
 DTEND;TZID=Europe/Oslo:20260909T230000
 DESCRIPTION:Venue: Mir\nTags: Jazz\, Pop\, Impro\n\nSusanna Wallumrød & Ju
@@ -443,8 +443,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:88b42e7b-9c2d-4fcb-9384-3c8b99bdcf0a
+DTSTAMP:20260821T220527Z
+UID:e43dca56-af5c-4023-ade3-91be5a3fe03f
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T230000
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -474,8 +474,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:1b91e964-ed60-47d9-8479-cd6937d79b86
+DTSTAMP:20260821T220527Z
+UID:1b26a7f8-3f74-4192-9d03-909da1691f8d
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -487,8 +487,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:c2008a09-f8c3-4d3b-b724-6708010e8671
+DTSTAMP:20260821T220527Z
+UID:e99a1c90-09a8-4379-bcaf-924140a8c898
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -501,8 +501,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:67493432-a4a6-47db-a620-f13109450b4e
+DTSTAMP:20260821T220527Z
+UID:0e0c53dc-bb7b-494b-8f6c-5d944e617894
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -525,8 +525,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:d4604e54-f87b-432c-ae93-4bde7277f2f4
+DTSTAMP:20260821T220527Z
+UID:814164d4-7607-4608-8549-062c83c2f6e0
 DTSTART;TZID=Europe/Oslo:20260913T190000
 DTEND;TZID=Europe/Oslo:20260913T230000
 DESCRIPTION:Venue: Brewgata\nTags: Rock\n\nLa Casa Fantom og MoE legger inn
@@ -593,8 +593,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:88bf70c3-edc6-4f83-aa17-a5df836cba0d
+DTSTAMP:20260821T220527Z
+UID:315ad7d6-9be4-4477-9d55-5d78c3fe4880
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -622,8 +622,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:c2116a21-5564-4203-876a-96b931ea1699
+DTSTAMP:20260821T220527Z
+UID:baa374fa-f6bf-4cf3-b83b-96040a09df77
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -698,8 +698,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:94881714-c24f-4985-adc2-f850c9c17204
+DTSTAMP:20260821T220527Z
+UID:3c250797-3981-41a2-a25d-6a1530a65b13
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -721,8 +721,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260819T142911Z
-UID:349c4b74-83f3-44ca-a002-c33a6ecde259
+DTSTAMP:20260821T220527Z
+UID:5e78a529-6456-4d24-a889-c7a23521fa12
 DTSTART;TZID=Europe/Oslo:20260909T190000
 DTEND;TZID=Europe/Oslo:20260909T230000
 DESCRIPTION:Venue: Brewgata\nTags: Darkwave\, Gothicrock\n\nThe Black Capes
@@ -745,6 +745,61 @@ DESCRIPTION:Venue: Brewgata\nTags: Darkwave\, Gothicrock\n\nThe Black Capes
  kets: https://tikkio.com/events/65223\n
 LOCATION:Brewgata
 SUMMARY:The Black Capes (GR) + Supp: Whirling in Rags (NO)
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T220527Z
+UID:353bcf99-75ee-4e1a-a80b-0dda76f252c2
+DTSTART;TZID=Europe/Oslo:20270115T190000
+DTEND;TZID=Europe/Oslo:20270115T230000
+DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
+ eirer Kanaan 10 år som band med sitt tiende album\, enkelt og greit kalt 
+ *Kanaan*. Det falt seg naturlig at dette albumet skulle være selvtitulert
+ \, all den tid det er fundamentert på et svært solid musikalsk grunnfjel
+ l som bandet har skapt gjennom et tiår. Og det grunnfjellet buldrer det g
+ odt i. Med *Kanaan* nærmer vi oss jordskjelv.\n\nMed sitt storslåtte og 
+ eklektiske nye album\, borer Kanaan seg enda dypere ned i de forskjellige 
+ stilartene som til sammen har utgjort musikken deres. De melodiske partien
+ e har sterke nynne-vennlige kvaliteter\, de psykedeliske partiene er mer u
+ tflippa og de retro og analoge lydene låter vintage og upolerte. Og når 
+ det kommer til riff\, har det ikke vært snakk om noe slankemedisin her\; 
+ de er tyngre enn noensinne. \n\nOg selv om bandet er i stadig utvikling\, 
+ er det etter hvert distinkte Kanaan-soundet godt ivaretatt. Selv sier band
+ et at plata er en feiring av alt de har fått til musikalsk og kunstnerisk
+  hittil – men også alt de har opplevd og fått til som nære venner som
+  spiller sammen. \n\nBandmedlemmene har rukket å bli voksne(re)\, men den
+  musikalske nysgjerrigheten\, kreativiteten og skapertrangen er like sterk
+  som den alltid har vært. Viljen til å virkelig grave seg ned i musikken
+  i studio – dag og natt\, for å spille\, jamme\, komponere\, og virkeli
+ g leve inni den – er fortsatt der\, og studiooppholdet i Haldens Athleti
+ c Sound\, omtaler de som et slags sort hull der det eneste som eksisterte 
+ var bandet\, tekniker Dag Erik Johansen\, og musikken.\n\nDet er travelt n
+ ok for medlemmene i Kanaan med hyppig turnering og årlige plateslipp. Lik
+ evel finner de tid til et utall andre prosjekter på siden. Trioen møtes 
+ også i det utvidete orkesteret Full Earth\, der de spiller musikk skrevet
+  av trommeslager og komponist Ingvald André Vassbø. Vassbø spiller ogs
+ å med det eksperimentelle psych/frijazz-prosjektet Sex Magick Wizards\, o
+ g har i senere år vikariert i Motorpsycho. Bassist Eskild Myrvoll trakter
+ er hissig bass i hardcorebandet Daufødt og frem til nylig også med ekstr
+ emmetall-bandet Blodkvalt\, mens gitarist Ask Vatn Strøm lenge spilte lys
+ tig og groovy jazz-influert indie med ¡BangBang Watergun! samt blues i So
+ ft City. I drømmepop-bandet Cloud Cuckoo er Ask fortsatt aktiv som gruppe
+ ns leadgitarist og til sammen utgjør alle disse sideprosjektene en svært
+  eklektisk miks som både viser musikernes allsidighet og som også hinter
+  til hvor Kanaan-inspirasjonen hentes fra. \n\n*Kanaan* slippes på Jansen
+  Records 16. oktober.\n\n--\n\nBill. kr. 310\,- + bill.avg.\n\n18 års ald
+ ersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig legitimasjon 
+ er fysisk nasjonalt ID-kort\, pass\, fysisk førerkort eller bankkort med 
+ bilde. Digital legitimasjon (digitalt førerkort eller Bank-ID) eller bild
+ e av legitimasjon er ikke gyldig legitimasjon.\n\nArrangementer har ståpl
+ asser.\n\nDørene åpner kl. 19.00. Arrangementet starter ca. 1 time etter
+  dørene åpner. NB! Det anbefales å komme i god tid før arrangementet s
+ tarter da det kan bli kø.\n\nTickets: https://www.ticketmaster.no/event/1
+ 415369907\n
+LOCATION:John Dee
+SUMMARY:Kanaan
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
