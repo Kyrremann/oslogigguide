@@ -13,29 +13,6 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2026-08-23T06:29:17+02:00</updated>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Parkteatret Scene&lt;br/&gt;
-Start: 2026-09-11 19:00&lt;br/&gt;
-Tags: Pop
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/nessi-william-gamborg-alessandra--taus-pres-av-brass--timeout-billetter/1656029327?utm_source=broadcast&amp;utm_medium=referral&amp;utm_campaign=broadcast_api&amp;utm_content=ticket&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>vWHrM16MSv</id>
-    <link href="https://kyrremann.no/oslogigguide/#vWHrM16MSv"/>
-    <summary>Nessi, William Gamborg, Alessandra &amp; Taus  at Parkteatret Scene on 2026-09-11 19:00</summary>
-    <title>Nessi, William Gamborg, Alessandra &amp; Taus  (2026-09-11)</title>
-    <updated>2026-08-22T09:50:52.206Z</updated>
-    <dc:date>2026-08-22T09:50:52.206Z</dc:date>
-  </entry>
-  <dc:date>2026-08-23T06:29:17+02:00</dc:date>
+  <updated>2026-08-24T06:37:33+02:00</updated>
+  <dc:date>2026-08-24T06:37:33+02:00</dc:date>
 </feed>
