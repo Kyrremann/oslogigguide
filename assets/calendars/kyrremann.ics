@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:f7abf643-5e31-4607-9bae-46c9ce49dbe6
+DTSTAMP:20260902T063005Z
+UID:e21353b5-f18a-4c88-b63c-aa96e1ed95b5
 DTSTART;TZID=Europe/Oslo:20261025T190000
 DTEND;TZID=Europe/Oslo:20261025T230000
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:4513c0b5-9abc-4848-88da-f7ec212ad62e
+DTSTAMP:20260902T063005Z
+UID:9440517d-a814-43b7-8c3c-2b262bf1e368
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T230000
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -81,8 +81,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:cbfcdad0-8ac8-4387-96a9-fe6b2490af6b
+DTSTAMP:20260902T063005Z
+UID:95b876e6-d82a-4fd5-8bef-700d7329cccc
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
@@ -114,8 +114,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:40613e76-0ebd-495a-8641-85ce0892933e
+DTSTAMP:20260902T063005Z
+UID:f5553643-e631-4d46-ac0f-72e78082d651
 DTSTART;TZID=Europe/Oslo:20261017T190000
 DTEND;TZID=Europe/Oslo:20261017T230000
 DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
@@ -152,8 +152,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:8884109b-0e97-4503-bd5a-c1531c2bc617
+DTSTAMP:20260902T063005Z
+UID:972858b0-88b0-48c6-a35b-1354525df26a
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -166,8 +166,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:10cbaede-061c-4a84-96e5-c234b792b1d4
+DTSTAMP:20260902T063005Z
+UID:9e9ac01e-dfc9-4b18-a20f-779f1198c5e8
 DTSTART;TZID=Europe/Oslo:20260922T200000
 DTEND;TZID=Europe/Oslo:20260922T230000
 DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
@@ -190,8 +190,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:fade6c87-5573-4959-b473-10eeaffad3c8
+DTSTAMP:20260902T063005Z
+UID:d344193d-d34d-4225-beb7-8d4689a99e73
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -204,8 +204,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:14e5de03-9871-41f5-a20c-1b76985e611c
+DTSTAMP:20260902T063005Z
+UID:e0a6c44b-f118-4b6a-aefa-241299e7ae0f
 DTSTART;TZID=Europe/Oslo:20260815T230000
 DTEND;TZID=Europe/Oslo:20260816T000000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dream-pop\, indie\n\nIngen so
@@ -220,8 +220,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:4ea46dcb-7828-488a-b99e-dd3587d544bf
+DTSTAMP:20260902T063005Z
+UID:34aff3c6-dd50-4e48-9d14-72f0eba8ab29
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -241,8 +241,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:33dfa9e1-dfd8-4a09-9e0e-ab321e6e8988
+DTSTAMP:20260902T063005Z
+UID:aa333562-3b8e-4e2f-bf36-58c3844a96ac
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -299,8 +299,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:bc242441-9771-4cd6-b577-dd1bc81dc578
+DTSTAMP:20260902T063005Z
+UID:ca95cc42-9a99-4bc8-9d31-a4eafa4b7b5e
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T230000
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -330,8 +330,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:b1099822-caa9-4c76-9db3-c1669325e5f0
+DTSTAMP:20260902T063005Z
+UID:bcce0947-0e8c-4320-8706-da66de7bd035
 DTSTART;TZID=Europe/Oslo:20261003T200000
 DTEND;TZID=Europe/Oslo:20261003T230000
 DESCRIPTION:Venue: Revolver\nTags: post-punk\, goth\, shoegaze\n\nBoylotion
@@ -365,8 +365,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:53edb3b9-3430-4870-889e-3d355a30bdcd
+DTSTAMP:20260902T063005Z
+UID:315c3b96-68c4-4552-b65e-0ec636b114c7
 DTSTART;TZID=Europe/Oslo:20260909T190000
 DTEND;TZID=Europe/Oslo:20260909T230000
 DESCRIPTION:Venue: Mir\nTags: Jazz\, Pop\, Impro\n\nSusanna Wallumrød & Ju
@@ -406,8 +406,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:1ad131a6-6c33-4c25-9f03-6faa9259f7ac
+DTSTAMP:20260902T063005Z
+UID:082a67b6-9b24-42a9-a3d3-c95bf75dd728
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T230000
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -437,8 +437,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:7d64f12b-b644-4859-b96e-64b92287c0ea
+DTSTAMP:20260902T063005Z
+UID:4fc5635c-071e-4f2d-8319-a29371d8bffb
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -450,8 +450,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:33f695b8-2699-4adf-bd12-84d9e40398e0
+DTSTAMP:20260902T063005Z
+UID:5c410099-213f-48d1-9fce-be9ab12f38c6
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -464,8 +464,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:0bbc203f-28b6-472a-96fc-0de359ccd761
+DTSTAMP:20260902T063005Z
+UID:3c8b68eb-b434-4272-a53d-903d4f6c94aa
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -488,8 +488,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:fa727054-0e2b-4606-9dd7-a71b7cf5efff
+DTSTAMP:20260902T063005Z
+UID:fe1132d9-3b97-4100-888c-50151b8b0692
 DTSTART;TZID=Europe/Oslo:20260913T190000
 DTEND;TZID=Europe/Oslo:20260913T230000
 DESCRIPTION:Venue: Brewgata\nTags: Rock\n\nLa Casa Fantom og MoE legger inn
@@ -556,8 +556,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:e0696ad6-8f6f-4099-b332-69df1c93e960
+DTSTAMP:20260902T063005Z
+UID:3b148a6f-3029-4c95-89dc-8775b50939e1
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -585,8 +585,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:3558e675-e3a7-49a3-9d21-ab857862d450
+DTSTAMP:20260902T063005Z
+UID:a23e569e-e193-4f89-98b0-6429b7590059
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -661,8 +661,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:c05b18e4-ac3c-4dd4-bed6-2d771fd50e85
+DTSTAMP:20260902T063005Z
+UID:0b87414f-102a-4bcb-a79f-8c2bdfc3ada3
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -684,8 +684,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:b63d225b-27c5-4cb7-b67f-da4e8cadc533
+DTSTAMP:20260902T063005Z
+UID:06eddfbd-fad0-496f-89dc-c1e796c146bb
 DTSTART;TZID=Europe/Oslo:20260909T190000
 DTEND;TZID=Europe/Oslo:20260909T230000
 DESCRIPTION:Venue: Brewgata\nTags: Darkwave\, Gothicrock\n\nThe Black Capes
@@ -713,8 +713,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T192922Z
-UID:555d49d5-27a6-450c-bcc3-7cf423e8710a
+DTSTAMP:20260902T063005Z
+UID:936b930e-1bc1-43b7-804e-b29a23bdd243
 DTSTART;TZID=Europe/Oslo:20270115T190000
 DTEND;TZID=Europe/Oslo:20270115T230000
 DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
@@ -763,6 +763,48 @@ DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
  415369907\n
 LOCATION:John Dee
 SUMMARY:Kanaan
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T063005Z
+UID:3594d61b-959c-4fa4-9231-1130782ad40c
+DTSTART;TZID=Europe/Oslo:20261029T200000
+DTEND;TZID=Europe/Oslo:20261029T230000
+DESCRIPTION:Venue: Vaterland\nTags: Punk\, alternative\, Experimental\n\nRa
+ nheim\nRanheim er endelig tilbake i Brugata. Sist gang de besøkte Bruga
+ ta var litt lenger oppi gata\, nærmere sagt 3A. Denne gangen er det lykke
+ tallet 9 og Vaterland som står for tur. \n\nSamtidig slippes NWRS\, et b
+ est of-album i begrenset opplag på vinyl. Utgitt på Fucking North Pole R
+ ecords\, i tett samarbeid med Evil Music Int. (EMI).\n\nRanheim består av
+  Admiral von Ranheim\, Don Ranheim og Kaptein Ranheim. Samtlige er født o
+ g oppvokst på Ranheim\, en bydel langt øst i Trondheim. Den lokale foran
+ kringen har alltid vært grunnleggende for bandets identitet. For å få v
+ ære med i bandet må du minst være født og oppvokst på Ranheim. Musikk
+ en er hard\, men rettferdig: presis\, egenrådig og umiskjennelig.\n\nBand
+ ets katalog rommer samarbeid med markante navn i internasjonal alternativ 
+ musikk. Første 7-tommer ble spilt inn på Ranheim med Geir Lyng bak spake
+ ne. Debutalbumet Rock and Science ble produsert av John Fryer (bl.a. Depec
+ he Mode\, Cocteau Twins og Nine Inch Nails). Oppfølgeren Norwegian Wood b
+ le produsert av Steve Albini\, kjent for samarbeid med blant andre Pixies\
+ , PJ Harvey og Nirvana.\n\nMed NWRS oppsummerer Ranheim en katalog som har
+  gitt bandet en tydelig og særegen plass i norsk alternativ rock. Ranheim
+  låter fortsatt som ingen andre.\n\nMoE\n\nMoE skaper rå\, fysiske opple
+ velser i grenselandet mellom rock og konfronterende teater – et uttrykk 
+ som kan oppleves som sjelsettende for selv dedikerte rockere. Deres unike 
+ fremføring kjennetegnes av en intensitet som grenser til det besatte. Med
+  minimalistiske\, men massive vegger av gitarer\, spoken word og avantgard
+ istisk sludge presser de både kropp og instrumenter til det absolutte ytt
+ erpunktet.\n\nMoE har forøvrig en usedvanlig merittliste med samarbeider 
+ med internasjonale og nasjonale artister\, teater\, film og mer. Her kan n
+ evnes\; Lasse Marhaug\, Pinquins\, Signe Emmeluth\, Amat Escalante\, Plexu
+ s Polaire\, Mette Rasmussen\, Painjerk\, Keiji Haino\, Ikuro Takahashi\, o
+ g Akira Sakata.\n\nVelkommen til en uforglemmelig kveld preget av total\, 
+ altomslukende tilstedeværelse!\n\nTickets: https://www.ticketmaster.no/ev
+ ent/448533754\n
+LOCATION:Vaterland
+SUMMARY:Ranheim + MoE // Vaterland
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
