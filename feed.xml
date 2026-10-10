@@ -13,291 +13,44 @@
     type="application/atom+xml"/>
   <subtitle>Latest gigs and events in Oslo, Norway</subtitle>
   <title>Oslo Gig Guide</title>
-  <updated>2026-10-09T13:03:40+02:00</updated>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Mir&lt;br/&gt;
-Start: 2026-10-12 19:00&lt;br/&gt;
-Tags: Darkvawe, Shoegazer, Syntvawe
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;DJ Tom Kalstad&lt;/p&gt;
-&lt;p&gt;Kom og ønsk deg musikk i samme sjanger. ;)&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>KvdIGOwa7H</id>
-    <link href="https://kyrremann.no/oslogigguide/#KvdIGOwa7H"/>
-    <summary>Resonant Noir (DJ) at Mir on 2026-10-12 19:00</summary>
-    <title>Resonant Noir (DJ) (2026-10-12)</title>
-    <updated>2026-10-08T18:33:53.977Z</updated>
-    <dc:date>2026-10-08T18:33:53.977Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Mir&lt;br/&gt;
-Start: 2026-10-14 19:00&lt;br/&gt;
-Tags: Elektro, Techno, House
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;Åpne decks på MIR med Ida M &amp;amp; Venner.&lt;/p&gt;
-&lt;p&gt;MIR åpner kl 19:00!&lt;/p&gt;
-&lt;p&gt;Vi starter kl 19.30 med en prat og så kan du prøve deg om du er fersk på CDjays og LP. Er du er dreven er du og hjertelig velkommen til å spille og dele tips og triks med likesinnede.&lt;/p&gt;
-&lt;p&gt;Kunster og VJ Eili Bråstad holder en åpen du -workshop samtidig, så har du lyst til å prøve å skape live visuals er dette kvelden for deg.&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>roCZ90ti13</id>
-    <link href="https://kyrremann.no/oslogigguide/#roCZ90ti13"/>
-    <summary>IdaM &amp; venner at Mir on 2026-10-14 19:00</summary>
-    <title>IdaM &amp; venner (2026-10-14)</title>
-    <updated>2026-10-08T19:10:31.562Z</updated>
-    <dc:date>2026-10-08T19:10:31.562Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: KAFÉ HÆRVERK&lt;br/&gt;
-Start: 2026-10-14 23:00&lt;br/&gt;
-Tags: House, Techno
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;Ivaylo er tilbake på Hærverk og styrer dansegulvet til de sene nattetimer :)&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>bjMgCdTOIY</id>
-    <link href="https://kyrremann.no/oslogigguide/#bjMgCdTOIY"/>
-    <summary>Ivaylo // Kafé Hærverk at KAFÉ HÆRVERK on 2026-10-14 23:00</summary>
-    <title>Ivaylo // Kafé Hærverk (2026-10-14)</title>
-    <updated>2026-10-08T16:22:56.851Z</updated>
-    <dc:date>2026-10-08T16:22:56.851Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Mir&lt;br/&gt;
-Start: 2026-10-22 19:00&lt;br/&gt;
-Tags: Elekro, Ambient, Vinyl
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;Velkommen til EZ Diner, 22.10
-Denne høstkvelden får du:
-Hammis (Live + DJ)
-Dj Hooker
-Levi står for nydelig design, men tar en fot i bakken denne torsdagen.
-Det blir riktig så hyggelig!&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>jO5RHK2l13</id>
-    <link href="https://kyrremann.no/oslogigguide/#jO5RHK2l13"/>
-    <summary>EZ Diner  at Mir on 2026-10-22 19:00</summary>
-    <title>EZ Diner  (2026-10-22)</title>
-    <updated>2026-10-08T18:55:50.333Z</updated>
-    <dc:date>2026-10-08T18:55:50.333Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: KAFÉ HÆRVERK&lt;br/&gt;
-Start: 2026-11-14 20:00&lt;br/&gt;
-Tags: jazz, elektronisk
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;Ljan Jazzorkester er synth og tromme-duoen Jørn Øien og Peter Baden som spiller seg gjennom sin egen musikalske identitet der nesten alt er lov. Jørn spiller på fete analoge synther og Peter trommer, livesampler, looper, prosesserer og lager visuals. De blander improvisasjon, tangenter, trommer og elektronikk, i en gryte av friimpro, elektro, jazz, klubb, house, funk, drum &amp;amp; bass, litt støy, og et søkende nedeparti eller to. Vanvittig gøy når det er høyt, og det blir det på Hærværk! Etter en stappfull huskonsert sist, gikk det gjetord helt inn til sentrum av byen om disse to musikerne, og det går rykter om en gjest eller to også!&lt;/p&gt;
-&lt;p&gt;Dører: 20:00 Konsertstart: 21:00 Inngang: 250.-+avgift ID: 20&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;https://tikkio.com/events/66826&quot;&gt;tikkio.com&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>Yo0fvaepoa</id>
-    <link href="https://kyrremann.no/oslogigguide/#Yo0fvaepoa"/>
-    <summary>Ljan Jazzorkester // Kafé Hærverk at KAFÉ HÆRVERK on 2026-11-14 20:00</summary>
-    <title>Ljan Jazzorkester // Kafé Hærverk (2026-11-14)</title>
-    <updated>2026-10-08T18:07:38.149Z</updated>
-    <dc:date>2026-10-08T18:07:38.149Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Sentrum Scene&lt;br/&gt;
-Start: 2026-12-04 08:00&lt;br/&gt;
-Tags: livepodcast, comedy
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;Spårtsklubben podder jula inn på Sentrum Scene! Fredag 4. desember inviterer Jon Martin Henriksen, Mads Hansen, Helene Olafsen og Erik Follestad til en dag med latter, humor og ekte Spårtsklubben-stemning.&lt;/p&gt;
-&lt;p&gt;Her får du alt du elsker fra podkasten – bare live, foran et publikum. Ingen klipp, ingen filter, bare fire venner (?), gode historier og spalter som får salen til å koke. Forvent det uventede, og bli med når Spårtsklubben møter fansen ansikt til ansikt på Sentrum Scene!&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Billetter:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;— Nummererte sitteplasser (hovedsal + galleri): kr. 550–650,- + bill.avg. fordelt på tre soner.&lt;/p&gt;
-&lt;p&gt;18 års aldersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig legitimasjon er fysisk nasjonalt ID-kort, pass, fysisk førerkort eller bankkort med bilde. Digital legitimasjon (digitalt førerkort eller Bank-ID) eller bilde av legitimasjon er ikke gyldig legitimasjon.&lt;/p&gt;
-&lt;p&gt;Dørene åpner kl. 08.00. Showstart ca kl. 09.00. NB! Det anbefales å komme i god tid før arrangementet starter da det kan bli kø.&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/1803495119&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>qEFZjMCcJq</id>
-    <link href="https://kyrremann.no/oslogigguide/#qEFZjMCcJq"/>
-    <summary>Spårtsklubben podder jula inn! at Sentrum Scene on 2026-12-04 08:00</summary>
-    <title>Spårtsklubben podder jula inn! (2026-12-04)</title>
-    <updated>2026-10-09T08:19:54.217Z</updated>
-    <dc:date>2026-10-09T08:19:54.217Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Sentrum Scene&lt;br/&gt;
-Start: 2026-12-04 11:00&lt;br/&gt;
-Tags: livepodcast, comedy
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-&lt;p&gt;Spårtsklubben podder jula inn på Sentrum Scene! Fredag 4. desember inviterer Jon Martin Henriksen, Mads Hansen, Helene Olafsen og Erik Follestad til en dag med latter, humor og ekte Spårtsklubben-stemning.&lt;/p&gt;
-&lt;p&gt;Her får du alt du elsker fra podkasten – bare live, foran et publikum. Ingen klipp, ingen filter, bare fire venner (?), gode historier og spalter som får salen til å koke. Forvent det uventede, og bli med når Spårtsklubben møter fansen ansikt til ansikt på Sentrum Scene!&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Billetter:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;— Nummererte sitteplasser (hovedsal + galleri): kr. 550–650,- + bill.avg. fordelt på tre soner.&lt;/p&gt;
-&lt;p&gt;18 års aldersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig legitimasjon er fysisk nasjonalt ID-kort, pass, fysisk førerkort eller bankkort med bilde. Digital legitimasjon (digitalt førerkort eller Bank-ID) eller bilde av legitimasjon er ikke gyldig legitimasjon.&lt;/p&gt;
-&lt;p&gt;Dørene åpner kl. 11.00. Showstart ca kl. 12.00. NB! Det anbefales å komme i god tid før arrangementet starter da det kan bli kø.&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/285613035&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>tTeyeoJWwD</id>
-    <link href="https://kyrremann.no/oslogigguide/#tTeyeoJWwD"/>
-    <summary>Spårtsklubben podder jula inn! at Sentrum Scene on 2026-12-04 11:00</summary>
-    <title>Spårtsklubben podder jula inn! (2026-12-04)</title>
-    <updated>2026-10-09T08:20:07.99Z</updated>
-    <dc:date>2026-10-09T08:20:07.99Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Parkteatret Scene&lt;br/&gt;
-Start: 2027-01-03 17:30&lt;br/&gt;
-Tags: World, Klassisk, Jazz
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/klassisk-pa-park-thorvald-steen-nils-petter-molvaer-billetter/25564372?utm_source=broadcast&amp;utm_medium=referral&amp;utm_campaign=broadcast_api&amp;utm_content=ticket&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>3PfMraS4gm</id>
-    <link href="https://kyrremann.no/oslogigguide/#3PfMraS4gm"/>
-    <summary>Klassisk på Park: Thorvald Steen / Nils Petter Molvær at Parkteatret Scene on 2027-01-03 17:30</summary>
-    <title>Klassisk på Park: Thorvald Steen / Nils Petter Molvær (2027-01-03)</title>
-    <updated>2026-10-08T13:04:03.102Z</updated>
-    <dc:date>2026-10-08T13:04:03.102Z</dc:date>
-  </entry>
-  <entry>
-    <content type="html">
-&lt;p&gt;
-Venue: Parkteatret Scene&lt;br/&gt;
-Start: 2027-02-10 19:00&lt;br/&gt;
-Tags: Pop, Slippkonsert
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/august-kann-slippkonsert-billetter/280321990?utm_source=broadcast&amp;utm_medium=referral&amp;utm_campaign=broadcast_api&amp;utm_content=ticket&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
-&lt;/p&gt;
-</content>
-    <id>ZMkXqQWZDp</id>
-    <link href="https://kyrremann.no/oslogigguide/#ZMkXqQWZDp"/>
-    <summary>August Kann  at Parkteatret Scene on 2027-02-10 19:00</summary>
-    <title>August Kann  (2027-02-10)</title>
-    <updated>2026-10-09T06:12:51.344Z</updated>
-    <dc:date>2026-10-09T06:12:51.344Z</dc:date>
-  </entry>
+  <updated>2026-10-10T12:20:22+02:00</updated>
   <entry>
     <content type="html">
 &lt;p&gt;
 Venue: Vulkan Arena&lt;br/&gt;
-Start: 2027-04-09 21:00&lt;br/&gt;
-Tags: Shrek, EDM, Techno
+Start: 2027-02-13 19:00&lt;br/&gt;
+Tags: Stand-up, Lithuanian
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;
-&lt;p&gt;Both Ticketmaster tickets and FIXR tickets are valid tickets for this event.&lt;/p&gt;
-&lt;p&gt;SHREK RAVE IS COMING BACK TO OSLO!
-Where underground rave meets live stage show, the swamp transforms into a full-scale party built around heavy dance music, huge visuals and festival-level production. DJs drive the night with Techno, House, EDM, Drum &amp;amp; Bass and Shrek remixes, while Shrek characters and live moments appear throughout the night.&lt;/p&gt;
-&lt;p&gt;Expect the unexpected as the swamp comes alive with performances, games and chaotic Shrek energy.&lt;/p&gt;
-&lt;p&gt;Expect:
-• DJs playing Techno, EDM, House, Drum &amp;amp; Bass &amp;amp; Shrek remixes
-• Shrek characters performing live on stage
-• Far Far Away Idol (Shrek karaoke competition)
-• Onion Eating Competitions &amp;amp; Dance Battles
-• Crazy Shrek visuals throughout the night
-• Festival-scale rave production
-• Swamp Juice served at the bar&lt;/p&gt;
-&lt;p&gt;Come dressed green or as your favourite Shrek character and join the swamp.&lt;/p&gt;
-&lt;p&gt;Venue: Vulkan Arena, Vulkan 26, 0178 Oslo, Norway
-Date: Saturday 9th April, 2027
-Time: 9pm-2am
-Last Entry: 10:30pm (Arrive early to catch all performances and games)
-ID: 18+&lt;/p&gt;
-&lt;p&gt;Tickets:
-This show will sell out — secure your tickets in advance.&lt;/p&gt;
-&lt;p&gt;Dress Code:
-Green or your favourite Shrek character.
-We’ll be awarding a Best Dressed prize, so come ready to impress the swamp.&lt;/p&gt;
-&lt;p&gt;Follow for updates:
-&lt;a href=&quot;https://www.instagram.com/ukshrekrave/&quot;&gt;https://www.instagram.com/ukshrekrave/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;** This is a Shrek-inspired event and is not affiliated with or endorsed by DreamWorks.**&lt;/p&gt;
+&lt;p&gt;STARKUS &amp;amp; RADZEVIČIUS – PO 20 METŲ&lt;/p&gt;
+&lt;p&gt;At the end of 2006, two friends, Martynas Starkus and Vytaras Radzevičius, got into an old Mercedes and set off on a journey to Africa. Vytaras drove, while Martynas filmed. After returning to Lithuania, their journey soon appeared on LRT as a travel series called Afrika LT.
+What seemed like it could have been just a few episodes of television unexpectedly became the beginning of something much bigger. The new travel format became a huge success and, over the past 20 years, Starkus and Radzevičius have become some of the most recognisable figures in Lithuanian travel television.&lt;/p&gt;
+&lt;p&gt;Their unique, funny and sometimes dramatic travel experiences have reached audiences not only through television, but also through books, podcasts and countless live meetings with their fans. Twenty years later, Martynas continues to travel and create the popular TV show Tai Kur Toliau?, while Vytaras, now living surrounded by the forests of Dzūkija, shares his experiences of life in nature through his popular Vytaro Ferma.&lt;/p&gt;
+&lt;p&gt;“Po 20 metų” is a special opportunity for the two friends to meet again, look back at the adventures they experienced together and share stories from their lives and travels today. Expect plenty of laughter, funny stories, unexpected situations, improvisation and the opportunity for the audience to ask questions and hear the answers directly from the duo.&lt;/p&gt;
+&lt;p&gt;A fantastic evening of good humour and great stories is guaranteed!&lt;/p&gt;
+&lt;p&gt;Please also note that the event will be photographed and filmed.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;SEATS ARE NOT NUMBERED. FIRST COME, FIRST SERVED WITHIN YOUR TICKET AREA.&lt;/p&gt;
+&lt;p&gt;Doors open: 19:00
+Show: 20:00–21:30&lt;/p&gt;
+&lt;p&gt;Early Bird: row 8–14
+Regular: row 8–14
+Premium: rows 1–7
+Balcony: balcony, with a separate bar and toilets&lt;/p&gt;
 
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;
-Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/485690345?utm_source=broadcast&amp;utm_medium=referral&amp;utm_campaign=broadcast_api&amp;utm_content=ticket&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
+Tickets: &lt;a href=&quot;https://www.ticketmaster.no/event/1056430163?utm_source=broadcast&amp;utm_medium=referral&amp;utm_campaign=broadcast_api&amp;utm_content=ticket&quot;&gt;www.ticketmaster.no&lt;/a&gt;&lt;br/&gt;
 &lt;/p&gt;
 </content>
-    <id>F6CKB2D4En</id>
-    <link href="https://kyrremann.no/oslogigguide/#F6CKB2D4En"/>
-    <summary>SHREK RAVE Is Coming To Oslo! at Vulkan Arena on 2027-04-09 21:00</summary>
-    <title>SHREK RAVE Is Coming To Oslo! (2027-04-09)</title>
-    <updated>2026-10-09T09:08:19.201Z</updated>
-    <dc:date>2026-10-09T09:08:19.201Z</dc:date>
+    <id>2eOVLZvLWS</id>
+    <link href="https://kyrremann.no/oslogigguide/#2eOVLZvLWS"/>
+    <summary>Starkus &amp; Radzevičius at Vulkan Arena on 2027-02-13 19:00</summary>
+    <title>Starkus &amp; Radzevičius (2027-02-13)</title>
+    <updated>2026-10-09T14:00:05.142Z</updated>
+    <dc:date>2026-10-09T14:00:05.142Z</dc:date>
   </entry>
-  <dc:date>2026-10-09T13:03:40+02:00</dc:date>
+  <dc:date>2026-10-10T12:20:22+02:00</dc:date>
 </feed>
