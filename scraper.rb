@@ -7,6 +7,7 @@ require 'json'
 require 'date'
 require 'github/markup'
 require 'httparty'
+require 'ostruct'
 require 'rss'
 require 'uri'
 
@@ -183,3 +184,19 @@ File.open('_data/sorted_events.json', 'w') do |file|
 end
 
 puts 'Finished saving events to files.'
+
+past_events = []
+old_events.each do |id|
+  file_path = "_data/events/#{id}.json"
+  event = JSON.parse(File.read(file_path), object_class: OpenStruct)
+  end_time = DateTime.parse(event.end_time.to_s)
+  past_events << file_path if end_time < DateTime.now
+end
+
+puts "Deleting #{past_events.size} from repo"
+
+past_events.each do |path|
+  File.delete(path)
+end
+
+puts 'Cleanup of old events finished'
