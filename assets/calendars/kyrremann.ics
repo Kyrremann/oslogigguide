@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:ef168812-8858-4ec0-ae7b-d2bab99f4b84
+DTSTAMP:20261025T082735Z
+UID:b159a63b-3a8c-4d74-8501-2998c880dab5
 DTSTART;TZID=Europe/Oslo:20261025T190000
 DTEND;TZID=Europe/Oslo:20261025T235900
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
@@ -44,8 +44,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:9b9da13f-4d4f-4375-86c2-95f93fec780e
+DTSTAMP:20261025T082735Z
+UID:7135458b-2027-4d00-a452-4846d208badf
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T235900
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -81,8 +81,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:809c1d43-01b7-4e3c-9564-71d0f3efcab0
+DTSTAMP:20261025T082735Z
+UID:34af82d1-d73c-440f-b0aa-3d453caba4cf
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nGåte er tilbake med
@@ -113,8 +113,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:baf6384f-1616-4aa5-9485-059e9b8a2e2e
+DTSTAMP:20261025T082735Z
+UID:777dc4a8-2f9e-47ae-b733-da09bc64879c
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -127,8 +127,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:9b5fe59b-7dfb-4fb7-9453-06f878c8f759
+DTSTAMP:20261025T082735Z
+UID:cc7445d0-65ae-4da5-ba6d-a79371351f19
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -141,8 +141,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:db7f76c7-493d-4de7-b2eb-daede44dd2bf
+DTSTAMP:20261025T082735Z
+UID:3847f388-e879-4cd8-9bfb-90651352046c
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -162,8 +162,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:9831cac1-9a32-4f3e-8d9a-0adbd6c65422
+DTSTAMP:20261025T082735Z
+UID:ce730a7d-9cf6-4f9a-807b-6d48fda7eff2
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -220,8 +220,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:e7730df9-e535-4fde-a696-5f6a6d6af954
+DTSTAMP:20261025T082735Z
+UID:5d1b3bc5-be84-42f8-8482-0c3eef078fd0
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T235900
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -251,8 +251,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:8cc39be2-5cf3-4a54-adf2-dcf1bac7f5a5
+DTSTAMP:20261025T082735Z
+UID:d3055e5f-981d-4b43-bc8b-6af00c6ab56c
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T235900
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -282,8 +282,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:f89ed430-d288-4d58-833e-bcfa67710845
+DTSTAMP:20261025T082735Z
+UID:d8021c24-c838-4878-a044-6651d720d91f
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -295,8 +295,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:682a07ee-4626-4113-aceb-40dca18a69ea
+DTSTAMP:20261025T082735Z
+UID:9c4642b3-7055-4203-b95f-c150c76291a4
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -309,8 +309,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:7bcd7ad3-3eb0-4637-a6fb-71c66e4ab86e
+DTSTAMP:20261025T082735Z
+UID:f0d45474-0648-4dd7-bd4a-99a4a57d7d23
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -333,8 +333,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:b7769957-05f8-4728-b689-16a1c0e4d98c
+DTSTAMP:20261025T082735Z
+UID:645a87a6-aed7-4ffb-9724-962528a330bf
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -369,8 +369,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:10b70513-a45d-46c3-89be-03db3a21f4b5
+DTSTAMP:20261025T082735Z
+UID:316bdc1f-1623-4d7e-80aa-d0cbfff938b5
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -445,8 +445,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:1b7150b8-d83d-4203-b57f-08511132eccf
+DTSTAMP:20261025T082735Z
+UID:82c4f710-c4fa-4b1d-8558-d1f29b80ea70
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -468,8 +468,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:f8b19e47-7261-45c6-87ee-d5ee06d8f3f2
+DTSTAMP:20261025T082735Z
+UID:c16982c6-952d-47d8-9154-879684bb278c
 DTSTART;TZID=Europe/Oslo:20270115T190000
 DTEND;TZID=Europe/Oslo:20270115T235900
 DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
@@ -523,8 +523,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:8e89c3a2-70d2-4f99-bd7a-49c076de916d
+DTSTAMP:20261025T082735Z
+UID:eb01b7d0-0bb6-42df-8e20-69b18a182035
 DTSTART;TZID=Europe/Oslo:20261029T200000
 DTEND;TZID=Europe/Oslo:20261029T230000
 DESCRIPTION:Venue: Vaterland\nTags: Punk\, alternative\, Experimental\n\nRa
@@ -588,8 +588,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082507Z
-UID:eebf68f1-0c3e-4df3-82b3-8500a9bf85b2
+DTSTAMP:20261025T082735Z
+UID:43d7e0a0-ca6d-423d-9903-c68fcd95ee72
 DTSTART;TZID=Europe/Oslo:20261212T200000
 DTEND;TZID=Europe/Oslo:20261212T230000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\, Club Dance\
@@ -597,6 +597,38 @@ DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\, Club Dance\
  little-drummer-boy-julekonsert-billetter/1146593878\n
 LOCATION:Parkteatret Scene
 SUMMARY:Lindstrøm: Little Drummer Boy 
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T082735Z
+UID:79314509-2967-4fe1-8173-9e1e3a0e1c69
+DTSTART;TZID=Europe/Oslo:20270324T190000
+DTEND;TZID=Europe/Oslo:20270324T235900
+DESCRIPTION:Venue: Sentrum Scene\nTags: darksynth\, synthwave\n\nCarpenter 
+ Brut blander elektronika\, metal og 80-tallets popkultur til et unikt univ
+ ers som er både mørkt og energisk. Siden 2015 har han etablert seg som e
+ n av de ledende artistene på den internasjonale synthwave-scenen\, med en
+  kraftfull og kompromissløs sound.\n\nInspirert av John Carpenter og Dari
+ o Argento så vel som Slayer og Justice\, har Carpenter Brut skapt en gjen
+ nomført\, stilisert og mørk verden i skjæringspunktet mellom retrothril
+ lere\, glam metal og futuristisk dystopi.\n\nMed *Leather Temple* avslutte
+ r han trilogien som startet med *Leather Teeth* (2018) og *Leather Terror*
+  (2022)\, og leverer et komplett verk som både er et konseptalbum\, sound
+ tracket til en imaginær film og en postapokalyptisk grafisk opplevelse.\n
+ \n--\n\nBill. kr. 495\,- + bill.avg.\n\n18 års aldersgrense med legitimas
+ jonsplikt. Ingen vergeordning. Gyldig legitimasjon er fysisk nasjonalt ID-
+ kort\, pass\, fysisk førerkort eller bankkort med bilde. Digital legitima
+ sjon (digitalt førerkort eller Bank-ID) eller bilde av legitimasjon er ik
+ ke gyldig legitimasjon.\n\nBilletter gir tilgang til både ståplasser i h
+ ovedsal samt unummererte sitteplasser på galleriet\, tilgjengelig etter f
+ ørst til mølla-prinsippet. \n\nDørene åpner kl. 19.00. Arrangementet s
+ tarter ca. 1 time etter dørene åpner. NB! Det anbefales å komme i god t
+ id før arrangementet starter da det kan bli kø.\n\nTickets: https://www.
+ ticketmaster.no/event/1612465240\n
+LOCATION:Sentrum Scene
+SUMMARY:Carpenter Brut
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
