@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:2f1fe3db-30ad-4bd0-ae76-0ae14a405b2b
+DTSTAMP:20261025T082356Z
+UID:f8f62e4e-16dc-4f1c-8074-3f287acb8c26
 DTSTART;TZID=Europe/Oslo:20261025T190000
-DTEND;TZID=Europe/Oslo:20261025T230000
+DTEND;TZID=Europe/Oslo:20261025T235900
 DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
  ke duoen She Past Away tar med seg sin mørke og hypnotiske postpunk til J
  ohn Dee i oktober 2026 – en sjelden sjanse til å oppleve bandet som har
@@ -35,8 +35,8 @@ DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
  . 350\,- + bill.avg.\n\n18 års aldersgrense med legitimasjonsplikt. Ingen
   vergeordning.\n\nArrangementet har ståplasser.\n\nDørene åpner kl. 19.
  00. Arrangementet starter ca. 1 time etter dørene åpner. NB! Det anbefal
- es å komme i god tid før arrangementet starter da det kan bli kø.\n\n\n
- Tickets: https://www.ticketmaster.no/event/1503152538\n
+ es å komme i god tid før arrangementet starter da det kan bli kø.\n\nTi
+ ckets: https://www.ticketmaster.no/event/1503152538\n
 LOCATION:John Dee
 SUMMARY:She Past Away
 X-WR-CALNAME:oslogigguide
@@ -44,10 +44,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:186346c5-b40a-46b8-ad5d-150f1f19bf99
+DTSTAMP:20261025T082356Z
+UID:f0558efa-025d-4ce8-8538-7b5d261598d6
 DTSTART;TZID=Europe/Oslo:20261125T190000
-DTEND;TZID=Europe/Oslo:20261125T230000
+DTEND;TZID=Europe/Oslo:20261125T235900
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
  STER BOOT RECORD og Fulci kommer til John Dee 25. november med arottenbit 
  som support!\n\nDet elektroniske metal-prosjektet **MASTER BOOT RECORD** l
@@ -70,7 +70,7 @@ DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
  dning. Gyldig legitimasjon er fysisk nasjonalt ID-kort\, pass\, fysisk fø
  rerkort eller bankkort med bilde. Digital legitimasjon (digitalt førerkor
  t eller Bank-ID) eller bilde av legitimasjon er ikke gyldig legitimasjon.\
- n \nArrangementer har ståplasser.\n \nDørene åpner kl. 19.00. Arrangeme
+ n \nArrangementet har ståplasser.\n \nDørene åpner kl. 19.00. Arrangeme
  ntet starter ca. 1 time etter dørene åpner. NB! Det anbefales å komme i
   god tid før arrangementet starter da det kan bli kø.\n\nTickets: https:
  //www.ticketmaster.no/event/219736006\n
@@ -81,32 +81,31 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:fa96d144-b53c-4f76-94f5-10ec6a7e6ddb
+DTSTAMP:20261025T082356Z
+UID:a47712c7-cd16-49e8-bbf1-21c39695458f
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
-DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nMed ny musikk ute og
-  album i vente til høsten\, legger Gåte ut på veien igjen. Lørdag 31. 
- oktober kommer bandet til Sentrum Scene! \n\nDe siste årene har Gåte væ
- rt på to omfattende turneer i Europa\, samtidig som ny musikk har tatt fo
- rm.\n\n*Erfaringene fra veien og arbeidet i studio har brakt oss nærmere 
- kjernen i det vi gjør. Det har aldri vært tydeligere for oss hva Gåte e
- r\, og nettopp derfor har vi kunnet åpne uttrykket og strekke oss i nye r
- etninger. Men i sentrum står fortsatt de gamle fortellingene og tonesprå
- ket\, som gjennom Gåte løftes frem og får betydning i det som skjer nå
- .*\n**– Gåte**\n\nGåtes konserter er kjent for sin intensitet og tilst
- edeværelse – der musikken bygger sitt eget univers og trekker publikum 
- inn i en felles puls av urkraft og nærvær.\n\n--\n \nBill. kr. 500\,- + 
- bill.avg.\n\n18 års aldersgrense med legitimasjonsplikt. Ingen vergeordni
- ng. Gyldig legitimasjon er fysisk nasjonalt ID-kort\, pass\, fysisk fører
- kort eller bankkort med bilde. Digital legitimasjon (digitalt førerkort e
- ller Bank-ID) eller bilde av legitimasjon er ikke gyldig legitimasjon.\n\n
- Billetter gir tilgang til både ståplasser i hovedsal samt unummererte si
- tteplasser på galleriet\, tilgjengelig etter først til mølla-prinsippet
- .\n\nDørene åpner kl. 19.00. Arrangementet starter ca. 1 time etter dør
- ene åpner. NB! Det anbefales å komme i god tid før arrangementet starte
- r da det kan bli kø.\n\nTickets: https://www.ticketmaster.no/event/144746
- 1091\n
+DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nGåte er tilbake med
+  det kritikerroste albumet *Sigil*\, og lørdag 31. oktober inntar de Sent
+ rum Scene!\n\nMed sitt særegne møte mellom nordisk folkemusikk\, tung ro
+ ck og elektroniske elementer har Gåte i over to tiår vært blant Norges 
+ mest spennende liveband. Nå er de aktuelle med *Sigil*\, som har høstet 
+ sterke anmeldelser både her hjemme og internasjonalt\, blant annet 5 av 6
+  stjerner i GAFFA.\n\nEtter omfattende turnévirksomhet i Europa er bandet
+  klare for en norsk headlinerturné\, der nye låter møter favoritter fra
+  katalogen. Publikum kan se frem til drivende rytmer\, tunge gitarer\, fol
+ keklang og Gunnhild Sundlis kraftfulle vokal.\n\nGåte er kjent for sine i
+ ntense konserter\, der det nære og fortellende møter rå energi og mekti
+ ge musikalske kontraster. Lørdag 31. oktober får Oslo oppleve hele kraft
+ en fra bandet på Sentrum Scene!\n\n--\n \nBill. kr. 500\,- + bill.avg.\n\
+ n18 års aldersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig l
+ egitimasjon er fysisk nasjonalt ID-kort\, pass\, fysisk førerkort eller b
+ ankkort med bilde. Digital legitimasjon (digitalt førerkort eller Bank-ID
+ ) eller bilde av legitimasjon er ikke gyldig legitimasjon.\n\nArrangemente
+ t har ståplasser i hovedsalen.\n\nDørene åpner kl. 19.00. Arrangementet
+  starter ca. 1 time etter dørene åpner. NB! Det anbefales å komme i god
+  tid før arrangementet starter da det kan bli kø.\n\nTickets: https://ww
+ w.ticketmaster.no/event/1447461091\n
 LOCATION:Sentrum Scene
 SUMMARY:Gåte
 X-WR-CALNAME:oslogigguide
@@ -114,46 +113,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:215e0564-a59d-4c2f-a7ca-b2fae75ae3ca
-DTSTART;TZID=Europe/Oslo:20261017T190000
-DTEND;TZID=Europe/Oslo:20261017T230000
-DESCRIPTION:Venue: Mir\nTags: Rock\, Skatepunk\, Hardcore\n\nMÖNOFÜEL :\n
- \nMönofüel leverer fengende låter i rock/punk sjanger\, og henter sin i
- nspirasjon fra 1970 – 2000 tallet. \n«Gutta» har lang fartstid fra div
- erse rock prosjekter i tigerstaden\, og har lansert to EP’er - «Naked F
- eeling» og «Blacklight»\, med gode tilbakemeldinger fra miljøet. Digge
- r du gamle travere som The Stooges\, Hüsker Dü\, Ramones\, og Bad Religi
- on så kommer du garantert «hjem» på konsert med Mönofüel.\nMönofüe
- l består av Terje Vangbo (vokal)\, Ørjan Holter (gitar)\, Richard Poots 
- (trommer)\, og Andreas Høidal (bass).\nMönofüel | Spotify\n\nLight At T
- he End :\n-gir deg food for thought Kongsvingerbandet Light At The 
- End spiller melodiøs hardcore og skatepunk som vil treffe deg like hardt 
- i hjertet som i hjernen. \n \nLight At The End består av 5 herrer i sin
-  beste alder og gir deg all mulighet til å danse og synge med i piten. M
- ed låter om alt fra antifascisme\, antikapitalisme\, fremmedgjøring og u
- tenforskap kommenterer de sin egen samtid. Temaer som dessverre tåler tid
- ens tann altfor godt.\n \nMed bred liveerfaring leverer Light At The En
- d solide sceneshow som sørger for at du kan gå hjem både svett og hes. 
- Her har du muligheten til å synge med fra første til siste strofe. Bande
- ts medlemmer har i tidligere prosjekterer stått på scener i Norge\, 
- USA\, Kina\, Tyskland\, Polen\, Tsjekkia og Nederland. Trang turnévan o
- g full punk integritet er på plass når Light At The End går på scenen.
- \n \nMedlemmer:\nGisle Bangsund: Vokal\nAnders Olsen Brøntveit: Bass\, v
- okal\nLucas Vidarsson: Gitar\, vokal\nMorten Indstø: Gitar\nRaymond Alv K
- ristiansen Egge: Trommer\n\nDiskografi:\n2022: Survive Death #2 (tribute) 
- (single)\n2023: Home (single)\n2024: Scumbag (single)\n2024: Light At The 
- End (EP)\n2025: Survive Death #2 (tribute to Ken) (single)\n\nTickets: htt
- ps://checkout.ebillett.no/368/events/331/purchase\n
-LOCATION:Mir
-SUMMARY:Mönofüel //  Light at the end
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:a7f87536-b6c6-4760-8c4e-e2962626b748
+DTSTAMP:20261025T082356Z
+UID:17131a2e-597f-4280-9db2-2cd7671d370f
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -166,32 +127,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:208b3e13-c8fc-466d-b303-7f868045d60b
-DTSTART;TZID=Europe/Oslo:20260922T200000
-DTEND;TZID=Europe/Oslo:20260922T230000
-DESCRIPTION:Venue: Revolver\nTags: neo-psych\, kraut\, shoegaze\n\nMarket K
- arma are a Neo-Psychedelic group from the UK. Their sound is thick and col
- ourful\, the core of it rooted in 60’s Guitar & Pop music\, with layers 
- of 90’s Psychedelia\, Fuzzed out tones and drunken grooves. They’ve in
- corporated touches of Folk\, Blues\, Lo-Fi Electronica\, Hip Hop influence
- d beats and traditional Indian music. Hailing from London and now residing
-  on the South Coast of England\, the band have 11 albums in their catalogu
- e\, all written and self produced in their entireity by band leader and mu
- lti-instrumentalist Stan Belton. They are recognised and respected by thei
- r peers within contemporary Psych Rock\, having toured with The Black Ange
- ls and The Warlocks\, and collaborated with Sonic boom (Ex Spacemen 3) and
-  The Telescopes\, Tess Parks and The Underground Youth.\n\nTickets: https:
- //revolveroslo.ticketco.events/no/nb/e/black_market_karma_uk__revolver\n
-LOCATION:Revolver
-SUMMARY:BLACK MARKET KARMA (UK) // Supp.: Trinny Dad
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:f27ecadd-9d25-4c5b-990c-43f910fe4777
+DTSTAMP:20261025T082356Z
+UID:5dc7b1b4-c391-4942-930b-75a6f1e0df2e
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -204,24 +141,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:6b833eb4-d250-451c-895b-fd15ecc2a8d0
-DTSTART;TZID=Europe/Oslo:20260815T230000
-DTEND;TZID=Europe/Oslo:20260816T000000
-DESCRIPTION:Venue: Revolver\nTags: shoegaze\, dream-pop\, indie\n\nIngen so
- m har fulgt den siste tidens nye unge band fra Gøteborg i Sverige\, kunne
-  ha gått glipp av shoegaze-stormen Boy With Apple.\n\n\n\nTickets: https:
- //revolveroslo.ticketco.events/no/nb/e/boy_with_apple_se__revolver_x_oeyan
- att\n
-LOCATION:Revolver
-SUMMARY:Boy With Apple (se) 
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:f8e09e40-5726-40dd-a0cc-fce8115d3de1
+DTSTAMP:20261025T082356Z
+UID:5a429d7b-de8d-4124-bfee-537ed369e302
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -241,8 +162,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:e88d142b-c614-45e9-93b4-234dda747930
+DTSTAMP:20261025T082356Z
+UID:8f8e893f-ca41-44a4-ba69-a8df683a9f0d
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -299,10 +220,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:8a370fcc-7447-4d13-85e1-8c09669c903c
+DTSTAMP:20261025T082356Z
+UID:724927de-5b0f-437f-af41-c27e6f751a32
 DTSTART;TZID=Europe/Oslo:20261121T190000
-DTEND;TZID=Europe/Oslo:20261121T230000
+DTEND;TZID=Europe/Oslo:20261121T235900
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
  ent for sine eksplosive liveshow\, humoristiske tekster og umiddelbare lå
  ter. Lørdag 21. november inntar de Rockefeller!\n\nEtter å ha sluppet de
@@ -319,7 +240,7 @@ DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
  jonsplikt. Ingen vergeordning. Gyldig legitimasjon er fysisk nasjonalt ID-
  kort\, pass\, fysisk førerkort eller bankkort med bilde. Digital legitima
  sjon (digitalt førerkort eller Bank-ID) eller bilde av legitimasjon er ik
- ke gyldig legitimasjon.\n \nArrangementer har ståplasser.\n \nDørene åp
+ ke gyldig legitimasjon.\n \nArrangementet har ståplasser.\n \nDørene åp
  ner kl. 19.00. Arrangementet starter ca. 1 time etter dørene åpner. NB! 
  Det anbefales å komme i god tid før arrangementet starter da det kan bli
   kø.\n\nTickets: https://www.ticketmaster.no/event/2017832082\n
@@ -330,86 +251,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:20f209c9-7db7-4195-ae1c-ad9323e58e8c
-DTSTART;TZID=Europe/Oslo:20261003T200000
-DTEND;TZID=Europe/Oslo:20261003T230000
-DESCRIPTION:Venue: Revolver\nTags: post-punk\, goth\, shoegaze\n\nBoylotion
- : \n\nBoylotion krabber frem fra Bergens regntunge smug og allmenninger fo
- r å servere en kald cocktail av post punk\, goth og shoegaze. Med glitren
- de gitarer\, melodisk bass og drivende trommemaskin står bandet med en fo
- t plantet tidlig på 80-tallet\, mens den andre strekker seg mot fremtiden
- . Vokalist Isak Meland topper lydbildet med mørk og lengtende jamring om 
- kjærlighet\, frykt og underkastelse. Etter konsert på VillVillVest\, opp
- varming for Kristi Brud og gode anmeldelser på debuttsingelen “End Thin
- gs” gleder Boylotion seg til å ta fatt på Oslo! “Få det på krukke\
- , tube\, EP eller album ASAP” - BT\, 7.9.24\n\nPlastik Noir: \n\nEmergin
- g from the mist-laden city of Bergen\, Norway\, Plastik Noir is a Dark Wav
- e duo born in October 2024. Enshrouded in shadow and bound by a deep\, per
- sonal connection\, the pair found solace and inspiration in the melancholi
- c beauty of dark music. Their shared love both for each other and for the 
- haunting soundscapes that define their genre\, ignited a creative flame th
- at could not be ignored. Plastik Noir crafts music that evokes the twiligh
- t between dream and nightmare. Their sound is a spectral fusion of etherea
- l synths\, bone-dry basslines\, and pulsating\, danceable beats\, all crow
- ned by vocals that echo with longing and spectral melancholy. Each track i
- s a descent into emotional depths\, a dance with darkness\, and an ode to 
- the beauty found in sorrow. Their music is not merely heard\, it is felt\,
-  like a whispered secret in the dead of night.\n\nTickets: https://revolve
- roslo.ticketco.events/no/nb/e/boylotion__plastik_noir__dj_batplanet__revol
- ver\n
-LOCATION:Revolver
-SUMMARY:Boylotion // Plastik Noir // DJ: BatPlanet // Revolver
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:69facc99-c5e5-4eec-bfea-3670f999ea03
-DTSTART;TZID=Europe/Oslo:20260909T190000
-DTEND;TZID=Europe/Oslo:20260909T230000
-DESCRIPTION:Venue: Mir\nTags: Jazz\, Pop\, Impro\n\nSusanna Wallumrød & Ju
- hani Silvola\nMIR 9.september 2026\n\nI 2024 feiret Susanna Wallumrød 20 
- års jubileum som plateartist\, og i 2025 turnérte hun med nytt band i an
- ledning albumet “Meditations on Love”\, laget musikkteater av Gunvor H
- ofmo-tolkningene sine og komponert ny musikk inspirert av Hildegard von Bi
- ngen. \nHun vant sin fjerde Spellemannpris i Åpen Klasse\, og forestillin
- gen “Jeg vil hjem til menneskene” ble nominert til Heddaprisen. \nI 20
- 26 spiller hun live med ulike kritikerroste prosjekter. \n\nSusanna er kje
- nt for sine personlige tolkninger av sanger av blant annet Joy Division\, 
- AC/DC\, Dolly Parton og Henry Purcell\, men også for sine sterke original
- er\, tonesetting av Gunvor Hofmos dikt og samarbeid med blant annet Oslo\n
- \nSinfonietta\, Jenny Hval\, amerikanske Bonnie ‘Prince’ Billy\, og sa
- mtidsdans-kompaniet Carte Blanche. \nI mange av hennes prosjekter finner v
- i henne bak pianoet\, men nå har hun gått sammen med gitarist Juhani Sil
- vola for å gjøre et utvalg av tolkninger og originaler fra egen katalog.
-  \n\nJuhani Silvola er en finsk/norsk komponist og musiker\; blant annet e
- n glimrende gitarist innenfor både folkmusikk\, jazz og impro-musikk. \nH
- an har spilt i bandet til Nils Petter Molvær\, og spiller for tiden i Fro
- de Haltlis Avant Folk og med Sarah-Jane Summers\, i tillegg til sine egne 
- prosjekter.\n\nSusanna Wallumrød har så langt utgitt 19 album med sine u
- like prosjekter\, vunnet Spellemannprisen fire ganger i Åpen Klasse\, og 
- blitt tildelt Radka Toneff\nMinnepris\, Rolf Gammleng-prisen\, EDVARD-pris
- en og den store musikerprisen på Kongsberg Jazzfestival utdelt av DNB.\n\
- n"Susanna Wallumrød befester med «Baudelaire & Orchestra» posisjonen so
- m en av våre fremste komponister\, vokalister og lydmalende poeter i spen
- net\nmellom populærmusikken\, rocken\, popen og samtidsmusikken.” 6/6 D
- agsavisen «Med "Meditations on Love" forteller hun oss at hun er en artis
- t i verdensklasse.» 6/6 Nettavisen «En strålende plate» 5.5/6 Klasseka
- mpen Musikkmagasinet «Mesterverk om kjærligheten» Musikkavisen Puls\n\n
- www.susannamagical.com \n\nTickets: https://bit.ly/SusannaJuhaniMIR\n
-LOCATION:Mir
-SUMMARY:Susanna Wallumrød & Juhani Silvola
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:9df55d9c-ca22-49c4-a16f-8af460a81e10
+DTSTAMP:20261025T082356Z
+UID:f89bb625-3c7c-4570-981e-2b9fb8d574c6
 DTSTART;TZID=Europe/Oslo:20270209T190000
-DTEND;TZID=Europe/Oslo:20270209T230000
+DTEND;TZID=Europe/Oslo:20270209T235900
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
  n\nElder kommer til Rockefeller tirsdag 9. februar! Det amerikanske bandet
  \, som nå har base i Berlin\, er aktuelle med det nye albumet *Through Ze
@@ -437,8 +282,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:dd007dfe-c44d-461e-9ce5-45fd3de5a0b3
+DTSTAMP:20261025T082356Z
+UID:bfc95bca-a75c-4aca-95ea-360b6c4d3c15
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -450,8 +295,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:436137d1-ce59-4fcc-9bde-84b26d510250
+DTSTAMP:20261025T082356Z
+UID:b58990f7-cec8-4585-ba02-68abd8449985
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -464,8 +309,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:41c4ac3f-153f-4e40-bd15-a2b0dfba5c6f
+DTSTAMP:20261025T082356Z
+UID:6818290d-cb31-4095-9101-f7b52c664eea
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -488,76 +333,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:831463b1-f7b8-4ff9-8303-038995053fb0
-DTSTART;TZID=Europe/Oslo:20260913T190000
-DTEND;TZID=Europe/Oslo:20260913T230000
-DESCRIPTION:Venue: Brewgata\nTags: Rock\n\nLa Casa Fantom og MoE legger inn
-  en stopp på Oslo i anledning sin lille norgestur.\n\n𝗠𝗼𝗘\n«Nor
- ges aller siste rockeband»\n\nhttps://moepages.bandcamp.com\nhttps://inst
- agram.com/moepages\nhttps://facebook.com/moepages\n\nHva svensken som omta
- lte MoE som en slags siste viking egentlig mente\, får man nesten finne u
- t selv. Det er uansett hevet over enhver tvil at MoE aldri har fulgt strø
- mmen. I snart 20 år har de reist land og strand rundt og fortalt sin helt
-  egen historie om rock.\n\nDe har blitt sammenlignet med både «kjerringa
-  mot strømmen» og «syvende far i huset». MoE utviser en nærmest urnor
- sk stahet og yter motstand i alle ledd – mer motstandsdyktige enn «Gutt
- a på skauen» og Anne Enger Lahnstein til sammen.\n\nMusikken er en samme
- nsmeltning av performativ kunstrock\, blues og eksperimentelle komposisjon
- er. Melodiske vokalelementer\, slidegitar og støy skaper et uttrykk som 
- åpner mange dører. MoE har alltid hatt et ønske om å holde både døre
- r og grenser åpne.\n\n𝗟𝗮 𝗖𝗮𝘀𝗮 𝗙𝗮𝗻𝘁𝗼𝗺\
- n\nhttps://lacasafantom.bandcamp.com\nhttps://instagram.com/lacasafantom\n
- https://facebook.com/lacasafantom\n\nLa Casa Fantom er en bass-/tromme-duo
-  fra skogen utenfor Oslo. De spiller eksperimentell støyrock med høy int
- ensitet – i hvert fall hvis du spør dem selv.\n\nEtter 26 år\, et fire
- sifret antall konserter\, utallige turneer og en drøss plateutgivelser ha
- r de definitivt seilt pønkeruta.\n\nDe har til og med bygget sine egne fo
- rsterkere og høyttalere\, og lyden er deretter: tjukk\, mørk og kompromi
- ssløs. Her er det lite fokus på finesser og detaljrike lydlandskap – i
-  stedet får du tunge riff fra den dype skogen.\n\nSom Danilo Sousa sa:\n
- «Riff harder\, not smarter.»\n\n--- \n\n10.09 TRONDHEIM @ UFFA\nhttps://
- facebook.com/events/917526584724792\n\n11.09 TANGEN @ Børsen Kulturhus\nh
- ttps://facebook.com/events/1056400296738114\n\n12.09 TØNSBERG @ Standard 
- Kafè\nhttps://facebook.com/events/2006470350034188 \n\n13.09 OSLO @ Brewg
- ata\nhttps://facebook.com/events/1570053047999176\n\n--- \n\nENG\n\nLa Cas
- a Fantom and MoE are stopping in Oslo on their little tour in Norway.\n\n
- 𝗠𝗼𝗘\n“Norway’s Very Last Rock Band”\n\nhttps://moepages.ban
- dcamp.com\nhttps://instagram.com/moepages\nhttps://facebook.com/moepages\n
- \nWhat the Swede meant when he described MoE as some kind of last Viking i
- s something you’ll have to figure out for yourself. One thing is certain
- \, though: MoE has never followed the crowd. For nearly 20 years\, they’
- ve crisscrossed the country\, telling their own unique story of rock music
- .\n\nThey’ve been compared to both the Norwegian expression “the old w
- oman rowing against the current” and “the seventh father of the house
- ”—symbols of stubbornness and endurance. MoE embodies a distinctly Nor
- wegian brand of obstinacy\, resisting at every turn. More resilient than t
- he Norwegian resistance fighters and Anne Enger Lahnstein combined.\n\nThe
- ir music is a fusion of performative art rock\, blues\, and experimental c
- omposition. Melodic vocal passages\, slide guitar\, and elements of noise 
- create a sound that opens countless doors. MoE’s ambition has always bee
- n to keep every door –and every boundary – wide open.\n\n𝗟𝗮 𝗖
- 𝗮𝘀𝗮 𝗙𝗮𝗻𝘁𝗼𝗺\n\nhttps://lacasafantom.bandcamp.com
- \nhttps://instagram.com/lacasafantom\nhttps://facebook.com/lacasafantom\n\
- nLa Casa Fantom is a bass-and-drums duo from the forests outside Oslo. The
- y claim to play high-intensity experimental noise rock—and they’re pro
- bably right.\n\nAfter 26 years\, well over a thousand concerts\, countless
-  tours\, and a long list of record releases\, they’ve more than earned t
- heir punk credentials.\n\nThey’ve even built their own amplifiers and sp
- eaker cabinets\, and the result is a thick\, crushing sound. They’re not
-  interested in finesse or meticulously crafted sonic landscapes. Instead\,
-  it’s dark\, heavy riffing straight from the depths of the forest.\n\nAs
-  Danilo Sousa put it:\n“Riff harder\, not smarter.”\n\nTickets: https:
- //tikkio.com/events/65202\n
-LOCATION:Brewgata
-SUMMARY:La Casa Fantom • MoE @ Oslo / Brewgata / 13.09.26 
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:8ee03689-1eae-4f8c-894a-51326ae6cb6e
+DTSTAMP:20261025T082356Z
+UID:27c4a8ea-485d-4c14-97cc-af427e9d2e3a
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -576,17 +353,24 @@ DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
  ck og metal-skogen\, som i kombinasjon med en god dose elektronika har sat
  t Hubris av gårde på sin helt egne sti. En sti som leder til gåsehud\, 
  indre reise og pur eufori for den som kommer i kontakt med bandets fortryl
- lende energier. \n\nTickets: https://www.ticketmaster.no/event/1222047956\
- n
+ lende energier. \n\n--------------\n\nSimple Suns er et instrumentalt band
+  fra Oslo som skaper intense og atmosfæriske lydlandskap i skjæringspunk
+ tet mellom post-rock og eksperimentell alternativ rock. Inspirert av band 
+ som Godspeed You! Black Emperor\, Mogwai og Russian Circles bygger musikke
+ n seg opp gjennom drivende rytmer\, massive lydvegger og langsomt eskalere
+ nde klimaks. Resultatet er et uttrykk som beveger seg fra det stillferdige
+  og hypnotiske til det eksplosive og kraftfulle – musikk som oppleves be
+ st i rommet\, der dynamikken og energien virkelig får utfolde seg.\n\nTic
+ kets: https://www.ticketmaster.no/event/1222047956\n
 LOCATION:Vaterland
-SUMMARY:Hubris (SUI)
+SUMMARY:Hubris (SUI) + Simple Suns (NO)
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:a6ea4f9c-9395-446e-807b-72ad8c8608b4
+DTSTAMP:20261025T082356Z
+UID:d03a6244-a94d-46ac-955a-6b74509463d1
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -661,8 +445,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:da24a4d6-aaff-4abc-8d8c-2b9b27261d86
+DTSTAMP:20261025T082356Z
+UID:52fcc251-99a1-426a-99ae-36c632dfa5e8
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -684,39 +468,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:5addab76-655a-4480-ab37-a5216a826fe8
-DTSTART;TZID=Europe/Oslo:20260909T190000
-DTEND;TZID=Europe/Oslo:20260909T230000
-DESCRIPTION:Venue: Brewgata\nTags: Darkwave\, Gothicrock\n\nThe Black Capes
- :\n\nThe Black Capes are a prominent gothic rock band from Athens\, Greece
- .\n\nThroughout their career they have carved a distinct niche in the glob
- al underground\, blending old-school gothic rock with modern elements. The
- ir three albums (All these monsters\, Lullabies for the dead\, Looks like 
- death) are filled with haunting melodies\, crushing riffs and deep vocals.
- \n\nTheir evocative soundscapes and post punk anthems have landed them on 
- the German alternative charts and secured them features in major print pub
- lications like Metal Hammer\, Rock Hard\, Legacy\, Orkus\, Sonic Seducer e
- tc.\n\n﻿A captivating live act\, The Black Capes have toured continental
-  Europe and the UK sharing prominent festival and club stages with darkwav
- e and goth heavyweights such as Perturbator\, Tribulation\, Theatre of Hat
- e\, Soror Dolorosa\, Then Comes Silence and many more.\n\n\nWhirling In Ra
- gs:\n\nWhat happens if you take the coldwave out of the club and into the 
- woods? Dancing around the campfire to melodic stories\, cold\, yet intimat
- e\, told by vocalist Darija Dììs. We invite you to a world of twangy gui
- tar\, steady postpunk-bass and haunting synthscapes and melodies.\n\n\nTic
- kets: https://tikkio.com/events/65223\n
-LOCATION:Brewgata
-SUMMARY:The Black Capes (GR) + Supp: Whirling in Rags (NO)
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:b3280504-4444-45c1-b694-5a37ab942577
+DTSTAMP:20261025T082356Z
+UID:8f07aa93-6035-4087-b1e6-4e6de0900bdd
 DTSTART;TZID=Europe/Oslo:20270115T190000
-DTEND;TZID=Europe/Oslo:20270115T230000
+DTEND;TZID=Europe/Oslo:20270115T235900
 DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
  eirer Kanaan 10 år som band med sitt tiende album\, enkelt og greit kalt 
  *Kanaan*. Det falt seg naturlig at dette albumet skulle være selvtitulert
@@ -756,7 +511,7 @@ DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
  ersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig legitimasjon 
  er fysisk nasjonalt ID-kort\, pass\, fysisk førerkort eller bankkort med 
  bilde. Digital legitimasjon (digitalt førerkort eller Bank-ID) eller bild
- e av legitimasjon er ikke gyldig legitimasjon.\n\nArrangementer har ståpl
+ e av legitimasjon er ikke gyldig legitimasjon.\n\nArrangementet har ståpl
  asser.\n\nDørene åpner kl. 19.00. Arrangementet starter ca. 1 time etter
   dørene åpner. NB! Det anbefales å komme i god tid før arrangementet s
  tarter da det kan bli kø.\n\nTickets: https://www.ticketmaster.no/event/1
@@ -768,8 +523,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:efe001ee-3b5e-46a8-a0ae-9249c17c03eb
+DTSTAMP:20261025T082356Z
+UID:26714e6b-d845-4ae7-b0dc-3ed86f0ebc27
 DTSTART;TZID=Europe/Oslo:20261029T200000
 DTEND;TZID=Europe/Oslo:20261029T230000
 DESCRIPTION:Venue: Vaterland\nTags: Punk\, alternative\, Experimental\n\nRa
@@ -800,18 +555,41 @@ DESCRIPTION:Venue: Vaterland\nTags: Punk\, alternative\, Experimental\n\nRa
  med internasjonale og nasjonale artister\, teater\, film og mer. Her kan n
  evnes\; Lasse Marhaug\, Pinquins\, Signe Emmeluth\, Amat Escalante\, Plexu
  s Polaire\, Mette Rasmussen\, Painjerk\, Keiji Haino\, Ikuro Takahashi\, o
- g Akira Sakata.\n\nVelkommen til en uforglemmelig kveld preget av total\, 
- altomslukende tilstedeværelse!\n\nTickets: https://www.ticketmaster.no/ev
- ent/448533754\n
+ g Akira Sakata.\n\nFallgruber \n\nOve Hjelvik og Mats Ivar Takle spilte sa
+ mmen i trondheimsbandet Albino Slug fra 1992 til bandet ble oppløst i 199
+ 6\, og holdt seg samtidig med et lite sideprosjekt de kalte Ang. På den f
+ ørste «øvingen» til Ang spilte Ove gitar\, men etter forholdsvis kort 
+ tid ble det klart at Ang skulle begrense seg til noen ganske enkle synther
+  og en trommemaskin.\n\nI 2006 bestemte de seg for å jobbe videre med det
+ te gamle Ang-materialet\, som de heldigvis for en stor del hadde dokumente
+ rt på kassetter som de faktisk ikke hadde mistet. Det holder de på med f
+ ortsatt\, nå under navnet Fallgruber. Fallgruber behandler skissene til A
+ ng som et forråd av ideer de kan bruke som de vil\, så den oppmerksomme 
+ lytter vil kunne legge merke til at flere av temaene er representert i fle
+ re låter\, gjerne i ulike tempi eller kanskje baklengs eller opp-ned elle
+ r begge deler.\n\nEtter hvert som instrumentariet deres har vokst tilnærm
+ et ubegrenset i takt med utviklingen på EDB-området\, og tilgangen til a
+ pparater som muliggjør elektronisk datamanipulering i både sann og usann
+  tid har gjort det mulig å realisere komposisjoner av en kompleksitet som
+  var utenfor rekkevidde for Ove og Mats Ivar i deres yngre år\, har Fallg
+ ruber beveget seg bort fra den mer eller mindre påtvungne minimalismen so
+ m preget Ang\, til fordel for en musikk som til tider kan fremstå maksima
+ listisk\, gjennomkomponert og til og med pompøs. Litt avant-rock med andr
+ e virkemidler\, kanskje. Deres første album foreligger allerede i digital
+  form\, og i løpet av høsten blir det også tilgjengelig på vinyl\, sli
+ k at man kan ta på det hvis man vil. Men hvordan de skal gå fram for å 
+ spille konserter\, har de ikke tenkt på. Nå kan de angre.\nVelkommen til
+  en uforglemmelig kveld preget av total\, altomslukende tilstedeværelse!\
+ n\nTickets: https://www.ticketmaster.no/event/448533754\n
 LOCATION:Vaterland
-SUMMARY:Ranheim + MoE // Vaterland
+SUMMARY:Ranheim + MoE + Fallgruber // Vaterland
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260906T072309Z
-UID:a1c31d33-a198-448e-8506-49c4751a3a71
+DTSTAMP:20261025T082356Z
+UID:09ebcab4-b748-4b68-a9c3-c3f2aa290b4d
 DTSTART;TZID=Europe/Oslo:20261212T200000
 DTEND;TZID=Europe/Oslo:20261212T230000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\, Club Dance\
