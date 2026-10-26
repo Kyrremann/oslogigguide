@@ -3,49 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:b159a63b-3a8c-4d74-8501-2998c880dab5
-DTSTART;TZID=Europe/Oslo:20261025T190000
-DTEND;TZID=Europe/Oslo:20261025T235900
-DESCRIPTION:Venue: John Dee\nTags: darkwave\, postpunk\, goth\n\nDen tyrkis
- ke duoen She Past Away tar med seg sin mørke og hypnotiske postpunk til J
- ohn Dee i oktober 2026 – en sjelden sjanse til å oppleve bandet som har
-  blitt et kultfenomen i den moderne dark wave-scenen!\n\nShe Past Away bes
- tår av Volkan Caner (vokal\, gitar og låtskriving) og Doruk Ozturkcan (t
- rommer\, synth og produksjon). Med sin særegne kombinasjon av 80-tallsins
- pirert postpunk\, suggererende synthlinjer og minimalistisk tyrkisk poesi\
- , har de skapt et unikt lydbilde som er både nostalgisk og nyskapende.\n\
- nBandets debutalbum *Belirdi Gece* (2012) ble raskt en undergrunnsklassike
- r\, og ble senere kåret til et av tiårets beste album av post-punk.com. 
- Med oppfølgerne *Narin Yalnızlık* (2015) og *Disko Anksiyete* (2019) be
- festet de sin posisjon som en av de mest innflytelsesrike og sjangerdefine
- rende aktørene innen moderne goth og dark wave. I 2020 markerte de tiårs
- jubileum med remixalbumet *X*\, med bidrag fra blant andre Boy Harsher\, C
- lan of Xymox og Lebanon Hanover.\n\nShe Past Away har trollbundet publikum
-  verden over med sine intense og atmosfæriske liveshow – mørke\, dansb
- are og dypt suggererende. Snart er det endelig Oslo og John Dee sin tur!\n
- \n**+ support: Mayflower Madame**\n\nOslo-bandet Mayflower Madame er aktue
- lle med sitt etterlengtede tredje album *Insight*. Det viser et band som h
- ar foredlet sin karakteristiske miks av post-punk\, shoegaze og psykedelia
-  til et skarpere og større lydbilde i samarbeid med den anerkjente italie
- nske produsenten Maurizio Baggio (The Soft Moon\, Boy Harsher\, The Vacant
-  Lots etc.). Albumet har høstet stor anerkjennelse og omfattende radiospi
- lling så langt\, blant annet i MOJO\, Rolling Stone Tyskland\, Eclipsed\,
-  Rumore Magazine\, BBC 6 Music\, RAI Radio 3 og NRK P13.\n\n--\n\nBill. kr
- . 350\,- + bill.avg.\n\n18 års aldersgrense med legitimasjonsplikt. Ingen
-  vergeordning.\n\nArrangementet har ståplasser.\n\nDørene åpner kl. 19.
- 00. Arrangementet starter ca. 1 time etter dørene åpner. NB! Det anbefal
- es å komme i god tid før arrangementet starter da det kan bli kø.\n\nTi
- ckets: https://www.ticketmaster.no/event/1503152538\n
-LOCATION:John Dee
-SUMMARY:She Past Away
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:7135458b-2027-4d00-a452-4846d208badf
+DTSTAMP:20261026T110341Z
+UID:fb55d601-b41b-49cc-b9cd-ac2ab1bac449
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T235900
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -81,8 +40,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:34af82d1-d73c-440f-b0aa-3d453caba4cf
+DTSTAMP:20261026T110341Z
+UID:258402ff-d62b-4a97-9b89-83ae95b621bc
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nGåte er tilbake med
@@ -113,8 +72,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:777dc4a8-2f9e-47ae-b733-da09bc64879c
+DTSTAMP:20261026T110341Z
+UID:4030310b-a267-4986-9f7d-a253faba54f9
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -127,8 +86,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:cc7445d0-65ae-4da5-ba6d-a79371351f19
+DTSTAMP:20261026T110341Z
+UID:c2cdab5c-376c-4e68-88ac-f512f0db67af
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -141,8 +100,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:3847f388-e879-4cd8-9bfb-90651352046c
+DTSTAMP:20261026T110341Z
+UID:777dcade-b1c7-4d07-9509-f07e310167cc
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -162,8 +121,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:ce730a7d-9cf6-4f9a-807b-6d48fda7eff2
+DTSTAMP:20261026T110341Z
+UID:6bf72306-f2e3-43c8-9c2b-51521b72d125
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -220,8 +179,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:5d1b3bc5-be84-42f8-8482-0c3eef078fd0
+DTSTAMP:20261026T110341Z
+UID:91d8b9c5-9e1a-4129-b883-64705d499a2e
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T235900
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -251,8 +210,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:d3055e5f-981d-4b43-bc8b-6af00c6ab56c
+DTSTAMP:20261026T110341Z
+UID:a44b448b-16a8-40ec-8d37-b68d0a13b7df
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T235900
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -282,8 +241,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:d8021c24-c838-4878-a044-6651d720d91f
+DTSTAMP:20261026T110341Z
+UID:9c421c31-a5c5-45ed-a93c-934a0deb14b6
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -295,8 +254,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:9c4642b3-7055-4203-b95f-c150c76291a4
+DTSTAMP:20261026T110341Z
+UID:f46b261e-6bae-46ef-b5e7-a764974c39b8
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -309,8 +268,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:f0d45474-0648-4dd7-bd4a-99a4a57d7d23
+DTSTAMP:20261026T110341Z
+UID:d5ff6a96-60cf-4a16-8956-97988f6e2a47
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -333,8 +292,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:645a87a6-aed7-4ffb-9724-962528a330bf
+DTSTAMP:20261026T110341Z
+UID:c84ce1eb-caa3-4131-9cd1-6e5e4454e0f7
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -369,8 +328,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:316bdc1f-1623-4d7e-80aa-d0cbfff938b5
+DTSTAMP:20261026T110341Z
+UID:6f8fb63e-6ea0-4d76-80e7-19a8e2dd1320
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -445,8 +404,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:82c4f710-c4fa-4b1d-8558-d1f29b80ea70
+DTSTAMP:20261026T110341Z
+UID:4d0cdab3-a51f-4fbf-9c75-bfca2bdd79cd
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -468,8 +427,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:c16982c6-952d-47d8-9154-879684bb278c
+DTSTAMP:20261026T110341Z
+UID:16c64b94-50f4-44c9-8caa-c5d66c00a78d
 DTSTART;TZID=Europe/Oslo:20270115T190000
 DTEND;TZID=Europe/Oslo:20270115T235900
 DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
@@ -523,8 +482,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:eb01b7d0-0bb6-42df-8e20-69b18a182035
+DTSTAMP:20261026T110341Z
+UID:6f9ac574-916f-4a12-b5c6-8db006916328
 DTSTART;TZID=Europe/Oslo:20261029T200000
 DTEND;TZID=Europe/Oslo:20261029T230000
 DESCRIPTION:Venue: Vaterland\nTags: Punk\, alternative\, Experimental\n\nRa
@@ -588,8 +547,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:43d7e0a0-ca6d-423d-9903-c68fcd95ee72
+DTSTAMP:20261026T110341Z
+UID:5cafa84b-6460-4b30-be79-7f1ae278af88
 DTSTART;TZID=Europe/Oslo:20261212T200000
 DTEND;TZID=Europe/Oslo:20261212T230000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\, Club Dance\
@@ -602,8 +561,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T082735Z
-UID:79314509-2967-4fe1-8173-9e1e3a0e1c69
+DTSTAMP:20261026T110341Z
+UID:fd5e81c4-1dbf-46c0-ae73-76ca669ec1b6
 DTSTART;TZID=Europe/Oslo:20270324T190000
 DTEND;TZID=Europe/Oslo:20270324T235900
 DESCRIPTION:Venue: Sentrum Scene\nTags: darksynth\, synthwave\n\nCarpenter 
@@ -629,6 +588,79 @@ DESCRIPTION:Venue: Sentrum Scene\nTags: darksynth\, synthwave\n\nCarpenter
  ticketmaster.no/event/1612465240\n
 LOCATION:Sentrum Scene
 SUMMARY:Carpenter Brut
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T110341Z
+UID:3ad6791c-2e06-47d9-a4df-adbb8e35dfb0
+DTSTART;TZID=Europe/Oslo:20261205T190000
+DTEND;TZID=Europe/Oslo:20261205T230000
+DESCRIPTION:Venue: Revolver\nTags: stoner\, psych\, rock\n\nOslo-bandet Sun
+ face er tilbake med sitt andre album\, Cloud Castles.\n\nSiden debuten Obs
+ ervatory i 2016\, har bandet utforsket rommet mellom tunge riff\, atmosfæ
+ riske melodier og rytmer hentet fra ulike perkusjonstradisjoner. Resultate
+ t har blitt et uttrykk som beveger seg et sted mellom stoner\, psych og ri
+ tuell groove. Sunface fortsetter ferden hvor miksen av tung gitar\, driven
+ de bass og perkusjon smelter sammen i åpne landskap.\n\nSunface er:\n\nJo
+ n Haugnes Karlsen\n\nEspen Nesset (Lonely Kamel)\n\nBård Linga (Bokassa)\
+ n\n//\n\nOslo-based mushroom rockers Steinsopp bring their own unique blen
+ d of groovy\, chaotic spaced out sabbath-worshipping stoner riff galore on
+  behalf of the interdimensional mushroom society. \n\nIn addition to keepi
+ ng the same ol' slow motion blues jam rolling since 2011\, they have relea
+ sed two full albums\, a split with Tempelheks and a more or less serious c
+ ompilation of lo-fi improvisations.\n\nAfter a period of technical mainten
+ ance\, the Steinsopp fungal vessel is currently all crewed up\, including 
+ a new-ish vocalist\, more than ready for new audio-explorative missions be
+ yond the event horizon.\n\nThe band released the session-album "Goloka Ses
+ sions" last year - another DIY-monstrosity from the deep forests east of O
+ slo.\n\n//\n\nKopaal er en Oslo-basert tungrock-duo som borrer seg dypt ne
+ d i den dronete\, seige fuzzen. Et organisk\, massivt lydbilde krydret med
+  psykedeliske effekter er selve kjernen i uttrykket\, der alt overflødig 
+ skrelles bort — tilbake står kun et ruvende driv av mektige trommer og 
+ tung\, hypnotisk bass.\n\nTickets: https://revolveroslo.ticketco.events/no
+ /nb/e/sunface__steinsopp__kopaal__revovler\n
+LOCATION:Revolver
+SUMMARY:Sunface // Steinsopp // Kopaal
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T110341Z
+UID:eb6b46b8-c771-4c77-9dad-1db81986a13d
+DTSTART;TZID=Europe/Oslo:20261112T200000
+DTEND;TZID=Europe/Oslo:20261112T230000
+DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Ambient\, Impro\, experimental\n\n
+ Rural Tapes (solo)\n\n"I forbindelse med utgivelsen av «Alien Territories
+  Vol. 2» legger Arne Kjelsrud Mathisen aka Rural Tapes ut på en soloturn
+ é i Europa i høst. Til konserten på Kafè Hærverk 12. november tar Kje
+ lsrud Mathisen med seg tapemaskiner\, diktafoner og synther og gjør et im
+ provisert sett av mer eksperimentell\, ambient og dronete karakter.\n\nRur
+ al Tapes har gitt ut musikken sin på britiske Clay Pipe og svenske Smuggl
+ er\, og har høstet stor anerkjennelse for sine 7 utgivelser. I kassettser
+ ien «Alien Territories» utforsker han nye lydlandskap og presenterer ver
+ k preget av tekstur og en nesten taktil lydkvalitet\, med referanser til e
+ ksperimentelle pionerer som Terry Riley\, Brian Eno og Robert Fripp.\n\nAr
+ ne Kjelsrud Mathisens karriere strekker seg over to tiår og som produsen
+ t og utøvende musiker har han medvirket på over 80 utgivelser\, i tilleg
+ g til å komponere musikk for blant annet butoh\, teater og danseforestill
+ inger"\n\n\n\nOPPMERKSOMHET FOR RURAL TAPES\n\n \n\n“A level of its 
+ very own”\n\nMOJO \n\n\n\n"A masterclass in eclecticism"\n\nShindig Mag
+ azine\n\n \n\n"Rural Tapes delights in the unexpected. At every tur
+ n\, you encounter something new\, something to be marvelled over. Kjels
+ rud Mathisen has said he wants this music to stand the test of time.
+  It will."\n\nThe Independent\n\n\n\n"No-one`s cramping this Norwegian pro
+ ducer`s styles."\n\n\nUncut\n\n \n\n“A dreamy self-titled debut full 
+ of broad soundscapes... The sort of soundtrack you might expect from 
+ a dream sequence in a 1970s film."\n\nGQ Magazine\n\n \n\n“From the 
+ first notes of this debut album from respected Norwegian producer Arn
+ e Kjelsrud Mathisen\, you know you’re in for a treat.”\n\nElectro
+ nic Sound\nDører: 20:00\nKonsertstart: 21:00\nInngang: 250.-+avgift \nID:
+  20\n\nTickets: https://tikkio.com/events/66655\n
+LOCATION:KAFÉ HÆRVERK
+SUMMARY:Rural Tapes(solo)// Kafé Hærverk 
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
