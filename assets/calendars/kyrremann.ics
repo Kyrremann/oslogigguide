@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:6537307e-bedd-47a4-833f-a62690890bc9
+DTSTAMP:20261026T110515Z
+UID:b6dc9dfe-b60f-4119-987c-f4ff6b25aa80
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T235900
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -40,8 +40,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:98a9d642-5e2b-428b-9e1e-a8feda84bd83
+DTSTAMP:20261026T110515Z
+UID:b50ef2e4-f86c-44d5-8079-40c23cb7c20b
 DTSTART;TZID=Europe/Oslo:20261031T190000
 DTEND;TZID=Europe/Oslo:20261031T230000
 DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nGåte er tilbake med
@@ -72,8 +72,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:30d2cbc5-1c7c-438e-8405-eed306eed595
+DTSTAMP:20261026T110515Z
+UID:48381537-e013-450e-9bf5-5ac8016c97de
 DTSTART;TZID=Europe/Oslo:20261103T190000
 DTEND;TZID=Europe/Oslo:20261103T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
@@ -86,8 +86,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:466d3305-3535-49f3-a82e-8bff0ad4c4a9
+DTSTAMP:20261026T110515Z
+UID:a55db46d-8198-4502-aa14-6adaf08c2f93
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -100,8 +100,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:5e612533-e90c-4633-96dc-667a5e233aba
+DTSTAMP:20261026T110515Z
+UID:5cf87a19-6f2f-4ed5-8b40-d3ae3a72d072
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -121,8 +121,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:c1828ff4-12b2-41d5-b529-ff8c3427fe2c
+DTSTAMP:20261026T110515Z
+UID:00acfe39-db4a-434d-b3d5-d56ced2355ea
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -179,8 +179,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:7ef70cec-23e4-4468-bd7d-63fe33cf113e
+DTSTAMP:20261026T110515Z
+UID:5604573b-0fb2-4f39-b8a0-ddd2b2c422eb
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T235900
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -210,8 +210,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:c74f5d34-f3b2-4983-8134-bae67d5e099d
+DTSTAMP:20261026T110515Z
+UID:be0de4d9-c75f-474f-8863-ad1d9c27d99c
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T235900
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -241,8 +241,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:16f3189c-54bb-450a-8936-c373f316f274
+DTSTAMP:20261026T110515Z
+UID:3fd72bac-e287-4912-94aa-2a7b07c09694
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -254,8 +254,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:6a3d447c-7335-419a-a072-256ace274fe8
+DTSTAMP:20261026T110515Z
+UID:87b0087a-8455-46bc-aff4-fd02904d68ac
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -268,8 +268,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:1c4f4325-01e0-4132-9616-e10bb76454cd
+DTSTAMP:20261026T110515Z
+UID:df0c3afc-d813-4d72-a2fc-45a44a9b7e24
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -292,8 +292,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:6f92a208-188d-48e5-8959-a134db67650d
+DTSTAMP:20261026T110515Z
+UID:19f40438-1bf5-4599-be31-327a2394636c
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -328,8 +328,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:7f1b3e42-b673-4894-8f53-48744f0c0320
+DTSTAMP:20261026T110515Z
+UID:4bd0add2-b3bd-43d3-b3c9-e5e09a3e97cf
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -404,8 +404,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:b2669e3e-2a20-45c2-877c-73e700256425
+DTSTAMP:20261026T110515Z
+UID:dfb9222d-11bb-4a43-800b-465ea69413a6
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -427,8 +427,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:a734d318-6d2d-4311-ba19-4970a761c786
+DTSTAMP:20261026T110515Z
+UID:60eaa9f6-41e5-4a9e-8a98-cfb390b6a13c
 DTSTART;TZID=Europe/Oslo:20270115T190000
 DTEND;TZID=Europe/Oslo:20270115T235900
 DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
@@ -482,8 +482,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:4fa23fab-40d9-4a07-a7a3-6671e9d0c69e
+DTSTAMP:20261026T110515Z
+UID:ac53fd27-0c51-4b8d-8cac-4f4cea2df787
 DTSTART;TZID=Europe/Oslo:20261029T200000
 DTEND;TZID=Europe/Oslo:20261029T230000
 DESCRIPTION:Venue: Vaterland\nTags: Punk\, alternative\, Experimental\n\nRa
@@ -547,8 +547,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:3d686b1f-e6bd-4a0c-a965-ba4f40b50b4d
+DTSTAMP:20261026T110515Z
+UID:f192f692-9b54-4022-9616-5e28dfc82d4a
 DTSTART;TZID=Europe/Oslo:20261212T200000
 DTEND;TZID=Europe/Oslo:20261212T230000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\, Club Dance\
@@ -561,8 +561,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:aaa33fa9-1d83-4c4d-91bf-90617ae2512d
+DTSTAMP:20261026T110515Z
+UID:68c1aa67-6ae8-47e0-8dc3-91aa6f352151
 DTSTART;TZID=Europe/Oslo:20270324T190000
 DTEND;TZID=Europe/Oslo:20270324T235900
 DESCRIPTION:Venue: Sentrum Scene\nTags: darksynth\, synthwave\n\nCarpenter 
@@ -593,8 +593,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:fd7afb1f-cbf7-4ba9-9404-18a26f3150d1
+DTSTAMP:20261026T110515Z
+UID:11db67fa-adc8-472e-8f33-48d294ce1f48
 DTSTART;TZID=Europe/Oslo:20261205T190000
 DTEND;TZID=Europe/Oslo:20261205T230000
 DESCRIPTION:Venue: Revolver\nTags: stoner\, psych\, rock\n\nOslo-bandet Sun
@@ -628,8 +628,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:109e6312-66a9-47b9-9b0a-272f9abbb789
+DTSTAMP:20261026T110515Z
+UID:4e6adfea-7fee-4ed7-abad-90596a108368
 DTSTART;TZID=Europe/Oslo:20261112T200000
 DTEND;TZID=Europe/Oslo:20261112T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Ambient\, Impro\, experimental\n\n
@@ -666,8 +666,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T110436Z
-UID:fdd9bd2a-c14c-4ae0-bdc8-22fc305bc2cb
+DTSTAMP:20261026T110515Z
+UID:740373be-4a44-4865-bf80-a530520f3778
 DTSTART;TZID=Europe/Oslo:20261030T202900
 DTEND;TZID=Europe/Oslo:20261030T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: punk\n\n20.30: Dørene åpner\n21.
@@ -694,6 +694,55 @@ DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: punk\n\n20.30: Dørene åpner\n21.
  tmaster.no/event/1589195928\n
 LOCATION:KAFÉ HÆRVERK
 SUMMARY:Oslo World: Twenty One Children 
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T110515Z
+UID:f257e843-e449-4d47-9cdd-b13602de27cc
+DTSTART;TZID=Europe/Oslo:20261121T200000
+DTEND;TZID=Europe/Oslo:20261121T230000
+DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: film\, experimental\, kunst\n\nNo 
+ Escape Presents: Voice for Change - Vol. 2\n21 November 2026\nAn evening o
+ f music\, art and film exploring solidarity and social change.\nPROGRAMME\
+ n20:00 · Doors open\n20:30 · Short films by Oslo Fotokunstskole students
+ \n21:30 · Live concert: Sturle Dagsland (NO)\nCollage exhibition: Collage
+ s for Justice by Olga Borkowska (NO/PL)\nTICKETS\nRegular: 200 NOK\nStuden
+ t: 100 NOK\nAge limit: 20+\nFully funded through support from Oslo kommune
+ .\nVisual design: Aleksandra Misztur\n------------------------------------
+ ---------------------------\nLIVE: STURLE DAGSLAND (NO)\nSturle Dagsland i
+ s an acclaimed\, genre-defying Norwegian artist whose wild and unique perf
+ ormances take audiences on an intense\, adventurous journey. Together with
+  his brother Sjur\, he has toured festivals around the world\, from Shangh
+ ai to New York.\nTheir music combines extraordinary vocals\, experimental 
+ folk\, avant-garde pop and immersive electronic soundscapes. Moving betwee
+ n ethereal beauty and raw\, explosive energy\, their performances challeng
+ e musical conventions and invite you to lose yourself in sound. Expect the
+  unexpected.\n“Indescribable!” — VICE\n“Extraordinary!” — The 
+ Independent\n“Unlike anything I have ever seen!” — The Quietus\nLive
+  performances:\nhttps://www.youtube.com/watch?v=lJnt6_LChf4\nhttps://www.y
+ outube.com/watch?v=fOkKVQrVMvk\nMusic video:\nhttps://www.youtube.com/watc
+ h?v=YlxNw0tkVcg\n---------------------------------------------------------
+ ------\nEXHIBITION: COLLAGES FOR JUSTICE\nOlga Borkowska (NO/PL)\nVisual a
+ rtist Olga Borkowska presents a series of politically charged collages exa
+ mining contemporary society through a feminist and activist lens. Her work
+  addresses human rights\, gender equality and resistance to war.\nCombinin
+ g archival materials\, text\, photography and graphic design\, Borkowska c
+ reates layered compositions that serve as both artistic testimony and form
+ s of protest. Drawing on personal experience and wider political realities
+ \, her collages highlight the struggles of women\, LGBTQ+ people and margi
+ nalized communities confronting nationalism\, militarization and social in
+ justice.\n---------------------------------------------------------------\
+ nSHORT FILM SCREENING: OSLO FOTOKUNSTSKOLE STUDENTS\nA selection of short 
+ films by students of Oslo Fotokunstskole\, showcasing emerging voices and 
+ individual perspectives through moving images.\nFeaturing films by:\nCarl 
+ Astrup\nKristine Hartgen\nNazli Deniz Sevnic\nSimen Trippestad\nStein Stø
+ len Bjerkaker\nTormod Viken\nJoanna Olichwer\n\nTickets: https://tikkio.co
+ m/events/66917\n
+LOCATION:KAFÉ HÆRVERK
+SUMMARY:Concert: Sturle Dagsland (NO) · Exhibition: Olga Borkowska · Movi
+ es: Oslo Fotokunstskole students
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
