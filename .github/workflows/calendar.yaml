@@ -3,6 +3,8 @@ name: Update calendar
 on:
   workflow_dispatch:
   push:
+    branches:
+      - 'main'
     paths:
       - 'calendar.rb'
       - '_data/calendars.json'

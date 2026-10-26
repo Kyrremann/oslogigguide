@@ -5,6 +5,8 @@ on:
     - cron:  '0 4 * * *'
   workflow_dispatch:
   push:
+    branches:
+      - 'main'
     paths:
       - 'scraper.rb'
       - '.github/workflows/scrape.yaml'
