@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:ee2e6ec9-0188-4782-a75a-adf0bc710c25
+DTSTAMP:20261106T062958Z
+UID:685bc984-4264-46ab-887c-054e9e7c6cf6
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T235900
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -40,54 +40,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:9eeb8bec-4590-4875-aae0-39bb62e683c4
-DTSTART;TZID=Europe/Oslo:20261031T190000
-DTEND;TZID=Europe/Oslo:20261031T230000
-DESCRIPTION:Venue: Sentrum Scene\nTags: folk\, rock\n\nGåte er tilbake med
-  det kritikerroste albumet *Sigil*\, og lørdag 31. oktober inntar de Sent
- rum Scene!\n\nMed sitt særegne møte mellom nordisk folkemusikk\, tung ro
- ck og elektroniske elementer har Gåte i over to tiår vært blant Norges 
- mest spennende liveband. Nå er de aktuelle med *Sigil*\, som har høstet 
- sterke anmeldelser både her hjemme og internasjonalt\, blant annet 5 av 6
-  stjerner i GAFFA.\n\nEtter omfattende turnévirksomhet i Europa er bandet
-  klare for en norsk headlinerturné\, der nye låter møter favoritter fra
-  katalogen. Publikum kan se frem til drivende rytmer\, tunge gitarer\, fol
- keklang og Gunnhild Sundlis kraftfulle vokal.\n\nGåte er kjent for sine i
- ntense konserter\, der det nære og fortellende møter rå energi og mekti
- ge musikalske kontraster. Lørdag 31. oktober får Oslo oppleve hele kraft
- en fra bandet på Sentrum Scene!\n\n--\n \nBill. kr. 500\,- + bill.avg.\n\
- n18 års aldersgrense med legitimasjonsplikt. Ingen vergeordning. Gyldig l
- egitimasjon er fysisk nasjonalt ID-kort\, pass\, fysisk førerkort eller b
- ankkort med bilde. Digital legitimasjon (digitalt førerkort eller Bank-ID
- ) eller bilde av legitimasjon er ikke gyldig legitimasjon.\n\nArrangemente
- t har ståplasser i hovedsalen.\n\nDørene åpner kl. 19.00. Arrangementet
-  starter ca. 1 time etter dørene åpner. NB! Det anbefales å komme i god
-  tid før arrangementet starter da det kan bli kø.\n\nTickets: https://ww
- w.ticketmaster.no/event/1447461091\n
-LOCATION:Sentrum Scene
-SUMMARY:Gåte
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:1da34034-8280-4872-8f0f-636e2de1ec87
-DTSTART;TZID=Europe/Oslo:20261103T190000
-DTEND;TZID=Europe/Oslo:20261103T220000
-DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\n\n\n\nTicket
- s: https://www.ticketmaster.no/event/halina-rice-immersive-a-v-show-billet
- ter/1357234225\n
-LOCATION:Parkteatret Scene
-SUMMARY:Halina Rice - Immersive A/V Show
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:3dd04711-d8a8-46b7-9296-071c5f344cd3
+DTSTAMP:20261106T062958Z
+UID:6817e887-dcbd-4f97-957a-0428aea3656c
 DTSTART;TZID=Europe/Oslo:20261108T190000
 DTEND;TZID=Europe/Oslo:20261108T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -100,8 +54,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:1fb4f5d9-79ba-4937-800a-4f1312243ba9
+DTSTAMP:20261106T062958Z
+UID:c6871009-f8ab-4977-b592-25207f85da21
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -121,8 +75,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:bf3baeed-e076-427d-969c-28363ca4d47c
+DTSTAMP:20261106T062958Z
+UID:718c89e0-32f6-4d0e-902e-8acf4f06e669
 DTSTART;TZID=Europe/Oslo:20261106T200000
 DTEND;TZID=Europe/Oslo:20261106T235900
 DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
@@ -179,8 +133,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:4479268a-629e-4179-a72c-730433e29ec3
+DTSTAMP:20261106T062958Z
+UID:568d288e-e7b5-42de-94b0-bc6ce1ea3fa4
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T235900
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -210,8 +164,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:ba54870b-b537-473e-9ae2-79b376045999
+DTSTAMP:20261106T062958Z
+UID:2005b09e-f0da-485d-b21d-d1899b8dad4b
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T235900
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -241,8 +195,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:0fda4b5d-2753-428a-983f-e8343837244e
+DTSTAMP:20261106T062958Z
+UID:092ec39f-b339-4b12-b7ef-9e129a6310e1
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -254,8 +208,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:b6417fbb-fe2f-4e0a-887c-a037dcb66568
+DTSTAMP:20261106T062958Z
+UID:b859c120-8796-4197-8915-f4b765e64974
 DTSTART;TZID=Europe/Oslo:20261106T190000
 DTEND;TZID=Europe/Oslo:20261106T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
@@ -268,8 +222,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:632bf398-e755-421e-812f-a33afb483294
+DTSTAMP:20261106T062958Z
+UID:8d2d02e9-aef9-4737-930b-11f8bb4ced59
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -292,8 +246,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:f5dbf63a-0d55-43a2-b378-5588a7ea16ae
+DTSTAMP:20261106T062958Z
+UID:4579c1d4-723b-497c-896f-fbaf1e4c4466
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -328,8 +282,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:73ebc2e4-f78c-4fc0-8712-d4cbcb0543fc
+DTSTAMP:20261106T062958Z
+UID:a57e50b3-7d35-43a4-a0a4-7a2c19cdbf50
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -404,8 +358,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:64388708-5439-43cf-9e12-03d49f1cb2ae
+DTSTAMP:20261106T062958Z
+UID:b5336dcc-826f-4f27-abcb-7b8a7cb77673
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -427,8 +381,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:d7036bbd-223e-419d-b75a-8f1f046224d2
+DTSTAMP:20261106T062958Z
+UID:6fb73913-e478-40ae-a136-413b92e83a92
 DTSTART;TZID=Europe/Oslo:20270115T190000
 DTEND;TZID=Europe/Oslo:20270115T235900
 DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
@@ -482,73 +436,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:94396476-0061-4a18-95fc-329b8adacf40
-DTSTART;TZID=Europe/Oslo:20261029T200000
-DTEND;TZID=Europe/Oslo:20261029T230000
-DESCRIPTION:Venue: Vaterland\nTags: Punk\, alternative\, Experimental\n\nRa
- nheim\nRanheim er endelig tilbake i Brugata. Sist gang de besøkte Bruga
- ta var litt lenger oppi gata\, nærmere sagt 3A. Denne gangen er det lykke
- tallet 9 og Vaterland som står for tur. \n\nSamtidig slippes NWRS\, et b
- est of-album i begrenset opplag på vinyl. Utgitt på Fucking North Pole R
- ecords\, i tett samarbeid med Evil Music Int. (EMI).\n\nRanheim består av
-  Admiral von Ranheim\, Don Ranheim og Kaptein Ranheim. Samtlige er født o
- g oppvokst på Ranheim\, en bydel langt øst i Trondheim. Den lokale foran
- kringen har alltid vært grunnleggende for bandets identitet. For å få v
- ære med i bandet må du minst være født og oppvokst på Ranheim. Musikk
- en er hard\, men rettferdig: presis\, egenrådig og umiskjennelig.\n\nBand
- ets katalog rommer samarbeid med markante navn i internasjonal alternativ 
- musikk. Første 7-tommer ble spilt inn på Ranheim med Geir Lyng bak spake
- ne. Debutalbumet Rock and Science ble produsert av John Fryer (bl.a. Depec
- he Mode\, Cocteau Twins og Nine Inch Nails). Oppfølgeren Norwegian Wood b
- le produsert av Steve Albini\, kjent for samarbeid med blant andre Pixies\
- , PJ Harvey og Nirvana.\n\nMed NWRS oppsummerer Ranheim en katalog som har
-  gitt bandet en tydelig og særegen plass i norsk alternativ rock. Ranheim
-  låter fortsatt som ingen andre.\n\nMoE\n\nMoE skaper rå\, fysiske opple
- velser i grenselandet mellom rock og konfronterende teater – et uttrykk 
- som kan oppleves som sjelsettende for selv dedikerte rockere. Deres unike 
- fremføring kjennetegnes av en intensitet som grenser til det besatte. Med
-  minimalistiske\, men massive vegger av gitarer\, spoken word og avantgard
- istisk sludge presser de både kropp og instrumenter til det absolutte ytt
- erpunktet.\n\nMoE har forøvrig en usedvanlig merittliste med samarbeider 
- med internasjonale og nasjonale artister\, teater\, film og mer. Her kan n
- evnes\; Lasse Marhaug\, Pinquins\, Signe Emmeluth\, Amat Escalante\, Plexu
- s Polaire\, Mette Rasmussen\, Painjerk\, Keiji Haino\, Ikuro Takahashi\, o
- g Akira Sakata.\n\nFallgruber \n\nOve Hjelvik og Mats Ivar Takle spilte sa
- mmen i trondheimsbandet Albino Slug fra 1992 til bandet ble oppløst i 199
- 6\, og holdt seg samtidig med et lite sideprosjekt de kalte Ang. På den f
- ørste «øvingen» til Ang spilte Ove gitar\, men etter forholdsvis kort 
- tid ble det klart at Ang skulle begrense seg til noen ganske enkle synther
-  og en trommemaskin.\n\nI 2006 bestemte de seg for å jobbe videre med det
- te gamle Ang-materialet\, som de heldigvis for en stor del hadde dokumente
- rt på kassetter som de faktisk ikke hadde mistet. Det holder de på med f
- ortsatt\, nå under navnet Fallgruber. Fallgruber behandler skissene til A
- ng som et forråd av ideer de kan bruke som de vil\, så den oppmerksomme 
- lytter vil kunne legge merke til at flere av temaene er representert i fle
- re låter\, gjerne i ulike tempi eller kanskje baklengs eller opp-ned elle
- r begge deler.\n\nEtter hvert som instrumentariet deres har vokst tilnærm
- et ubegrenset i takt med utviklingen på EDB-området\, og tilgangen til a
- pparater som muliggjør elektronisk datamanipulering i både sann og usann
-  tid har gjort det mulig å realisere komposisjoner av en kompleksitet som
-  var utenfor rekkevidde for Ove og Mats Ivar i deres yngre år\, har Fallg
- ruber beveget seg bort fra den mer eller mindre påtvungne minimalismen so
- m preget Ang\, til fordel for en musikk som til tider kan fremstå maksima
- listisk\, gjennomkomponert og til og med pompøs. Litt avant-rock med andr
- e virkemidler\, kanskje. Deres første album foreligger allerede i digital
-  form\, og i løpet av høsten blir det også tilgjengelig på vinyl\, sli
- k at man kan ta på det hvis man vil. Men hvordan de skal gå fram for å 
- spille konserter\, har de ikke tenkt på. Nå kan de angre.\nVelkommen til
-  en uforglemmelig kveld preget av total\, altomslukende tilstedeværelse!\
- n\nTickets: https://www.ticketmaster.no/event/448533754\n
-LOCATION:Vaterland
-SUMMARY:Ranheim + MoE + Fallgruber // Vaterland
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:e4fa9e77-f119-4b3f-ba83-df33c0cd9ca0
+DTSTAMP:20261106T062958Z
+UID:de27ac3f-e7ca-4943-bf70-6a9718070952
 DTSTART;TZID=Europe/Oslo:20261212T200000
 DTEND;TZID=Europe/Oslo:20261212T230000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\, Club Dance\
@@ -561,8 +450,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:46090056-99d5-49db-8732-15d55a36d180
+DTSTAMP:20261106T062958Z
+UID:b7f84445-c418-42f6-9773-e05ea3c42caf
 DTSTART;TZID=Europe/Oslo:20270324T190000
 DTEND;TZID=Europe/Oslo:20270324T235900
 DESCRIPTION:Venue: Sentrum Scene\nTags: darksynth\, synthwave\n\nCarpenter 
@@ -593,8 +482,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:ab55764d-e7d5-47bf-b364-69ef00516af6
+DTSTAMP:20261106T062958Z
+UID:44467b78-6fc9-40f7-96b9-6780a12700fa
 DTSTART;TZID=Europe/Oslo:20261205T190000
 DTEND;TZID=Europe/Oslo:20261205T230000
 DESCRIPTION:Venue: Revolver\nTags: stoner\, psych\, rock\n\nOslo-bandet Sun
@@ -628,8 +517,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:bf87ada3-ea03-4186-a071-bb90d7d8e83c
+DTSTAMP:20261106T062958Z
+UID:8545c2a5-9b0d-4cef-9b8c-857f0743fb45
 DTSTART;TZID=Europe/Oslo:20261112T200000
 DTEND;TZID=Europe/Oslo:20261112T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Ambient\, Impro\, experimental\n\n
@@ -666,41 +555,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:60f4e34f-8333-4768-814d-1c93e4581656
-DTSTART;TZID=Europe/Oslo:20261030T202900
-DTEND;TZID=Europe/Oslo:20261030T230000
-DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: punk\n\n20.30: Dørene åpner\n21.
- 00: Konsert\nPunk-sensasjon fra den sørafrikanske undergrunnen til Oslo W
- orld!\n\nTwenty One Children er en ny\, opprørsk punksensasjon fra Sør-A
- frika – en fryktløs trio som river den alternative musikkhåndboka i fi
- llebiter. Bandet er skapt av vennene Thula og Abdula\, som etter hvert fik
- k med seg trommeslageren Biko. De har felles røtter i gospel\, kwaito\, h
- iphop\, R&B og Sør-Afrikas undergrunnstradisjon. Men når de spiller\, sm
- elter Twenty One Children sammen inspirasjon fra amerikansk punk med Sowet
- os hjerteslag\, og skaper en subversiv virvelvind av støy og sjel.\n\nBar
- e hør på deres nyeste album\, After the Storm\, fra 2025 – en uimotst
- åelig blanding av fengende riff\, rå vokal og små sketsjer – som snik
- er seg inn under tjueminuttersmerket – en kraftpakke av gledesfylt energ
- i. Med skarpt vidd og en urokkelig gjør-det-selv-innstilling til musikken
- \, er de også del av en grasrotbevegelse. De har bidratt til byggingen av
-  en lokal skatepark og har spilt innsamlingskonserter for skolebøker. Twe
- nty One Children lever for fellesskapet\, i et øyeblikk der rocken i alle
-  sine former igjen er i ferd med å feste grep om tidsånden\, viser de at
-  den mest interessante musikken naturligvis er den som vokser i undergrunn
- en. \n\nDa finnes det knapt et bedre sted å gjøre sin Oslo-debut enn Kaf
- é Hærverk – bandet har stått på spillestedets ønskeliste i årevis\
- , og på Oslo World i år skjer det endelig.\n\nTickets: https://www.ticke
- tmaster.no/event/1589195928\n
-LOCATION:KAFÉ HÆRVERK
-SUMMARY:Oslo World: Twenty One Children 
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:bb97163d-0da6-47c0-ad05-21c8571b31c5
+DTSTAMP:20261106T062958Z
+UID:3d6b9dad-59ee-4c45-a7ed-04e2feb4fec9
 DTSTART;TZID=Europe/Oslo:20261121T200000
 DTEND;TZID=Europe/Oslo:20261121T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: film\, experimental\, kunst\n\nNo 
@@ -748,8 +604,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:d09ff0ed-8b15-4ab6-abe2-83d4604ece01
+DTSTAMP:20261106T062958Z
+UID:d0dd7b1e-e7fa-4f16-90d9-9aa17d98b0bd
 DTSTART;TZID=Europe/Oslo:20261129T200000
 DTEND;TZID=Europe/Oslo:20261129T230000
 DESCRIPTION:Venue: Revolver\nTags: hard\, rock\, dark\n\nKommer\n\nTickets:
@@ -762,8 +618,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:baf010c9-3030-4f8d-9ba2-12b832268682
+DTSTAMP:20261106T062958Z
+UID:03464cac-01b6-4798-b156-7cc1f21b62ba
 DTSTART;TZID=Europe/Oslo:20270522T190000
 DTEND;TZID=Europe/Oslo:20270522T230000
 DESCRIPTION:Venue: BLÅ\nTags: slowcore\, rock\, indie\n\nCodeine til Norge
@@ -789,8 +645,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:aa33b1ec-aca9-42af-972c-6de7643ab45a
+DTSTAMP:20261106T062958Z
+UID:683381c7-7c8d-493d-a164-75b3afa9a892
 DTSTART;TZID=Europe/Oslo:20270227T200000
 DTEND;TZID=Europe/Oslo:20270227T230000
 DESCRIPTION:Venue: Vaterland\nTags: Progressive\, Rock\, Shoegaze\n\nEtter 
@@ -818,8 +674,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:bf576f63-ab36-44c9-96b8-ef1d503a21da
+DTSTAMP:20261106T062958Z
+UID:5a90674f-8a13-4fdb-99d3-8b6033e2a060
 DTSTART;TZID=Europe/Oslo:20270220T190000
 DTEND;TZID=Europe/Oslo:20270221T000000
 DESCRIPTION:Venue: Mir\nTags: Eksperimentelt\, Elektronisk-Goth-Pop-Dark-Va
@@ -883,27 +739,87 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T111552Z
-UID:e9f0c0c1-d7a4-4bc7-b981-4d81a274063c
-DTSTART;TZID=Europe/Oslo:20261030T200000
-DTEND;TZID=Europe/Oslo:20261030T230000
-DESCRIPTION:Venue: Brewgata\nTags: Sungoose\, Prog\, Metal\n\nSungoose deli
- vers progressive metal in an innovative format\, enriched with improvisati
- onal elements.\nThe Norwegian band brings the saxophone into the progressi
- ve metal sphere exploring new intersections between heavy riffs\, odd time
-  signatures\, raw energy\, and epic soundscapes — all in the\npursuit of
-  creating the next iconic sound.\nTheir music draws inspiration from bands
-  like Leprous\, Opeth\, and King Crimson\, appealing both to devoted metal
-  fans and to those seeking a more exploratory\, and innovative approach to
-  rock music.\nThe lyrics delve into personal experiences\, inner struggles
- \, and human relationships. Known for their unique sound and energetic liv
- e performances\, Sungoose creates an unforgettable atmosphere on stage. In
-  October 2024\, they delivered a powerful live show as the opening act for
-  Agabas\, which led to several shows. In 2025\, Sungoose released their de
- but EP\, which received positive feedback both in Norway and international
- ly.\n\nTickets: https://tikkio.com/events/66755\n
-LOCATION:Brewgata
-SUMMARY:Sungoose // Live
+DTSTAMP:20261106T062958Z
+UID:875a1955-3648-4bd0-9af8-07e5d38fb18c
+DTSTART;TZID=Europe/Oslo:20270306T200000
+DTEND;TZID=Europe/Oslo:20270306T230000
+DESCRIPTION:Venue: Vaterland\nTags: Newwave\, punkrock\, metal\n\nHelvetes 
+ Indre Kretser presenterer:\nLUCID GRAVE (DK) + GLOOMBOUND\nVaterland\nLør
+ dag 6. mars 2027\n20:00 // 250.- Ink. avg. // 20år\n\nLUCID GRAVE fra Kø
+ benhavn er en blanding av mørk atmosfære og uimotståelige melodier\, de
+ r mørk new wave\, gothic rock og punk-energi møter den svette friheten p
+ å et dansegulv fra 80-tallet. Musikken er forførende\, fysisk og komprom
+ issløst levende – bygget opp rundt sterke melodier\, atmosfære og føl
+ elsen av at noe farlig kan skje når lyset slukkes.\n\nLucid Grave har opp
+ arbeidet seg en sterk live-tilstedeværelse i København og har delt scene
+  med internasjonale navn som Deathchant\, Witch\, Tower og Horror Vacui\, 
+ i tillegg til å ha spilt på festivaler som Copenhell og A Colossal Weeke
+ nd.\n\nDet kommende tredjealbumet NIGHTBLADE slippes i desember 2026\, og 
+ markerer starten på en ny æra for Lucid Grave. Albumet beskriver en verd
+ en der begjær\, besettelse\, ensomhet og vold smelter sammen og blir umul
+ ige å skille fra hverandre. Musikalsk forener albumet bandets røtter inn
+ en doom og psykedelisk rock med elementer av gothic rock\, new wave\, punk
+ \, dark pop og disco.\n\nLucid Grave er dannet ut fra en felles kjærlighe
+ t til mørk musikk\, sterke visuelle uttrykk og full kunstnerisk frihet. D
+ en nåværende besetningen samler mennesker i ulik alder\, kulturell bakgr
+ unn\, identitet og livserfaring. Transpersoner og ikke-binære medlemmer s
+ piller side om side med musikere fra svært ulike miljøer\, noe som skape
+ r et band som er like mangfoldig i sammensetningen av mennesker som i lydb
+ ildet. For Lucid Grave er mangfold ikke et markedsføringsgrep – det er 
+ en integrert del av bandets identitet. Resultatet er en sammensveiset musi
+ kalsk enhet preget av sterk identitetsfølelse\, tillit og kreativ frihet.
+ \n\nFor fans av: Bauhaus · Siouxsie and the Banshees · Killing Joke\n\nG
+ LOOMBOUND er manet frem i sorte forbannelser og skjebneritualer. Med hjems
+ økende leads og motbydelige riff\, frakter Gloombound deg gjennom en atmo
+ sfære som løfter deg ut av din nåværende tilstand og inn i et rike av 
+ bekmørk salighet. En renselse som utspiller seg i sneglefart. Fra tomromm
+ et i det ytre rom til fuktige\, mørke og dunkle\, huleaktige lydlandskap\
+ , der gitarklangen kryper oppover og nedover grotteveggene.\n\n\n\nTickets
+ : https://www.ticketmaster.no/event/746513437\n
+LOCATION:Vaterland
+SUMMARY:Lucid Grave (DK) + Gloombound (NO)
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T062958Z
+UID:a789e0cd-8493-4957-b860-f8cc33c87276
+DTSTART;TZID=Europe/Oslo:20270306T200000
+DTEND;TZID=Europe/Oslo:20270306T230000
+DESCRIPTION:Venue: Revolver\nTags: shoegaze\, darkgaze\n\n\n19. februar sli
+ pper LUNA MARE sitt debutalbum "Torn Asunder". Dette skal feires med en he
+ idundrendes slippkonsert på Revolver 6. mars!\n\nLUNA MARE er soloprosjek
+ tet til Lina Marie Abeland\, en Oslobasert artist fra Stavanger. I dette p
+ rosjektet utforskes det dystre i livet\, hvor man får kjenne på alt fr
+ a det myke og klangfulle\, til det vonde\, ubehagelige\, harde og støyete
+ . Bli med inn i et univers fylt av besvergelser\, angstanfall\, skrik som 
+ stikker langt inn i ryggmargen\, og en eksplosjon av følelser og lyd.\n\n
+ \n\nLUNA MARE har blant annet blitt spilt på RadiOrakel - verdens eldste
+  feministradio\, og vært support for band som Agabas og Slow Crush (BE). 
+ Med sin egenartede stemme\, sterke formidling\, og sine ærlige og sårba
+ re tekster vil LUNA MARE dra deg med inn i en seanse hvor forlokkende og e
+ teriske melodier blir til tung og heksete blackgaze. Er du klar for å bl
+ i revet med? \n\n\n\nSupport:\n\n\n\nBrostein:\n\n\n\nEn ung sammensetning
+  av metalfanatikere har sett seg lei av slitne\, skjeggete gubber som pump
+ er ut lunken metal med tvilsomme politiske budskap og et manglende samtids
+ kompass. Brostein har en klar visjon for et mer mangfoldig metalmiljø\, d
+ er sjangergrenser viskes ut samtidig som de politiske budskapene herdes og
+  presiseres. Dette unge Oslobandet er ikke redd for å stå med rak rygg i
+  et ofte arkaisk metalmiljø\, med fokus på tematikk som bæres frem av e
+ n fryktløs sound.\n\nSólstrauman:\n\n\n\nMed eit tynt slør mellom verke
+ legheit og draum lokkar musikken til Sólstrauman til seg det såre\, indr
+ e\, inn i ei atmosfærisk reise\, der søvn og vakenheit vert like flytand
+ es som ljodlandskapets samansmelting av himmel og helvete. \n\nSanning ver
+ t illusjon og motsett\, i møte med hallusinerandes ljodreise og dunkelt l
+ andskap\, omgjeve av tåke og skog\, hulder og helgen. \n\nSólstrauman er
+  soloprosjektet til Sunniva Strauman Halstensen\, frå Nord-Noreg\, basert
+  i Oslo. Ho er låtskrivar\, artist\, multiinstrumentalist og produsent\, 
+ og har gjeve ut albumet Kvitevind.\n\nTickets: https://revolveroslo.ticket
+ co.events/no/nb/e/slippkonsert_luna_mare__support_brostein__slstrauman__re
+ volver\n
+LOCATION:Revolver
+SUMMARY:LUNA MARE // Support: Brostein + Sólstrauman
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
