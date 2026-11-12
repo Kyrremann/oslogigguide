@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:685bc984-4264-46ab-887c-054e9e7c6cf6
+DTSTAMP:20261112T063608Z
+UID:d0ce1719-f6f9-4355-aeed-077e97258579
 DTSTART;TZID=Europe/Oslo:20261125T190000
 DTEND;TZID=Europe/Oslo:20261125T235900
 DESCRIPTION:Venue: John Dee\nTags: metal\, electronica\, experimental\n\nMA
@@ -40,22 +40,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:6817e887-dcbd-4f97-957a-0428aea3656c
-DTSTART;TZID=Europe/Oslo:20261108T190000
-DTEND;TZID=Europe/Oslo:20261108T220000
-DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
- kets: https://www.ticketmaster.no/event/boris-pink-20th-anniversary-tour--
- planning-for-burial-billetter/752597034\n
-LOCATION:Parkteatret Scene
-SUMMARY:BORIS: PINK 20th Anniversary Tour + Planning For Burial
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:c6871009-f8ab-4977-b592-25207f85da21
+DTSTAMP:20261112T063608Z
+UID:f1960106-ea78-4436-9253-e0a2a525159d
 DTSTART;TZID=Europe/Oslo:20261126T200000
 DTEND;TZID=Europe/Oslo:20261126T230000
 DESCRIPTION:Venue: Revolver\nTags: post-hardcore\, shoegaze\n\nTramhaus is 
@@ -75,66 +61,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:718c89e0-32f6-4d0e-902e-8acf4f06e669
-DTSTART;TZID=Europe/Oslo:20261106T200000
-DTEND;TZID=Europe/Oslo:20261106T235900
-DESCRIPTION:Venue: Vaterland\nTags: Doom\, Postmetal\, Metal\n\nDOOM TIL FO
- LKET!\nHelvetes Indre Kretser i samarbeid med Audible Music presenterer: \
- nMORPHOLITH (Island) \nDWAAL (Norge)\nGRAVA (Færøyene/Danmark)\nVaterlan
- d\nFredag 6. november 2026\n20:00 // 300.- Ink. avg. // 20år\n\nMORPHOLIT
- H (Island)\nIslandske Morpholith har markert seg tungt siden livedebuten i
-  2017. Året etter ga de ut sin første EP\, «Void Emissions»\, en 30-mi
- nutters sonisk nedstigning til helvetes mest grusomme dyp.\n\nEtter å ha 
- gitt ut sin andre EP\, «Null Dimensions» (2020)\, kom deres første full
- engder i 2024\, «Dystopian Distributions of Mass Produced Narcotics». Mu
- sikken er seig og riffdrevet doom/sludge inspirert av Islands rå og vulka
- nske landskap. Gjør deg klar for seig flytende lava og lukten av svovel n
- år Morpholith inntar Vaterland i høstmørket fredag 6. november.\n\nMorp
- holith har spilt flere konserter på Island og i utlandet\, og dette er de
- res tredje turné i Norge. De har opptrådt på festivaler som Wacken Open
-  Air\, A Colossal Weekend\, Høstsabbat\, Krökbacken Festival\, Sonic Rit
- ual og flere lokale festivaler\, som Iceland Airwaves\, Sátan Metal Festi
- val\, Eistnaflug Metal Festival og ReykjaDoom.\n\nDa Morpholith gjestet H
- østsabbat i 2024\, skrev Disharmonis utsender at «Bandet leverte knusend
- e doom og psykedelisk sludge som fikk veggene til å riste. Anført av Sn
- æbjörn Þór Árnason\, fra blant annet Nyrst\, på vokal gjorde de kryp
- ten om til sin egen lille hule. Neste gang denne gjengen kommer til Norge 
- så er det et sted du bør innfinne deg!».\n\nBandmedlemmene er ansvarlig
-  for mye av det som foregår i den pulserende metalscenen på Island. Side
- n 2018 har de vært vertskap for sin egen festival\, Reykjadoom i Reykjavi
- k (tidligere Doomcember)\, som også er en helårsarrangør av konserter p
- å Island. Her har de booket noen av de gjeveste bandene innenfor doom- og
-  metalsjangeren til Sagaøya\, som High On Fire\, Conan\, Ufomammut og Wee
- deater og Konvent\, samt norske Sâver\, Dwaal og Golden Core.\n\nDWAAL (N
- orge)\nOslo-baserte Dwaal har etablert seg som et av Norges mest kompromis
- sløse og stemningsskapende liveband. Med sin ultra-heavy blanding av slud
- ge\, doom og post-metal skaper de en massiv og oppslukende lydvegg – oft
- e sammenlignet med Amenra\, Neurosis og Cult of Luna.\n\nSiden oppstarten 
- i 2014 har de gitt ut to album på Dark Essence Records. Siste album\, Nev
- er Enough (2023)\, sikret dem en Spellemann-nominasjon i metal. De har spi
- lt på festivaler som Høstsabbat\, Inferno Metal Festival\, Midgardsblot\
- , Beyond the Gates og Mystic Festival.\n\nGRAVA (Færøyene/Danmark)\nGrav
- a spiller knusende tung og atmosfærisk sludge metal\, der bunnløse riff\
- , pulserende bass og dommedagstrommer møter to skittne vokaler. Den fær
- øysk/danske trioen fra København ble dannet i 2020 og ga i 2022 ut debut
- albumet Weight of a God\, som med sin intense skildring av dødsøyeblikke
- t fikk stor oppmerksomhet og havnet på flere topp 10 årslister. De har s
- pilt på blant annet A Colossal Weekend og Uhørt Festival\, samt varmet o
- pp for Ufomammut og Katla.\n\nI 2024 kom oppfølgeren The Great White Noth
- ing. Albumet tar blant annet for seg den katastrofale Franklin-ekspedisjon
- en og andre mørke historiske hendelser\, formidlet i korte\, intense og d
- isiplinerte låter. Resultatet er en fokusert og knusende tung sludge-oppl
- evelse.\n\nTickets: https://www.ticketmaster.no/event/225249250\n
-LOCATION:Vaterland
-SUMMARY:Morpholith + Dwaal + Grava 
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:568d288e-e7b5-42de-94b0-bc6ce1ea3fa4
+DTSTAMP:20261112T063608Z
+UID:405d82b5-1c96-4f02-a36d-6606205c11b7
 DTSTART;TZID=Europe/Oslo:20261121T190000
 DTEND;TZID=Europe/Oslo:20261121T235900
 DESCRIPTION:Venue: Rockefeller\nTags: punk\, rock\n\nAktiv Dödshjelp er kj
@@ -164,8 +92,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:2005b09e-f0da-485d-b21d-d1899b8dad4b
+DTSTAMP:20261112T063608Z
+UID:1f7ccca1-412a-47e5-964c-6f84cee4d6ca
 DTSTART;TZID=Europe/Oslo:20270209T190000
 DTEND;TZID=Europe/Oslo:20270209T235900
 DESCRIPTION:Venue: Rockefeller\nTags: stonermetal\, psychedelicrock\, prog\
@@ -195,8 +123,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:092ec39f-b339-4b12-b7ef-9e129a6310e1
+DTSTAMP:20261112T063608Z
+UID:032e1096-aa89-4f18-951b-52641ae37202
 DTSTART;TZID=Europe/Oslo:20261217T190000
 DTEND;TZID=Europe/Oslo:20261217T220000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Metall\, Heavy Metal\n\n\n\nTic
@@ -208,22 +136,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:b859c120-8796-4197-8915-f4b765e64974
-DTSTART;TZID=Europe/Oslo:20261106T190000
-DTEND;TZID=Europe/Oslo:20261106T220000
-DESCRIPTION:Venue: Parkteatret Scene\nTags: 15-årsjubileum\n\n\n\nTickets:
-  https://www.ticketmaster.no/event/spurv-15-arsjubileum-billetter/87222150
- 9\n
-LOCATION:Parkteatret Scene
-SUMMARY:Spurv 
-X-WR-CALNAME:oslogigguide
-X-WR-TIMEZONE:Europe/Oslo
-X-PUBLISHED-TTL:PT24H
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:8d2d02e9-aef9-4737-930b-11f8bb4ced59
+DTSTAMP:20261112T063608Z
+UID:029c54e9-d805-4d7d-9d9e-0f82336cea43
 DTSTART;TZID=Europe/Oslo:20261113T200000
 DTEND;TZID=Europe/Oslo:20261113T230000
 DESCRIPTION:Venue: Vaterland\nTags: Rock\, Stoner\, Dessertrock\n\nLIVE WIR
@@ -246,8 +160,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:4579c1d4-723b-497c-896f-fbaf1e4c4466
+DTSTAMP:20261112T063608Z
+UID:680926f6-a7ee-4624-9b2f-9ba9a52d0826
 DTSTART;TZID=Europe/Oslo:20261216T200000
 DTEND;TZID=Europe/Oslo:20261216T230000
 DESCRIPTION:Venue: Vaterland\nTags: Postrock\, Rock\, Metal\n\nDe Sveitsisk
@@ -282,8 +196,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:a57e50b3-7d35-43a4-a0a4-7a2c19cdbf50
+DTSTAMP:20261112T063608Z
+UID:aa94b447-ff84-4136-bacb-bd996f39d7a9
 DTSTART;TZID=Europe/Oslo:20261118T190000
 DTEND;TZID=Europe/Oslo:20261118T230000
 DESCRIPTION:Venue: Revolver\nTags: goth\, dark\, batplanet\n\nBlood and Sun
@@ -358,8 +272,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:b5336dcc-826f-4f27-abcb-7b8a7cb77673
+DTSTAMP:20261112T063608Z
+UID:804a9100-7686-4810-aea9-5fa32ed5a903
 DTSTART;TZID=Europe/Oslo:20261113T190000
 DTEND;TZID=Europe/Oslo:20261113T220000
 DESCRIPTION:Venue: BLÅ\nTags: ambient\, experimental\, jazz\n\nAna Roxanne
@@ -381,8 +295,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:6fb73913-e478-40ae-a136-413b92e83a92
+DTSTAMP:20261112T063608Z
+UID:4578c092-9564-4523-887b-5a60ce53bafc
 DTSTART;TZID=Europe/Oslo:20270115T190000
 DTEND;TZID=Europe/Oslo:20270115T235900
 DESCRIPTION:Venue: John Dee\nTags: psychedelicrock\, stonerrock\n\nI 2026 f
@@ -436,8 +350,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:de27ac3f-e7ca-4943-bf70-6a9718070952
+DTSTAMP:20261112T063608Z
+UID:eebb841b-1e94-4871-b29c-2013a184cadc
 DTSTART;TZID=Europe/Oslo:20261212T200000
 DTEND;TZID=Europe/Oslo:20261212T230000
 DESCRIPTION:Venue: Parkteatret Scene\nTags: Dance/Elektronisk\, Club Dance\
@@ -450,8 +364,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:b7f84445-c418-42f6-9773-e05ea3c42caf
+DTSTAMP:20261112T063608Z
+UID:761fd45c-9662-4658-a2d6-baf28b176e5d
 DTSTART;TZID=Europe/Oslo:20270324T190000
 DTEND;TZID=Europe/Oslo:20270324T235900
 DESCRIPTION:Venue: Sentrum Scene\nTags: darksynth\, synthwave\n\nCarpenter 
@@ -482,8 +396,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:44467b78-6fc9-40f7-96b9-6780a12700fa
+DTSTAMP:20261112T063608Z
+UID:352be17e-d8d4-42d2-badc-358367ace06a
 DTSTART;TZID=Europe/Oslo:20261205T190000
 DTEND;TZID=Europe/Oslo:20261205T230000
 DESCRIPTION:Venue: Revolver\nTags: stoner\, psych\, rock\n\nOslo-bandet Sun
@@ -517,8 +431,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:8545c2a5-9b0d-4cef-9b8c-857f0743fb45
+DTSTAMP:20261112T063608Z
+UID:048c8263-dbac-4e64-8210-bbc4490c48de
 DTSTART;TZID=Europe/Oslo:20261112T200000
 DTEND;TZID=Europe/Oslo:20261112T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: Ambient\, Impro\, experimental\n\n
@@ -555,8 +469,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:3d6b9dad-59ee-4c45-a7ed-04e2feb4fec9
+DTSTAMP:20261112T063608Z
+UID:7c0dbf32-489c-4075-b1e5-f58bb48fd421
 DTSTART;TZID=Europe/Oslo:20261121T200000
 DTEND;TZID=Europe/Oslo:20261121T230000
 DESCRIPTION:Venue: KAFÉ HÆRVERK\nTags: film\, experimental\, kunst\n\nNo 
@@ -604,10 +518,10 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:d0dd7b1e-e7fa-4f16-90d9-9aa17d98b0bd
-DTSTART;TZID=Europe/Oslo:20261129T200000
-DTEND;TZID=Europe/Oslo:20261129T230000
+DTSTAMP:20261112T063608Z
+UID:6e50970c-bb38-4684-85f8-626b21c81d87
+DTSTART;TZID=Europe/Oslo:20261128T200000
+DTEND;TZID=Europe/Oslo:20261128T230000
 DESCRIPTION:Venue: Revolver\nTags: hard\, rock\, dark\n\nKommer\n\nTickets:
   https://revolveroslo.ticketco.events/no/nb/e/moowraith__to_the_woods_albu
  m_release__revolver\n
@@ -618,8 +532,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:03464cac-01b6-4798-b156-7cc1f21b62ba
+DTSTAMP:20261112T063608Z
+UID:c4f304a3-6eb3-45bc-bd59-36a15e9ee7fb
 DTSTART;TZID=Europe/Oslo:20270522T190000
 DTEND;TZID=Europe/Oslo:20270522T230000
 DESCRIPTION:Venue: BLÅ\nTags: slowcore\, rock\, indie\n\nCodeine til Norge
@@ -645,8 +559,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:683381c7-7c8d-493d-a164-75b3afa9a892
+DTSTAMP:20261112T063608Z
+UID:023b41ca-741e-410b-af4f-e72f30a70dca
 DTSTART;TZID=Europe/Oslo:20270227T200000
 DTEND;TZID=Europe/Oslo:20270227T230000
 DESCRIPTION:Venue: Vaterland\nTags: Progressive\, Rock\, Shoegaze\n\nEtter 
@@ -674,8 +588,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:5a90674f-8a13-4fdb-99d3-8b6033e2a060
+DTSTAMP:20261112T063608Z
+UID:6476c1aa-39eb-4ee1-8a0f-1b701982adc4
 DTSTART;TZID=Europe/Oslo:20270220T190000
 DTEND;TZID=Europe/Oslo:20270221T000000
 DESCRIPTION:Venue: Mir\nTags: Eksperimentelt\, Elektronisk-Goth-Pop-Dark-Va
@@ -739,8 +653,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:875a1955-3648-4bd0-9af8-07e5d38fb18c
+DTSTAMP:20261112T063608Z
+UID:2e4a206f-8e74-468b-bb82-c08aa6c9a1d6
 DTSTART;TZID=Europe/Oslo:20270306T200000
 DTEND;TZID=Europe/Oslo:20270306T230000
 DESCRIPTION:Venue: Vaterland\nTags: Newwave\, punkrock\, metal\n\nHelvetes 
@@ -783,8 +697,8 @@ X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T062958Z
-UID:a789e0cd-8493-4957-b860-f8cc33c87276
+DTSTAMP:20261112T063608Z
+UID:be11371e-ddd9-4495-a868-2b716b3ec07a
 DTSTART;TZID=Europe/Oslo:20270306T200000
 DTEND;TZID=Europe/Oslo:20270306T230000
 DESCRIPTION:Venue: Revolver\nTags: shoegaze\, darkgaze\n\n\n19. februar sli
@@ -820,6 +734,19 @@ DESCRIPTION:Venue: Revolver\nTags: shoegaze\, darkgaze\n\n\n19. februar sli
  volver\n
 LOCATION:Revolver
 SUMMARY:LUNA MARE // Support: Brostein + Sólstrauman
+X-WR-CALNAME:oslogigguide
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT24H
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T063608Z
+UID:d398be26-3a36-4132-8604-883d9d587402
+DTSTART;TZID=Europe/Oslo:20270408T190000
+DTEND;TZID=Europe/Oslo:20270408T220000
+DESCRIPTION:Venue: Parkteatret Scene\nTags: Rock\, Pop\n\n\n\nTickets: http
+ s://www.ticketmaster.no/event/rosa-faenskap-billetter/19381023\n
+LOCATION:Parkteatret Scene
+SUMMARY:Rosa Faenskap
 X-WR-CALNAME:oslogigguide
 X-WR-TIMEZONE:Europe/Oslo
 X-PUBLISHED-TTL:PT24H
